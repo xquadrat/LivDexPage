@@ -1,0 +1,30 @@
+[
+  {
+    "pokedexNumber": 1,
+    "pokemonName": "Bisasam",
+    "cardName": "Bisasam",
+    "set": "MEG",
+    "setExtra": "",
+    "cardNumber": "133",
+    "language": "Deutsch",
+    "isOwned": true,
+    "foilType": "",
+    "note": "",
+    "targetCardSet": "MEG",
+    "targetCardNumber": "133"
+  },
+  {
+    "pokedexNumber": 3,
+    "pokemonName": "Bisaflor",
+    "cardName": "Mega-Bisaflor-ex",
+    "set": "MEW",
+    "setExtra": "",
+    "cardNumber": "003",
+    "language": "",
+    "isOwned": false,
+    "foilType": "",
+    "note": "",
+    "targetCardSet": "MEG",
+    "targetCardNumber": "155"
+  }
+]
