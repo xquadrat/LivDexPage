@@ -1,0 +1,1026 @@
+pokedexNumber,pokemonName,cardName,setExtra,set,cardNumber,language,note
+1,Bisasam,フシギダネ,,M1L,064,Japanisch,
+2,Bisaknosp,Bisaknosp,,MEG,134,,
+3,Bisaflor,Bisaflor ex,,MEW,003,,
+4,Glumanda,Glumanda,,SVP,044,,
+5,Glutexo,Dark Charmeleon,,TR,032,Englisch,Set unsicher - Rocket
+6,Glurak,Glurak-ex,PPS5,OBF,125,,
+7,Schiggy,Schiggy,,SVP,48,,
+8,Schillok,Dark Wartortle,,TR,46,Englisch,
+9,Turtok,Turtok-ex,,MEW,9,,
+10,Raupy,Raupy,,MEW,10,,
+11,Safcon,Safcon,,MEW,11,,Reverse Holo
+12,Smettbo,Smettbo VMAX,,DAA,2,,
+13,Hornliu,Hornliu,,MEW,13,,
+14,Kokuna,Kokuna,,MEW,14,,
+15,Bibor,Dardargnan V,,ASR,001,Französisch,
+16,Taubsi,Taubsi,PR,MEW,16,,
+17,Tauboga,Tauboga,,OBF,163,,
+18,Tauboss,Pidgeot-V,,LOR,188,Englisch,
+19,Rattfratz,Rattfratz,,MEW,19,,
+20,Rattikarl,Rattikarl,,POR,,,
+21,Habitak,Habitak,,MEW,21,,
+22,Ibitak,Ibitak,,MEG,103,,Reverse Holo
+23,Rettan,Rettan,,MEW,23,,Reverse Holo
+24,Arbok,Arbok-ex,,MEW,24,,
+25,Pikachu,Pikachu,,SVP,27,,
+26,Raichu,Raichu V,PPS3,BRS,45,,
+27,Sandan,Sandan,,MEW,27,,
+28,Sandamer,Sandamer,,MEG,069,,Reverse Holo
+29,Nidoran♀,Team Rockets Nidoran♀,,DRI,114,,
+30,Nidorina,Nidorina,,MEW,30,,
+31,Nidoqueen,Nidoqueen,,MEW,31,,
+32,Nidoran♂,Team Rockets Nidoran♂,,DRI,117,,
+33,Nidorino,Nidorino,,MEW,33,,
+34,Nidoking,Team Rockets Nidoking-ex,,DRI,119,,
+35,Piepi,Lillys Piepi-ex,,JTG,56,,
+36,Pixi,Pixi-ex,,OBF,82,,
+37,Vulpix,Alola Vulpix VSTAR,,SIT,34,,
+38,Vulnona,Vulnona-ex,,MEW,38,,
+39,Pummeluff,Pummeluff,,PFL,76,,Reverse Holo
+40,Knuddeluff,Knuddeluff-ex,,MEW,187,,
+41,Zubat,Team Rockets Zubat,,DRI,120,,Reverse Holo
+42,Golbat,Team Rockets Golbat,,DRI,121,,Reverse Holo
+43,Myrapla,Myrapla,,MEW,43,,Reverse Holo
+44,Duflor,Duflor,,OBF,198,,
+45,Giflor,Giflor,,PFL,3,,Reverse Holo
+46,Paras,Paras,,CRZ,GG32,,
+47,Parasek,Parasek,,LOR,TG1,,
+48,Bluzuk,Bluzuk,,MEW,48,,
+49,Omot,Omot,,MEW,49,,Reverse Holo
+50,Digda,Digda,,MEW,50,,Reverse Holo
+51,Digdri,Digdri,,MEW,51,,Reverse Holo
+52,Mauzi,Mauzi,,PFL,106,,
+53,Snobilikat,Team Rockets Snobilikat-ex,,DRI,150,,
+54,Enton,Enton,,MEW,54,,
+55,Entoron,Entoron,,MEP,008,,Cosmo Holo
+56,Menki,Menki,,PAF,45,,
+57,Rasaff,Rasaff,,PAF,46,,Reverse Holo
+58,Fukano,Fukano,,SVI,30,,Reverse Holo
+59,Arkani,Hisui-Arkani V,,SIT,90,,
+60,Quapsel,Quapsel,,MEW,60,,
+61,Quaputzi,Quaputzi,,MEW,176,,
+62,Quappo,Quappo,,MEW,62,,
+63,Abra,Abra,,PAF,148,,Shiny Holo
+64,Kadabra,Kadabra,,MEW,64,,Cosmo Holo
+65,Simsala,Simsala-ex,,PAF,215,,
+66,Machollo,Machollo,,MEW,66,,
+67,Maschock,Maschock,,MEW,67,,Reverse Holo
+68,Machomei,Machomei,,MEW,68,,
+69,Knofensa,Knofensa,,MEW,69,,
+70,Ultrigaria,Ultrigaria,,MEW,70,,
+71,Sarzenia,Sarzenia,,MEW,71,,Reverse Holo
+72,Tentacha,Tentacha,,MEW,72,,
+73,Tentoxa,Tentoxa,,MEW,73,,
+74,Kleinstein,Alola-Kleinstein,,JTG,44,,Reverse Holo
+75,Georok,Alola-Georok,,GRI,41,,
+76,Geowaz,Geowaz-ex,,MEW,76,,
+77,Ponita,Ponita,,TEF,26,,
+78,Gallopa,Gallopa,,MEW,78,,
+79,Flegmon,Slowpoke,,PGO,19,Englisch,
+80,Lahmus,Lahmus,,SVI,43,,Reverse Holo
+81,Magnetilo,Magnetilo,,MEW,81,,Reverse Holo
+82,Magneton,Magneton,PPS6,SSP,059,,
+83,Porenta,Porenta,,BRS,115,,
+84,Dodu,Dodu,,MEW,84,,
+85,Dodri,Dodri,PPS5,MEW,85,,
+86,Jurob,Seel,,CRZ,29,Englisch,
+87,Jugong,Jugong,,LOR,34,,
+88,Sleima,Sleima,,SVI,126,,Reverse Holo
+89,Sleimok,Muk & Alolan Muk GX,,UNB,196,Englisch,
+90,Muschas,Muschas,,FST,50,,
+91,Austos,Cloyster,,FST,51,Englisch,
+92,Nebulak,Nebulak,,ASC,123,,Galaxy Foil
+93,Alpollo,Alpollo,,PFL,055,,Reverse Holo
+94,Gengar,Gengar,BOO23,LOR,66,Englisch,
+95,Onix,Onix,,CES,71,,Reverse Holo
+96,Traumato,スリープ,,sv1V,38,Japanisch,
+97,Hypno,Hypno,,SIT,61,,
+98,Krabby,Krabby,,MEW,98,,Reverse Holo
+99,Kingler,Kingler,,MEW,99,,
+100,Voltobal,Enigmaras Voltobal,PPS7,JTG,047,,Galaxy Holo
+101,Lektrobal,Hisui-Lektrobal V,,SP,294,,
+102,Owei,Owei,,PAF,23,,
+103,Kokowei,Alola-Kokowei-GX,,CIN,74,,
+104,Tragosso,Tragosso,,MEW,104,,Reverse Holo
+105,Knogga,Alola-Knogga,,JTG,57,,
+106,Kicklee,Kicklee,,MEW,106,,Reverse Holo
+107,Nockchan,Nockchan,,MEW,107,,Reverse Holo
+108,Schlurp,Schlurp,,MEW,108,,
+109,Smogon,Smogon,,MEW,109,,Reverse Holo
+110,Smogmog,Team Rockets Smogmog,,DRI,199,,
+111,Rihorn,Rihorn,,MEW,111,,
+112,Rizeros,Rizeros,,MEW,112,,Reverse Holo
+113,Chaneira,Chaneira,,MEW,113,,Reverse Holo
+114,Tangela,Tangela,,MEG,006,,Reverse Holo
+115,Kangama,Kangaskhan,,DRI,204,Englisch,
+116,Seeper,Seeper,,MEW,116,,
+117,Seemon,Seemon,,PAR,31,,Reverse Holo
+118,Goldini,Goldini,,MEW,118,,Reverse Holo
+119,Golking,Golking,,MEW,119,,Reverse Holo
+120,Sterndu,Sterndu,,BKP,25,,Reverse Holo
+121,Starmie,Starmie,,MEW,121,,Reverse Holo
+122,Pantimos,Pantimos,,PRC,101,,Reverse Holo
+123,Sichlor,Sichlor,,TEF,1,,
+124,Rossana,Rossana,,SIT,TG4,,
+125,Elektek,Elektek,,TEF,53,,
+126,Magmar,Magmar,,BRS,19,,
+127,Pinsir,Pinsir,,TWM,168,,
+128,Tauros,Paldea-Tauros,,PAF,111,,Shiny
+129,Karpador,Karpador,,SVI,44,,
+130,Garados,Garados-ex,,SVI,45,,
+131,Lapras,Lapras-ex,,SCR,32,,
+132,Ditto,Ditto,,CRZ,GG22,,
+133,Evoli,Evoli-ex,PPS7,PRE,075,,
+134,Aquana,Aquana,,SVP,168,,Holo
+135,Blitza,Blitza,PPS7,PRE,030,,
+136,Flamara,Flamara,,SVP,167,,Holo
+137,Porygon,Porygon,,DRI,153,,
+138,Amonitas,Amonitas,,MEW,180,,
+139,Amoroso,Amoroso V,,SIT,35,,
+140,Kabuto,Kabuto,,MEW,140,,
+141,Kabutops,Kabutops,,MEW,141,,
+142,Aerodactyl,Aerodactyl V,,LOR,92,Englisch,
+143,Relaxo,Relaxo,,SVP,51,,
+144,Arktos,フリーザー,,JTG,161,Japanisch,
+145,Zapdos,Zapdos-ex,,SVP,49,,
+146,Lavados,Team Rockets Lavados-ex,,DRI,31,,
+147,Dratini,Dratini,,MEW,147,,Reverse Holo
+148,Dragonir,Dragonir,,OBF,158,,
+149,Dragoran,Dragoran,PPS4,SIT,131,,
+150,Mewtu,Mewtu-ex,,PAR,58,,
+151,Mew,Mew-ex,,PAF,216,,
+152,Endivie,Endivie,,BKP,1,,
+153,Lorblatt,Lorblatt,,NG,29,,
+154,Meganie,Meganie,,MEG,010,,Reverse Holo
+155,Feurigel,Klarins Feurigel,,DRI,32,,
+156,Igelavar,Klarins Igelavar,,DRI,33,,
+157,Tornupto,Hisui-Tornupto V,,SP,237,,
+158,Karnimani,Totodile,,TEF,39,Englisch,
+159,Tyracroc,Tyracroc,,TEF,40,,
+160,Impergator,Impergator,PPS5,TEF,41,,
+161,Wiesor,Sentret,,JTG,118,Englisch,
+162,Wiesenior,Wiesenior,,DAA,136,,
+163,Hoothoot,Hoothoot,,ASR,TG12,,
+164,Noctuh,Noctuh,PPS7,SCR,115,,
+165,Ledyba,Ledyba,,SCR,2,,
+166,Ledian,Ledian,,SCR,3,,
+167,Webarak,Webarak,,PGO,6,,Reverse Holo
+168,Ariados,Ariados,,PGO,7,,Reverse Holo
+169,Iksbat,Team Rockets Iksbat-ex,,DRI,122,,
+170,Lampi,Lampi,,SCR,48,,
+171,Lanturn,Lanturn,,SIT,52,,
+172,Pichu,Klarins Pichu,,DRI,71,,Reverse Holo
+173,Pii,Pii,,OBF,202,,
+174,Fluffeluff,Fluffeluff,,NDI,40,,
+175,Togepi,Togepi Lv.4,,GE,88,,
+176,Togetic,Togetic,,OBF,84,,
+177,Natu,Natu,,ROS,28,,
+178,Xatu,Xatu,PPS5,PAR,72,,
+179,Voltilamm,Team Rockets Voltilamm,,DRI,72,,Reverse Holo
+180,Waaty,Waaty,,SVI,67,,
+181,Ampharos,Ampharos,,EVS,56,,Reverse Holo
+182,Blubella,Blubella,,OBF,3,,Reverse Holo
+183,Marill,Marill,,PAL,44,,
+184,Azumarill,Azumarill,,STS,77,,
+185,Mogelbaum,Mogelbaum,,PAL,109,,
+186,Quaxo,Quaxo,,LOR,32,,
+187,Hoppspross,Hoppspross,,PAL,1,,
+188,Hubelupf,Hubelupf,,PAL,2,,
+189,Papungha,Papungha,,PAL,3,,Reverse Holo
+190,Griffel,Aipom,,PAR,145,Englisch,
+191,Sonnkern,Sonnkern,,SIT,5,,
+192,Sonnflora,Sonnflora,,TWM,7,,
+193,Yanma,Yanma,,CRZ,8,,
+194,Felino,Paldea-Felino,,PAL,221,,
+195,Morlord,Morlord,,NR,48,,
+196,Psiana,Psiana-ex,PPS7,PRE,034,,
+197,Nachtara,Nachtara-ex,PPS7,PRE,060,,
+198,Kramurx,Murkrow,BOO23,PAL,131,Englisch,
+199,Laschoking,Laschoking,,SCR,58,,Reverse Holo
+200,Traunfugil,Traunfugil,,PFL,035,,Reverse Holo
+201,Icognito,Icognoti VSTAR,,SIT,199,,
+202,Woingenau,Team Rockets Woingenau,,SVP,203,,
+203,Girafarig,Girafarig,,PAL,154,,Reverse Holo
+204,Tannza,Tannza,,SVI,1,,
+205,Forstellka,Forstellka-ex,,PAL,230,,
+206,Dummisel,ノコッチ,,s12a,198,Japanisch,
+207,Skorgla,Skorgla,,PFL,49,,Reverse Holo
+208,Stahlos,Stahlos,,PGO,44,,Reverse Holo
+209,Snubbull,Snubbull,,OBF,87,,Reverse Holo
+210,Granbull,Granbull,,PFL,038,,Reverse Holo
+211,Baldorfish,Baldorfish,,CRE,101,,Reverse Holo
+212,Scherox,Scherox,,OBF,205,,
+213,Pottrott,Pottrott,,MEG,011,,
+214,Skaraborn,Skaraborn,,SVI,2,,
+215,Sniebel,Sniebel,,PAL,133,,
+216,Teddiursa,Teddiursa,,EVS,126,,Reverse Holo
+217,Ursaring,Ursaring,,EVS,127,,Reverse Holo
+218,Schneckmag,Schneckmag,,TEF,28,,
+219,Magcargo,Klarins Magcargo,PPS8,DRI,036,,
+220,Quiekel,Quiekel,,JTG,165,,
+221,Keifel,Keifel,,JTG,78,,Reverse Holo
+222,Corasonn,Galar-Corasonn,,RCL,78,,
+223,Remoraid,Remoraid,,PAR,33,,
+224,Octillery,Octillery,,BRS,TG03,,
+225,Botogel,Botogel,,MEG,105,,
+226,Mantax,Mantine,,FST,61,,
+227,Panzaeron,Panzaeron,,OBF,142,,Reverse Holo
+228,Hunduster,Team Rockets Hunduster,,DRI,37,,
+229,Hundemon,ヘルガー,,SV1V,18,Japanisch,
+230,Seedraking,Seedraking-ex,,SFA,80,,
+231,Phanpy,Phanpy,,SIT,91,,
+232,Donphan,Donphan,,PAF,49,,
+233,Porygon2,Porygon2,,PAR,143,,Reverse Holo
+234,Damhirplex,Damhirplex,,ASR,125,,Calendar Holo Promo
+235,Farbeagle,Farbeagle,,SIT,TG10,,
+236,Rabauz,Rabauz,,MEG,072,,Reverse Holo
+237,Kapoera,Hitmontop,,BRS,072,Englisch,
+238,Kussilla,Kussilla,,SSP,075,,
+239,Elekid,Elekid,,PAR,059,,
+240,Magby,Magby,,NG,023,,
+241,Miltank,Miltank,,PAR,147,,
+242,Heiteira,Heiteira-ex,,TWM,201,,
+243,Raikou,Raikou-V,,BRS,048,,
+244,Entei,Entei-V,,BRS,022,,
+245,Suicune,Suicune,,PRE,024,,Reverse Holo
+246,Larvitar,Team Rockets Larvitar,,DRI,094,,
+247,Pupitar,Pupitar,,PAL,111,,
+248,Despotar,Despotar-ex,,OBF,211,,
+249,Lugia,Lugia VSTAR,,SIT,139,,
+250,Ho-oh,Klarins Ho-Oh-ex,PPS7,DRI,039,,
+251,Celebi,Celebi,,SHF,003,,Reverse Holo
+252,Geckarbor,Geckarbor Lv.11,,STF,079,,
+253,Reptain,Reptain Lv.23,,STF,039,,
+254,Gewaldro,Gewaldro Lv.57,,AR,030,,
+255,Flemmli,Flemmli,,CES,026,,Reverse Holo
+256,Jungglut,Combusken,,JTG,023,Englisch,
+257,Lohgock,Lohgock-ex,,JTG,024,,
+258,Hydropi,Mudkip,,CG,058,,
+259,Moorabbel,Moorabbel,,FST,063,,
+260,Sumpex,ラグラージ,,S6A,021,Japanisch,
+261,Fiffyen,Fiffyen,,TEF,105,,
+262,Magnayen,Mightyena,,ASR,TG09,Englisch,
+263,Zigzachs,Zigzachs,,PFL,081,,Reverse Holo
+264,Geradaks,Geradaks,,OBF,168,,Reverse Holo
+265,Waumpel,Waumpel,,LOR,006,,
+266,Schaloko,Schaloko Lv.8,,DP,063,,
+267,Papinella,Papinella,,LOR,008,,Reverse Holo
+268,Panekon,Panekon,,LOR,009,,
+269,Pudox,Pudox,,ROS,008,,
+270,Loturzel,Loturzel,,JTG,035,,
+271,Lombrero,Lombrero,,RCL,008,,
+272,Kappalores,Kappalores,,PFL,007,,Reverse Holo
+273,Samurzel,Samurzel,,TEF,003,,
+274,Blanas,Blanas,,TEF,004,,
+275,Tengulist,Tengulist,,TEF,005,,
+276,Schwalbini,Schwalbini,,DRI,156,,
+277,Schwalboss,Schwalboss,,VIV,134,,
+278,Wingull,Wingull,,PAL,158,,
+279,Pelipper,Pelipper,,PAL,159,,
+280,Trasla,Trasla,,MEG,058,,Cosmo Holo
+281,Kirlia,Kirlia,PPS4,SIT,068,,
+282,Guardevoir,Guardevoir,,SIT,TG05,,
+283,Gehweiher,Gehweier,,OBF,006,,
+284,Maskeregen,Maskeregen,,PAR,002,,
+285,Knilz,Knilz,,TEF,006,,
+286,Kapilz,Kapilz,,SVI,004,,
+287,Bummelz,Bummelz,,PAL,160,,
+288,Muntier,Muntier,,PAL,161,,
+289,Letarking,Letarking-ex,,SSP,147,,
+290,Nincada,Nincada,,DX,067,,
+291,Ninjask,Ninjask,,MEG,137,,
+292,Ninjatom,Ninjatom,,MEG,144,,
+293,Flurmel,Flurmel,,PAR,148,,
+294,Krakeelo,Krakeelo,,PAR,149,,
+295,Krawumms,Krawumms,,PAR,150,,
+296,Makuhita,Makuhita,,PAL,112,,
+297,Hariyama,Hariyama,,PAL,113,,
+298,Azurill,Azurill,,CEC,146,,
+299,Nasgnet,Nasgnet,,OBF,107,,Reverse Holo
+300,Eneco,Eneco,,TEF,130,,
+301,Enekoro,Delcatty,,FST,211,Englisch,
+302,Zobiris,Zobiris,,LOR,070,,
+303,Flunkifer,Flunkifer VSTAR,,SIT,071,,
+304,Stollunior,Team Magmas Stollunior,,MA,058,,
+305,Stollrak,Stollrak,,TWM,121,,
+306,Stolloss,Stolloss,,TWM,122,,
+307,Meditie,Meditie,,SIT,072,,
+308,Meditalis,Meditalis-ex,,SCR,161,,
+309,Frizelbliz,Frizelbliz,,CES,051,,
+310,Voltenso,Voltenso,,DRI,076,,
+311,Plusle,Plusle,,PAR,060,,
+312,Minun,Minun,,PAR,061,,
+313,Volbeat,Volbeat,,TWM,009,,
+314,Illumise,Illumise,,TWM,010,,
+315,Roselia,Roselia,,TEF,008,,
+316,Schluppuck,Schluppuck Lv.21,,AR,040,,
+317,Schlukwech,Schlukwech,,SCR,092,,
+318,Kanivanha,Kanivanha,,PFL,060,,
+319,Tohaido,Mega Sharpedo ex,,PFL,113,Englisch,
+320,Wailmer,Wailmer,,JTG,040,,Reverse Holo
+321,Wailord,Wailord,,JTG,041,,
+322,Camaub,Camaub,,ASC,223,,
+323,Camerupt,Camerupt,,PAF,012,,
+324,Qurtel,Qurtel,,SVI,035,,
+325,Spoink,Spoink,,FCO,030,,
+326,Groink,Groink,,OBF,091,,
+327,Pandir,Pandir,,PAR,151,,
+328,Knacklion,Knacklion,,SSP,104,,
+329,Vibrava,Vibrava,,PFL,052,,
+330,Libelldra,Libelldra-ex,,SSP,222,,
+331,Tuska,Tuska,,SVI,005,,
+332,Noktuska,Noktuska,,SVI,006,,
+333,Wablu,Wablu,,CRZ,GG27,,
+334,Altaria,Altaria,,SIT,TG11,,
+335,Sengo,Sengo,,SVI,147,,Reverse Holo
+336,Vipitis,Vipitis,,SVI,128,,Reverse Holo
+337,Lunastein,ルナトーン,,S12A,184,Japanisch,
+338,Sonnfel,Sonnfel,,CRZ,GG15,,
+339,Schmerbe,Schmerbe,,PAF,050,,
+340,Welsar,Welsar,,OBF,109,,
+341,Krebscorps,Krebscorps,,TWM,047,,
+342,Krebutack,Krebutack,,TWM,048,,
+343,Puppance,Team Magmas Puppance,,MA,060,,
+344,Lepumentas,Lepumentas,,OBF,095,,
+345,Liliep,Liliep,,SCR,145,,
+346,Wielie,Wielie,,SCR,006,,
+347,Anorith,Anorith,,SIT,095,,
+348,Armaldo,Armaldo,,SIT,096,,
+349,Barschwa,Barschwa,,SSP,041,,Reverse Holo
+350,Milotic,Milotic-ex,,SSP,042,,
+351,Formeo,Formeo Regenform,,CRE,033,,Reverse Holo
+352,Kecleon,Kecleon,,CRE,122,,
+353,Shuppet,Shuppet,BOO,SVI,087,englisch,
+354,Banette,Banette-ex,,SVI,088,,
+355,Zwirrlicht,Duskull,BOO,VIV,069,englisch,
+356,Zwirrklop,Zwirrklop,PPS7,SFA,019,,
+357,Tropius,Tropius,,PAL,195,,
+358,Palimpalim,Chimecho,,TWM,179,,
+359,Absol,Absol-ex,,OBF,214,,
+360,Isso,Isso,,UNM,077,,
+361,Schneppke,Schneppke,,TWM,051,,
+362,Firnontor,Firnontor,,SIT,042,,
+363,Seemops,Seemops,,SSP,043,,
+364,Seejong,Seejong,,SSP,044,,Reverse Holo
+365,Walraisa,Walraisa,,SSP,045,,
+366,Perlu,Perlu,,FST,065,,Reverse Holo
+367,Aalabyss,Aalabyss,,FST,066,,
+368,Saganabyss,Saganabyss,,FST,067,,
+369,Relicanth,Relicanth,,TEF,084,,
+370,Liebiskus,Liebiskus,,PAL,047,,
+371,Kindwurm,Kindwurm,,CES,104,,Reverse Holo
+372,Draschel,Draschel,,EVS,108,,Reverse Holo
+373,Brutalanda,Brutalanda,,EVS,109,,Reverse Holo
+374,Tanhel,Troys Tanhel,,DRI,143,,
+375,Metang,Metang,PPS6,TEF,114,,Cosmo Holo
+376,Metagross,Troys Metagross-ex,,DRI,145,,
+377,Regirock,Regirock-ex,,DRI,214,,
+378,Regice,Regice,PPS3,ASR,037,,
+379,Registeel,Registeel,,SSP,125,,
+380,Latias,Latias-ex,,SSP,220,,
+381,Latios,Latios,PPS_,MEG,101,,Cosmo Holo
+382,Kyogre,Kyogre,PPS4,CRZ,036,,Cosmo Holo
+383,Groudon,Groudon,PPS5,PAR,093,,
+384,Rayquaza,Rayquaza VMAX,,SIT,TG29,,
+385,Jirachi,Jirachi,PPS5,PAR,126,,Cosmo Holo
+386,Deoxys,Deoxys,,FST,120,,
+387,Chelast,Chelast,,UPR,006,,Reverse Holo
+388,Chelcarain,Chelcarain,,TEF,011,,
+389,Chelterrar,Chelterrar-ex,,TEF,185,,
+390,Panflam,Panflam,,TWM,031,,
+391,Panpyro,Panpyro,,BRS,025,,Reverse Holo
+392,Panferno,Panferno,,TWM,033,,
+393,Plinfa,Plinfa,,PFL,027,,Reverse Holo
+394,Pliprin,Pliprin Lv.20,,DP,058,,
+395,Impoleon,Impoleon-ex,,PFL,114,,
+396,Staralili,Staralili,,SVI,148,,Reverse Holo
+397,Staravia,Staravia,,SVI,149,,Reverse Holo
+398,Staraptor,Staraptor,,SVI,150,,
+399,Bidiza,Bidiza,,CRZ,111,,
+400,Bidifas,Bidifas,,CRZ,GG25,,
+401,Zirpurze,Zirpurze,,CRZ,010,,
+402,Zirpeise,Zirpeise,,CRZ,GG02,,
+403,Sheinux,Sheinux,,PAL,068,,
+404,Luxio,Luxio,,BRS,050,,
+405,Luxtra,Luxtra V,,ASR,050,,
+406,Knospi,Knospi,,PRE,004,,
+407,Roserade,Cynthias Roserade,PPS8,DRI,008,,Cosmo Foil
+408,Koknodon,Koknodon,,UPR,064,,
+409,Rameidon,Rameidon,,ASR,077,,
+410,Schilterus,Schilterus,,ASR,109,,
+411,Bollterus,Bollterus Lv.56,,PL,020,,Reverse Holo
+412,Burmy,Burmy,,BRS,009,,Reverse Holo
+413,Burmadame,Burmadame,,BRS,077,,
+414,Moterpel,Moterpel,,BRS,011,,Reverse Holo
+415,Wadribie,Wadribie,,PAL,008,,
+416,Honweisel,Honweisel-ex,,OBF,212,,
+417,Pachirisu,Pachirisu,,MEG,051,,Reverse Holo
+418,Bamelin,Bamelin,,OBF,048,,
+419,Bojelin,Bojelin,,SVI,047,,Reverse Holo
+420,Kikugi,Kikugi,,CRZ,011,,
+421,Kinoso,Kinoso Lv. 30,,STF,014,,Reverse Holo
+422,Schalellos,Schalellos,,SSP,046,,Reverse Holo
+423,Gastrodon,Gastrodon,PPS7,SSP,107,,
+424,Ambidiffel,Ambidiffel,,PFL,079,,Reverse Holo
+425,Driftlon,Driftlon,PPS4,SVI,089,,
+426,Drifzepeli,Drifzepeli,,SVP,135,,
+427,Haspiror,Buneary,,MEG,107,,Reverse Holo
+428,Schlapor,Schlapor,,SIT,145,,
+429,Traunmagil,Traunmagil-ex,,PFL,036,,
+430,Kramshef,Kramshef,,PFL,058,,Reverse Holo
+431,Charmian,Charmian,,SCR,116,,
+432,Shnurgast,Shnurgast,,SCR,117,,
+433,Klingplim,Team Rockets Klingplim,,DRI,085,,
+434,Skunkapuh,Skunkapuh Lv.18,,STF,076,,
+435,Skuntank,Skuntank V,,SIT,108,,
+436,Bronzel,Bronzel,,TEF,068,,
+437,Bronzong,Bronzong,,OBF,145,,
+438,Mobai,Mobai,,OBF,110,,Reverse Holo
+439,Pantimimi,Pantimimi,,PAF,031,,Reverse Holo
+440,Wonneira,Wonneira Lv.5,,PL,076,,
+441,Plaudagei,Plaudagei,,TEF,181,,
+442,Kryppuk,Kryppuk,,SVI,129,,
+443,Kaumalat,Kaumalat,,PAR,094,,
+444,Knarksel,Cynthias Knarksel,PPS8,DRI,103,,
+445,Knakrack,Knakrack-ex,PPS5,PAR,038,,
+446,Mampfaxo,Mampfaxo Lv.7,,MD,068,,(mit Schneeflocke)
+447,Riolu,Riolu,,MEG,076,,Cosmo Holo
+448,Lucario,Mega-Lucario ex,,MEG,077,,
+449,Hippopotas,Hippopotas Lv.23,,DP,051,,
+450,Hippoterus,Hippoterus,,PRE,053,,Pokéball Reverse Holo
+451,Pionskora,Pionskora,,TM,076,,
+452,Piondragi,Piondragi V,,LOR,118,,
+453,Glibunkel,Glibunkel,,PAL,114,,
+454,Toxiquak,Toxiquak-ex,,SVI,232,,
+455,Venuflibis,Venuflibis,,SCR,007,,Reverse Holo
+456,Finneon,Finneon,,LOR,040,,
+457,Lumineon,Luminoen V,,BRS,040,,
+458,Mantirps,Mantirps,,PAR,039,,
+459,Shnebedeck,Shnebedeck,,PAL,010,,
+460,Rexblisar,Mega-Rexblisar ex,PPS8,MEG,036,,
+461,Snibunna,Weavile,,SFA,014,Englisch ,
+462,Magnezone,Magnezone-ex,,SVI,065,,
+463,Schlurplek,Schlurplek,,TEF,125,,
+464,Rihornior,Rihornior,,SCR,076,,
+465,Tangoloss,Tangoloss,,TWM,002,,
+466,Elevoltek,Elevoltek,,TEF,054,,
+467,Magbrant,Magbrant,,PAF,010,,
+468,Togekiss,Togekiss,,OBF,085,,
+469,Yanmega,Yanmega-ex ,,DRI,206,,
+470,Folipurba,Folipurba-ex,PPS7,PRE,006,,
+471,Glaziola,Glaziola-ex,PPS7,PRE,026,,
+472,Skorgro,Skorgro,,PAR,092,,Reverse Holo
+473,Mamutel,Mamutel-ex,,JTG,174,,
+474,Porygon,Porygon-Z,,LOR,142,,Reverse Holo
+475,Galagladi,Galagladi,PPS3,ASR,062,,
+476,Voluminas,Voluminas,,OBF,146,,
+477,Zwirrfinst,Zwirrfinst,PPS7,SFA,020,,Galaxy Holo
+478,Frosdedje,Frosdedje,PPS6,TWM,053,,
+479,Rotom,Rotom V,,LOR,058,,
+480,Selfe,Selfe,,ASR,065,,
+481,Vesprit,Vesprit,,SSP,079,,Reverse Holo
+482,Tobutz,Tobutz,,ASR,067,,
+483,Dialga,Origin Forme Dialga V,,SWSH,255,Englisch,
+484,Palkia,Ur-Palkia VSTAR,,ASR,040,,
+485,Heatran,Heatran,PPS6,TWM,123,,Cosmo Holo
+486,Regigigas,Regigigas,PPS7,PRE,086,,
+487,Giratina,Giratina VSTAR,PPS4,LOR,131,,
+488,Cresselia,Cresselia,,SFA,021,,
+489,Phione,Phione,,TWM,055,,Reverse Holo
+490,Manaphy,Manaphy,,CRZ,GG06,,
+491,Darkrai,Darkrai,,OBF,136,,
+492,Shaymin,Shaymin,,DRI,010,,
+493,Arceus,Arceus VSTAR,,SWSH,307,,
+494,Victini,Victini,,SIT,023,,
+495,Serpifeu,Serpifeu,,BLK,001,,
+496,Efoserp,Efoserp,,BLK,002,,
+497,Serpiroyal,Serpiroyal VSTAR,,SIT,008,,
+498,Floink,Floink,,WHT,011,,
+499,Ferkokel,Ferkokel,,WHT,012,,
+500,Flambirex,Flambirex,PPS_,WHT,013,,Cosmo Foil
+501,Ottaro,Oshawott,,ASR,041,Englisch,
+502,Zwottronin,Dewott,,ASR,042,Englisch,
+503,Admurai,Hisui-Admurai,,ASR,100,,
+504,Nagelotz,Nagelotz,,WHT,072,,
+505,Kukmarda,Kukmarda,,WHT,073,,Pokéball Reverse Holo
+506,Yorkleff,Yorkleff,,OBF,170,,
+507,Terribark,Terribark,,OBF,171,,
+508,Bissbark,Bissbark,,WHT,076,,Pokéball Reverse Holo
+509,Felilou,Marys Felilou,,DRI,130,,
+510,Kleoparda,Kleoparda,,WHT,056,,Pokéball Reverse Holo
+511,Vegimak,Vegimak,,PAR,004,,
+512,Vegichita,Vegichita,,FST,008,,
+513,Grillmak,Grillmak,,PAR,020,,
+514,Grillchita,Grillchita,,PAR,021,,
+515,Sodamak,Sodamak,,PAR,041,,Reverse Holo
+516,Sodachita,Sodachita,,PAR,042,,
+517,Somniam,Somniam,,FST,121,,
+518,Somnivora,Somnivora,,FST,FST,,
+519,Dusselgurr,Dusselgurr,,PGO,061,,Reverse Holo
+520,Navitaub,Navitaub,,PGO,062,,Reverse Holo
+521,Fasasnob,Unfezant,,PGO,063,Englisch,
+522,Elezeba,Blitzle,,PAR,062,Englisch,
+523,Zebritz,Zebritz,,PAR,063,,
+524,Kiesling,Roggenrola,,EVS,086,,Reverse Holo
+525,Sedimantur,Sedimantur,,SUM,070,,Reverse Holo
+526,Brockoloss,Brockoloss,,EVS,088,,Reverse Holo
+527,Fleknoil,Fleknoil,,WHT,036,,Pokéball Reverse Holo
+528,Fletiamo,Fletiamo,,PAF,033,,
+529,Rotomurf,Rotomurf,PPS7,TEF,085,,Galaxy Holo
+530,Stalobor,Stalobor,,OBF,147,,
+531,Ohrdoch,Ohrdoch,,OBF,173,,Reverse Holo
+532,Praktibalk,Praktibalk,,TWM,183,,
+533,Strepoli,Strepoli,,TWM,104,,
+534,Meistagrif,Meistagrif,,BLK,049,,
+535,Schallquap,Schallquap,,OBF,050,,
+536,Mebrana,Mebrana,,OBF,051,,
+537,Branawarz,Branawarz,,OBF,052,,
+538,Jiutesto,Jiutesto,,BRS,080,,
+539,Karadonis,Karadonis,,BRS,081,,
+540,Strawickl,Strawickl,,WHT,001,,
+541,Folikon,Folikon,,UNM,008,,
+542,Matrifol,Matrifol,,FST,011,,
+543,Toxiped,Toxiped,,TWM,115,,
+544,Rollum,Rollum,,TWM,116,,
+545,Cerapendra,Cerapendra,,TWM,117,,
+546,Waumboll,Waumboll,,PAF,034,,
+547,Elfun,Elfun VSTAR,,BRS,065,,
+548,Lilminip,Lilminip,,JTG,006,,
+549,Dressella,Dressella,,JTG,007,,
+550,Barschuft,Hisui-Barschuft,PPS3,ASR,043,,
+551,Ganovil,Ganovil,,SVI,115,,Reverse Holo
+552,Rokkaiman,Rokkaiman,,SIT,112,,
+553,Rabigator,Rabigator,,PFL,066,,Reverse Holo
+554,Flampion,Flampion,,OBF,034,,Reverse Holo
+555,Flampivian,Ns Flampivian,,JTG,027,,
+556,Maracamba,Maracamba,,JTG,008,,
+557,Lithomith,Lithomith,,DRI,011,,
+558,Crustle,Castellith,,DRI,186,Englisch,
+559,Zurrokex,Zurrokex,,PAF,060,,Reverse Holo
+560,Irokex,Marys Irokex,,DRI,133,,Reverse Holo
+561,Symvolara,Symvolara,,SSP,081,,
+562,Makabaja,Makabaja,,SSP,082,,
+563,Echnatoll,Echnatoll,,SSP,083,,Reverse Holo
+564,Galapaflos,Galapaflos,,SCR,037,,Reverse Holo
+565,Karippas,Karippas,,SCR,038,,
+566,Flapteryx,Flapteryx,,SIT,146,,
+567,Aeropteryx,Aeropteryx,PPS4,SIT,147,,
+568,Unratütox,Unratütox,,PAR,116,,
+569,Deponitox,Garbodor VMAX,,EVS,101,,
+570,Zorua,Ns Zorua,,SVP,189,,
+571,Zoroark,Ns Zoroark-ex,,JTG,175,Englisch,
+572,Picochilla,Picochilla,,TEF,136,,
+573,Chillabell,Chillabell,,TEF,137,,
+574,Mollimorba,Mollimorba,,WHT,124,,
+575,Hypnomorba,Hypnomorba,,PAL,091,,
+576,Morbitesse,Morbitesse,,SVP,221,,
+577,Monozyto,Monozyto,,TEF,070,,
+578,Mitodos,Mitodos,,SIT,077,,
+579,Zytomega,Zytomega,,SVP,212,,
+580,Piccolente,Piccolente,,TWM,139,,
+581,Swaroness,Swaroness,,TWM,140,,
+582,Gealtini,Gealtini,,PAR,043,,
+583,Gelatroppo,Gelatroppo,,WHT,028,,Meisterball Reverse Holo
+584,Gelatwino,Gelatwino,,PAR,045,,
+585,Sesokitz,Sesokitz,,TEF,165,,
+586,Kronjuwild,Kronjuwild,,TEF,017,,Reverse Holo
+587,Emolga,Emolga,,SIT,054,,
+588,Laukaps,Laukaps,,CIN,007,,Reverse Holo
+589,Cavalanzas,Cavalanzas,,BRS,101,,Reverse Holo
+590,Tarnpignon,Tarnpignon,,SIT,011,,
+591,Hutsassa,Hutsassa-ex,,JTG,011,,
+592,Quabbel,Quabbel,,WHT,044,,Meisterball Reverse Holo
+593,Apoquallyp,Apoquallyp-ex,,WHT,160,,
+594,Mamolida,Mamolida,,SVI,048,,
+595,Wattzapf,Wattzapf,PPS7,SCR,050,,Galaxy Holo
+596,Voltula,Voltula-ex,PPS6,SCR,051,,
+597,Kastadur,Kastadur,,SIT,121,,
+598,Tentantel,Tentantel,,PAR,128,,
+599,Klikk,Klikk,,SIT,123,,
+600,Kliklak,Kliklak,,SIT,124,,
+601,Klikdiklak,Klikdiklak,,SIT,125,,
+602,Zapplardin,Zapplardin,,OBF,067,,
+603,Zapplalek,Zapplalek,PPS8,BLK,031,,Cosmo Foil
+604,Zapplarang,Zapplarang,,OBF,069,,
+605,Pygraulon,Pygraulon,,TEF,073,,
+606,Megalon,Megalon,,SIT,080,,
+607,Lichtel,Lichtel,,OBF,036,,
+608,Laternecto,Laternecto,,TWM,037,,
+609,Skelabra,Skelabra,,TWM,038,,
+610,Milza,Axew,,SFA,044,,
+611,Sharfax,Fraxure,,SFA,045,,Reverse Holo
+612,Maxax,Maxax,,SFA,046,,Reverse Holo
+613,Petznief,Petznief,,OBF,053,,
+614,Siberio,Siberio,,OBF,054,,
+615,Frigometri,Frigometri,,OBF,055,,
+616,Schnuthelm,Schnuthelm,,FST,013,,
+617,Hydragil,Hydragil,,JTG,013,,Reverse Holo
+618,Flunschlik,Flunschlik,,SSP,202,,
+619,Lin-Fu,Lin-Fu,,PAR,096,,
+620,Wie-Shu,Wie-Shu,,PAR,097,,Reverse Holo
+621,Shardrago,Shardrago,,SIT,TG09,,
+622,Golbit,Golbit,,TEF,087,,Reverse Holo
+623,Golgantes,Golgantes,,BRS,083,,
+624,Gladiantri,Gladiantri,,OBF,148,,Reverse Holo
+625,Caesurio,Caesurio,,SVI,133,,
+626,Bisofank,Bisofank,PPS6,SCR,119,,Cosmo Holo
+627,Geronimatz,Geronimatz,,SIT,148,,
+628,Washakwil,Washakwil,,SSP,153,,
+629,Skallyk,Skallyk,,WHT,063,,
+630,Grypheldis,Grypheldis,,WHT,064,,
+631,Furnifraß,Furnifraß,,TEF,031,,
+632,Fermicula,Fermicula-ex,,SSP,215,,
+633,Kapuno,Kapuno,,PAL,138,,
+634,Duodino,Duodino,,PAL,139,,
+635,Trikephalo,Trikephalo-ex,,SSP,119,,
+636,Ignivor,Ignivor,,OBF,040,,
+637,Ramoth,Ramoth,,OBF,041,,
+638,Kobalium,Kobalium,,SIT,126,,
+639,Terrakium,Terrakium,,SIT,097,,
+640,Viridium,Viridium,,SIT,014,,
+641,Boreos,Boreos,,SVP,210,,
+642,Voltolos,Voltolos,,OBF,070,,
+643,Reshiram,Reshiram V,,SIT,024,,
+644,Zekrom,Pikachu & Zekrom GX,,TEU,033,,
+645,Demeteros,Demeteros,,SSP,110,,
+646,Kyurem,Kyurem VMAX,,LOR,049,,
+647,Keldeo,Keldeo,,SCR,GG07,,
+648,Meloetta,Meloetta-ex,,BLK,044,,
+649,Genesect,Genesect,PPS6,SFA,040,,Galaxy Holo
+650,Igamaro,,,,,,
+651,Igastarnish,,,,,,
+652,Brigaron,Brigaron V,,SIT,171,,
+653,Fynx,Fynx,,SIT,025,,
+654,Rutena,Rutena,,SIT,026,,
+655,Fennexis,Fennexis V,,LOR,173,,
+656,Froxy,Froxy,,OBF,056,,
+657,Amphizel,Amphizel,,OBF,057,,
+658,Quajutsu,Quajutsu-ex,PPS7,TWM,106,,
+659,Scoppel,Scoppel,,OBF,175,,
+660,Grebbit,Grebbit,,OBF,113,,Reverse Holo
+661,Dartiri,Dartiri,,PAL,163,,
+662,Dartignis,Dartignis,,SIT,028,,
+663,Fiaro,Fiaro,,SCR,123,,
+664,Purmel,Purmel,,SVI,008,,
+665,Puponcho,Puponcho,,SVI,009,,
+666,Vivillon,Vivillon,,SVI,010,,
+667,Leufeo,Leufeo,,PAL,031,,
+668,Pyroleo,Pyroleo,,PAL,032,,
+669,Flabébé,Flabébé,,SVI,091,,Reverse Holo
+670,Floette,Floette,,SVI,092,,
+671,Florges,Florges,,SVI,093,,
+672,Mähikel,Mähikel,,SVI,011,,
+673,Chevrumm,Chevrumm,,SVI,012,,Reverse Holo
+674,Pam-Pam,Pam-Pam,,SCR,085,,Reverse Holo
+675,Pandagro,Pandagro,,SCR,093,,
+676,Coiffwaff,Coiffwaff,,SFA,051,,Reverse Holo
+677,Psiau,Psiau,,SIT,081,,
+678,Psiaugon,Psiaugon,,SSP,085,,
+679,Gramokles,Honedge,,PAR,131,Englisch,
+680,Duokles,Duokles,,PAR,132,,
+681,Durengard,Durengard,,PAR,210,,
+682,Parfi,Parfi,,PRE, ,,Pokéball Reverse Holo
+683,Parfinesse,Parfinesse,,PRE,039,,Pokéball Reverse Holo
+684,Flauschling,Flauschling,,SIT,083,,
+685,Sabbaione,Sabbaione,,TWM,090,,
+686,Iscalar,Inkay,,SFA,033,,
+687,Calamanero,Calamanero,,SIT,TG06,,
+688,Bithora,Bithora,,FCO,022,,Reverse Holo
+689,Thanathora,Thanathora,,LOR,107,,
+690,Algitt,Algitt,,CRZ,081,,
+691,Tandrak,Tandrak,,CRZ,082,,
+692,Scampisto,Scampisto,,SVI,049,,Reverse Holo
+693,Wummer,Wummer,,SVI,050,,Reverse Holo
+694,Eguana,Eguana,,FST,098,,
+695,Elezard,Elezard,,TWM,177,,
+696,Balgoras,,,,,,
+697,Monargoras,,,,,,
+698,Amarino,,,,,,
+699,Amagarga,,,,,,
+700,Feelinara,Feelinara-ex,,SSP,086,,
+701,Resladero,Resladero,,SVI,118,,
+702,Dedenne,Dedenne,,BRS,TG07,,
+703,Rocara,Rocara,,LOR,108,,
+704,Viscora,Viscora,,LOR,132,,
+705,Viscargot,Viscargot,,FST,196,,
+706,Viscogon,Hisui-Viscogon VSTAR,PPS4,LOR,136,,
+707,Clavion,Clavion,PPS4,SVI,096,,
+708,Paragoni,Paragoni,,OBF,011,,
+709,Trombork,대로트 V,,S7R,068,Koreanisch,
+710,Irrbis,Pumpkaboo,,PAR,077,,
+711,Pumpdjinn,Pumpdjinn,,PAR,078,,
+712,Arktip,Arktip,,EVS,044,,Reverse Holo
+713,Arktilas,Hisuian Avalugg,,ASR,048,,
+714,eF-eM,eF-eM,,PAF,068,,
+715,UHaFnir,UHaFnir-ex,PPS4,PAL,153,,
+716,Xerneas,ゼルネアス,,S8A,012,Japanisch,Reverse Holo
+717,Yveltal,Yveltal,,MEG,088,,Reverse Holo
+718,Zygarde,Zygarde,,SIT,134,,
+719,Diancie,Diancie,,CRZ,GG13,,
+720,Hoopa,Hoopa-ex,,PAR,098,,
+721,Volcanion,Volcanion-ex,,JTG,171,Englisch,
+722,Bauz,Bauz,,OBF,013,,
+723,Arboretoss,Arboretoss,,SFA,004,,Reverse Holo
+724,Silvarro,Decidueye,,SFA,005,Englisch,Reverse Holo
+725,Flamiau,Flamiau,,TEF,167,,
+726,Miezunder,Miezunder,,SIT,031,,
+727,Fuegro,Fuegro-ex,,TEF,034,,
+728,Robball,Robball,,MCD25,023,,
+729,Marikeck,Marikeck,,SUM,040,,
+730,Primarene,,,,,,
+731,Peppeck,,,,,,
+732,Trompeck,Trompeck,,SUM,107,,
+733,Tukanon,,,,,,
+734,Mangunior,Mangunior,,OBF,176,,
+735,Manguspektor,Manguspektor,,OBF,177,,Reverse Holo
+736,Mabula,Mabula,,SCR,009,,
+737,Akkup,Akkup,,TEF,005,,
+738,Donarion,Donarion,,TEF,056,,
+739,Krabbox,Krabbox,,OBF,114,,
+740,Krawell,Krawell,,SCR,042,,
+741,Choreogel,オドリドリ,,S12A,176,Japanisch(?),
+742,Wommel,Wommel,,TEF,172,,
+743,Bandelby,Lillys Bandelby,PPS_,JTG,067,,
+744,Wuffels,Wuffels,,SIT,TG07,,
+745,Wolwerock,Wolwerock,,JTG,166,,
+746,Lusardin,Lusardin,,DAA,050,,Reverse Holo
+747,Garstella,Garstella,,SIT,114,,
+748,Aggrostella,Toxapex,,SUM,063,Englisch,Reverse Holo
+749,Pampuli,Pampuli,,TEF,091,,Reverse Holo
+750,Pampross,Pampross,,TEF,092,,
+751,Araqua,Araqua,,SIT,047,,
+752,Aranestro,Aranestro,,SIT,048,,
+753,Imantis,Imantis,,DRI,013,,Reverse Holo
+754,Mantidea,Mantidea,,UNM,016,,
+755,Bubungus,Bubungus,,SSP,008,,
+756,Lamellux,Lamellux,,SSP,194,,
+757,Molunk,Molunk,,OBF,139,,Reverse Holo
+758,Amfira,Amfira,,OBF,140,,
+759,Velursi,Velursi,,SFA,052,,Reverse Holo
+760,Kosturso,Bewear,,SFA,079,Englisch,
+761,Frubberl,Frubberl,,OBF,016,,
+762,Frubaila,Frubaila,,PAR,009,,
+763,Fruyal,Strahlendes Fruyal,,SIT,016,,
+764,Curelei,Curelei,,SCR,063,,
+765,Kommandutan,Kommandutan-V,,ASR,179,,
+766,Quartermak,Quartermak,,SIT,TG08,,
+767,Reißlaus,Reißlaus,,PGO,025,,Reverse Holo
+768,Tectass,Tectass-ex,,PAR,050,,
+769,Sankabuh,Sankabuh,,SIT,099,,
+770,Colossand,Palossand-ex,,SSP,221,Englisch,
+771,Gufa,Gufa,,FST,077,,
+772,Typ: Null,Typ: Null,,CIN,089,,Reverse Holo
+773,Amigento,Amigento GX,,CIN,108,,
+774,Meteno,Meteno,,PAR,201,,
+775,Koalelu,Koalelu,,LOR,149,,
+776,Tortunator,Tortunator,,TEF,035,,
+777,Togedemaru,Togedemaru,,OBF,151,,
+778,Mimigma,Mimikyu,,SVP,075,,
+779,Knirfish,Knirfish,,SVI,051,,
+780,Sen-Long,Sen-Long,,TEF,138,,
+781,Moruda,Moruda VMAX,,SHF,010,,
+782,Miniras,Miniras,,CIN,075,,
+783,Mediras,Mediras,,,,,
+784,Grandiras,Grandiras GX,,GRI,141,,
+785,Kapu-Riki,Kapu-Riki GX,,GRI,047,,
+786,Kapu-Fala,Kapu-Fala,,SSP,092,,
+787,Kapu-Turo,Tapu Bulu,,SFA,065,,
+788,Kapu-Kime,Kapu-Kime,,CRE,040,,Reverse Holo
+789,Cosmog,Cosmog,,CEL,013,,
+790,Cosmovum,Cosmovum,,CEL,014,,
+791,Solgaleo,ソルガレオ,,s8a,016,,
+792,Lunala,Lunala,,CEL,015,,
+793,Anego,,,,,,
+794,Masskito,Masskito GX,,CIN,115,,
+795,Schabelle,費洛美螂&爆肌蚊 GX,,CSM2bC,003,Chinesisch,
+796,Voltriant,Voltriant,,HIF,SV14,,
+797,Kaguron,Kaguron,,HIF,SV32,,
+798,Katagami,,,,,,
+799,Schlingking,四颚针龙&恶食大王 GX,,CSM25C,037,Chinesisch,
+800,Necrozma,Necrozma Asas Alvorada GX,,UPR,063,Spanisch,
+801,Magearna,Magearna V,,SIT,128,,
+802,Masrshadow,Marshadow GX,,BUS,137,,
+803,Venicro,,,,,,
+804,Agoyon,,,,,,
+805,Muramura,,,,,,
+806,Kopplosio,Kopplosio GX,,LOT,052,,
+807,Zeraora,Zeraora,,SIT,056,,
+808,Meltan,Meltan,,OBF,152,,
+809,Melmetal,Melmetal,,TEF,117,,
+810,Chimpep,Chimpep,,TWM,014,,
+811,Chimstix,Chimstix,,TWM,015,,
+812,Gortrom,Rillaboom VMAX,,FST,023,,
+813,Hopplo,Hopplo,,MEG,026,,
+814,Kickerlo,Raboot,,SCR,027,Englisch,
+815,Liberlo,Cinderace V,,FST,044,Englisch,
+816,Memmeon,Memmeon,,CRE,041,,
+817,Phlegleon,Phlegleon,,CRE,042,,
+818,Intelleon,Intelleon,,CRE,043,,
+819,Raffel,Raffel,,SVI,151,,
+820,Schlaraffel,Schlaraffel-ex,,OBF,179,,
+821,Meikro,Meikro,,PAL,164,,
+822,Kranoviz,Kranoviz,,PAL,165,,
+823,Krarmor,Krarmor VMAX,,SIT,TG19,,
+824,Sensect,Team Rockets Sensect,,DRI,015,,
+825,Keradar,Keradar,,PAR,011,,Holo
+826,Maritellit,ロケット団のイオルブ,,SV10,104,Japanisch,
+827,Kleptifux,Kleptifux,,MEG,089,,Holo
+828,Gaunux,Gaunux,,PAR,120,,
+829,Cottini,Cottini,,SCR,010,,
+830,Cottomi,Cottomi,,EVS,016,,
+831,Wolly,Hops Wolly,,JTG,170,,
+832,Zwollock,Hops Zwollock,PPS8,JTG,136,,Cosmo Holo
+833,Kamehaps,Kamehaps,,SCR,043,,Holo
+834,Kamalm,Kamalm,,SCR,044,,Holo
+835,Voldi,Voldi,,PFL,099,,
+836,Bellektro,Bellektro,,TEF,059,,Holo
+837,Klonkett,Klonkett,,TEF,093,,
+838,Wagong,Wagong,,SHF,SV068,,Shiny Holo
+839,Montecarbo,Montecarbo,,TEF,095,,Holo
+840,Knapfel,Knapfel,,SCR,012,,
+841,Drapfel,Drapfel,,SSP,139,,Holo
+842,Schlapfel,Schlapfel,,SSP,140,,Holo
+843,Salanga,Salanga,,SVI,119,,
+844,Sanaconda,Sanaconda,,SVI,120,,
+845,Urgl,Urgl,PPS_,LOR,050,,Holo
+846,Pikuda,Pikuda,,RCL,052,,
+847,Barrakiefa,Barrakiefa,,VIV,042,,
+848,Toxel,Toxel,,OBF,071,,Holo
+849,Riffex,Riffex,,PAF,141,,Shiny Holo
+850,Thermopod,Sizzlipede,,SSP,027,,
+851,Infernopod,Infernopod VMAX,,LOR,TG15,,
+852,Klopptopus,Klopptopus,,FST,152,,
+853,Kaocto,Kaocto,,PAF,052,,
+854,Fatalitee,Fatalitee,,OBF,097,,
+855,Mortipot,Mortipot,,OBF,098,,Holo
+856,Brimova,Brimova,,M24,005,,
+857,Brimano,Brimano,,RCL,084,,
+858,Silembrim,Hatterene,,CRE,073,,Halloween Holo
+859,Bähmon,Bähmon,,SCR,094,,Holo
+860,Pelzebub,Pelzebub,,SCR,095,,Holo
+861,Olangaar,Marys Olangaar ex,,DRI,136,,
+862,Barrikadax,Galar-Barrikadax,,SSH,119,,
+863,Mauzinger,Galarian Perrserker V,,LOR,129,Englisch,
+864,Gorgasonn,Galar-Gorgasonn,,FST,118,,
+865,Lauchzelot,ガラル ネギガナイト,,S4A,091,Japanisch,
+866,Pantifrost,Galar-Pantifrost,,BST,035,,
+867,Oghnatoll,Galar-Oghnatoll,,RCL,102,,
+868,Hokumil,Hokumil,,SCR,064,,
+869,Pokusan,Pokusan ex,,JTG,075,,
+870,Legios,Legios,,ASR,TG07,,
+871,Britzigel,Britzigel,,PAL,073,,
+872,Snomnom,Snomnom,,TEF,045,,
+873,Mottineva,Mottineva,,TEF,046,,Holo
+874,Humanolith,Humanolith,,SVI,121,,
+875,Kubuin,Kubuin,,PAL,048,,
+876,Servol,Servol,,SVP,154,,
+877,Morpeko,Morpeko,PPS_,PAR,121,,Cosmo Holo
+878,Cufant,Cufant,,SFA,076,,
+879,Patinaraja,Patinaraja ex,,PAL,245,,
+880,Lectragon,雷鸟龙,,CS2BC,120,Chinesisch,Shiny Holo
+881,Lecryodon,Lecryodon,,DAA,066,,Holo
+882,Pescragon,Pescragon V,,BRS,114,,
+883,Pescryodon,Arctovish V,,EVS,048,,
+884,Duraludon,Duraludon VMAX,,SIT,TG30,,
+885,Grolldra,Grolldra,,TWM,128,,
+886,Phandra,Phandra,PPS7,TWM,129,,
+887,Katapuldra,Dragapult ex,,TWM,200,,
+888,Zacian,Hop's Zacian ex,,JTG,176,Englisch,
+889,Zamazenta,Zamazenta V,,CEL,018,Englisch,
+890,Endynalos,ムゲンダイナ VMAX,,S4A,125,Japanisch,
+891,Dakuma,Dakuma,,CRE,093,,
+892,Wulaosu,Rapid Strike Urshifu VMAX,,BRS,TG21,Englisch,
+893,Zarude,Zarude,,FST,027,Englisch,
+894,Regieleki,Regieleki V,PPS_,SIT,057,,
+895,Regidrago,Regidrago V,PPS_,SIT,135,,
+896,Polaross,Polaross,,LOR,051,,
+897,Phantoross,Spectrier,,LOR,081,Englisch,Halloween Holo
+898,Coronospa,Rappenreiter Coronospa VMAX,,CRE,075,,
+899,Damythir,Damythir V,,ASR,134,,
+900,Axantor,Kleavor V,,SP,248,,
+901,Ursaluna,Ursaluna V,,SIT,102,,
+902,Salmagnis,Hisuian Basculegion,,SP,205,,
+903,Snieboss,Strahlendes Snieboss,,SIT,123,,
+904,Myriador,Hisui-Myriador,,ASR,091,,
+905,Cupidos,Cupidos V,,SIT,082,,
+906,Felori,Felori,,SVP,191,,
+907,Feliospa,Feliospa,,PAL,014,,
+908,Maskagato,Maskagato ex,,PAL,231,,
+909,Krokel,Krokel,,SVP,192,,
+910,Lokroko,Lokroko,,SVI,037,,
+911,Skelokrok,Skelokrok ex,,PAL,037,,
+912,Kwaks,Kwaks,,PAL,206,,
+913,Fuentente,Fuentente,,PAL,051,,
+914,Bailonda,Bailonda ex,,PAL,260,,
+915,Ferkuli,Ferkuli,,OBF,209,,
+916,Fragrunz,Oinkologne ex,,SVI,234,,
+917,Tarundel,Tarundel,,PAL,016,,
+918,Spinsidias,Spinsidias ex,,SVI,243,,
+919,Micrick,Micrick,,PAL,019,,
+920,Lextremo,Lextremo,,PFL,010,,
+921,Pamo,Pamo,,PAF,226,,
+922,Pamamo,Pamamo,,PFL,033,,
+923,Pamomamo,Pamomamo,,SVI,076,,
+924,Zwieps,Zwieps,,PAR,154,,
+925,Famieps,Famieps,,SVI,161,,
+926,Hefel,Hefel,,SVP,069,,Shiny Holo
+927,Backel,Backel ex,,SCR,067,,
+928,Olini,Olini,,SVI,021,,Holo
+929,Olivinio,Olivinio,,SVI,200,,
+930,Olithena,Olithena,,SVI,023,,
+931,Krawalloro,Krawalloro ex,,PAL,247,,
+932,Geosali,Geosali,,PAL,121,,
+933,Sedisal,Sedisal,,PAR,103,,
+934,Saltigant,Saltigant ex,,SCR,089,,
+935,Knarbon,Knarbon,,MEP,022,,
+936,Crimanzo,Crimanzo,,PAF,015,,
+937,Azugladis,Azugladis ex,PPS_,SSP,036,,
+938,Blipp,Blipp,,OBF,075,,
+939,Wampitz,Enigmaras Wampitz ex,PPS_,JTG,053,,
+940,Voltrel,Voltrel,,TWM,178,,
+941,Voltrean,Enigmaras Voltrean,PPS_,JTG,055,,
+942,Mobtiff,Peppers Mobtiff,,DRI,138,,
+943,Mastifioso,Mastifioso,,SVI,218,,
+944,Sproxi,Sproxi,,PAL,144,,
+945,Affiti,Affiti,,PAL,146,,
+946,Weherba,Weherba,,PAL,198,,
+947,Horrerba,Horrerba,PPS_,TEF,021,,
+948,Tentagra,Tentagra,,SVI,025,,
+949,Tenterra,Tenterra ex,,PAF,005,,
+950,Klibbe,Klibbe,,PAR,105,,Holo
+951,Chilingel,Chilingel,,SVI,027,,
+952,Halupenjo,Halupenjo ex,,TEF,022,,
+953,Relluk,Relluk,,PAL,025,,
+954,Skarabaks,Skarabaks,PPS_,TEF,024,,Cosmo Holo
+955,Flattutu,Flattutu,,PAR,079,,
+956,Psiopatra,Espathra ex,,PAF,214,Englisch,
+957,Forgita,Forgita,,SVP,025,,
+958,Tafforgita,Tafforgita,,PAL,217,,
+959,Tinkaton,Tinkaton,,PAR,085,,
+960,Wiglett,Wiglett,,PAR,051,,
+961,Schligdri,Schligdri,,PAF,224,,
+962,Adebom,Adebom-ex,,PAR,156,,
+963,Normifin,Normifin,,OBF,060,,
+964,Delfinator,Delfinator ex,,TWM,061,,
+965,Knattox,Knattox,,SVP,026,,
+966,Knattatox,Knattatox ex,,OBF,224,,
+967,Mopex,Mopex,,PAR,215,,
+968,Schlurm,Schlurm ex,,SCR,162,,
+969,Lumispross,Lumispross,,PAL,124,,
+970,Glimmora,Glimmora ex,,OBF,213,,
+971,Gruff,Gruff,,SVP,070,,
+972,Friedwuff,Friedwuff,,SVP,042,,
+973,Flaminkno,Flaminkno,,OBF,185,,Holo
+974,Flaniwal,Flaniwal,,DRI,064,,
+975,Kolowal,Kolowal,,SVP,063,,
+976,Agiluza,Agiluza ex,,JTG,043,,
+977,Heerashai,Heerashai,,SVP,012,,
+978,Nigiragi,Nigiragi ex,,SSP,226,,
+979,Epitaff,Epitaff,,SVI,109,,
+980,Suelord,Paldea Suelord ex,,PAL,130,,
+981,Farigiraf,Farigiraf ex,,TEF,108,,
+982,Dummimisel,Dummimisel ex,,JTG,178,,
+983,Gladimperio,Gladimperio,,SVP,130,,
+984,Riesenzahn,Riesenzahn ex,,SVI,230,,
+985,Brüllschweif,Brüllschweif,,SVP,065,,
+986,Wutpilz,Wutpilz,PPS_,PAR,123,,
+987,Flatterhaar,Flatterhaar,,SVP,097,,
+988,Kriechflügel,Kriechflügel,,PAR,107,,
+989,Sandfell,Sandfell ex,PPS_,PAR,108,,
+990,Eisenrad,Eisenrad ex,,SVI,248,,
+991,Eisenbündel,Eisenbündel,,SVP,066,,
+992,Eisenhand,Eisenhand ex,,PAR,223,,
+993,Eisenhals,Eisenhals,,TEF,139,,
+994,Eisenfalter,Eisenfalter,,PAR,028,,
+995,Eisendorn,Eisendorn ex,,TWM,196,,
+996,Frospino,Frospino,,PAF,017,,
+997,Cryospino,Cryospino,,SVP,064,,
+998,Espinodon,Espinodon,,PAL,060,,
+999,Gierspenst,Gierspenst,,PAR,198,,
+1000,Monetigo,Monetigo ex,,PAR,231,,
+1001,Chongjian,Chongjian ex,,PAL,232,,
+1002,Baojian,Baojian ex,,PAF,242,,
+1003,Dinglu,Dinglu ex,,PAL,127,,
+1004,Yuyu,Yuyu,,SVP,057,,
+1005,Donnersichel,Donnersichel,PPS_,TEF,109,,
+1006,Eisenkrieger,Eisenkrieger ex,,PAR,225,,
+1007,Koraidon,Koraidon ex,,SVI,254,,
+1008,Miraidon,Miraidon ex,,SVI,227,,
+1009,Windewoge,Windewoge ex,,TEF,050,,
+1010,Eisenblatt,Eisenblatt ex,,TEF,025,,
+1011,Sirapfel,Sirapfel,,TWM,018,,
+1012,Mortcha,Mortcha,,TWM,171,,
+1013,Fatalitcha,Fatalitcha ex,,TWM,189,,
+1014,Boninu,Boninu,,SFA,074,,
+1015,Benesaru,Benesaru,PPS_,TWM,095,,
+1016,Beatori,Fezandipiti ex,,SFA,038,Englisch,
+1017,Ogerpon,Teal Mask Ogerpon ex,,TWM,025,,
+1018,Briduradon,Briduradon ex,,SSP,224,,
+1019,Hydrapfel,Hydrapfel,,DRI,188,,
+1020,Keilflamme,Gouging Fire ex,,TEF,188,Englisch,
+1021,Furienblitz,Furienblitz ex,,TEF,196,,
+1022,Eisenfels,Eisenfels ex,,TEF,192,,
+1023,Eisenhaupt,Eisenhaupt ex,,TEF,081,,
+1024,Terapagos,Terapagos ex,PPS_,SCR,128,,
+1025,Infamomo,Pecharunt,,SVP,129,Englisch,

@@ -29,12 +29,36 @@ section {
   margin-top: 20px;
 }
 
+.card-image-wrapper {
+  position: relative;
+  margin-bottom: 12px;
+}
+
 .card-image {
   display: block;
   width: 100%;
   height: auto;
-  margin-bottom: 12px;
   border-radius: 8px;
+}
+
+.card-image-fallback {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  border-radius: 8px;
+  background-color: #eeeeee;
+  color: #666666;
+  text-align: center;
+  padding: 20px;
+}
+
+.card--image-error .card-image {
+  display: none;
+}
+
+.card--image-error .card-image-fallback {
+  display: flex;
 }
 
 .card {

@@ -17,26 +17,29 @@
   <main>
     <section>
       <h2>Filter</h2>
-
-      <label for="searchInput">Suche</label>
-      <input id="searchInput" type="text" placeholder="Pokemon oder Kartenname">
-
-      <label for="languageFilter">Sprache</label>
-      <select id="languageFilter">
-        <option value="">Alle</option>
+        <label for="viewType">Bereich</label>
+        <select id="viewType">
+          <option value="all">Gesamt</option>
+          <option value="generation">Generation</option>
+          <option value="binder">Ordner</option>
+        </select>
+        <label for="viewValue">Auswahl</label>
+        <select id="viewValue">
+          <option value="">Bitte waehlen</option>
+        </select>
       </select>
 
-      <label for="ownedFilter">Besitz</label>
-      <select id="ownedFilter">
-        <option value="">Alle</option>
-        <option value="owned">Nur vorhanden</option>
-        <option value="missing">Nur fehlend</option>
-      </select>
+      <button id="showMissingButton" type="button">Fehlende Karten anzeigen</button>
     </section>
 
     <section>
       <h2>Karten</h2>
+      <p id="cardsStatus"></p>
       <div id="cardsContainer" class="cards-container"></div>
+      <div class="pagination">
+        <button id="previousButton" type="button">Zurück</button>
+        <button id="nextButton" type="button">Weiter</button>
+      </div>
     </section>
   </main>
   <script src="script.js"></script>
