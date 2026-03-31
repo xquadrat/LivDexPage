@@ -87,3 +87,45 @@ section {
   margin: 8px 0;
 }
 
+.view-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.view-buttons button {
+  padding: 10px 14px;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  background-color: #f3f3f3;
+  cursor: pointer;
+}
+
+.view-buttons button.is-active {
+  background-color: #1a4f8b;
+  color: #ffffff;
+  border-color: #1a4f8b;
+}
+
+#generationControls,
+#binderControls {
+  margin-top: 12px;
+}
+
+#generationControls label,
+#binderControls label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: bold;
+}
+
+#generationControls select,
+#binderControls select {
+  width: 100%;
+  max-width: 240px;
+  padding: 8px;
+  border: 1px solid #cccccc;
+  border-radius: 6px;
+  background-color: #ffffff;
+}

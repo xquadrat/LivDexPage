@@ -7,6 +7,7 @@ const showAllButton = document.getElementById("showAllButton");
 const showGenerationButton = document.getElementById("showGenerationButton");
 const showBinderButton = document.getElementById("showBinderButton");
 const showMissingButton = document.getElementById("showMissingButton");
+const toggleDisplayModeButton = document.getElementById("toggleDisplayModeButton");
 
 const generationControls = document.getElementById("generationControls");
 const binderControls = document.getElementById("binderControls");
@@ -51,6 +52,7 @@ const cardsPerPage = 9;
 let currentPage = 1;
 let allCards = [];
 let currentView = "all";
+let displayMode = "paged";
 
 // Gibt alle fehlenden Karten zurueck.
 function getMissingCards() {
@@ -105,6 +107,37 @@ function getCardsByView(viewType, viewValue) {
 function updateViewControls() {
   generationControls.style.display = currentView === "generation" ? "block" : "none";
   binderControls.style.display = currentView === "binder" ? "block" : "none";
+}
+
+// Markiert den aktuell aktiven Ansichtsbutton.
+function updateActiveViewButton() {
+  showAllButton.classList.remove("is-active");
+  showGenerationButton.classList.remove("is-active");
+  showBinderButton.classList.remove("is-active");
+  showMissingButton.classList.remove("is-active");
+
+  if (currentView === "all") {
+    showAllButton.classList.add("is-active");
+  }
+
+  if (currentView === "generation") {
+    showGenerationButton.classList.add("is-active");
+  }
+
+  if (currentView === "binder") {
+    showBinderButton.classList.add("is-active");
+  }
+
+  if (currentView === "missing") {
+    showMissingButton.classList.add("is-active");
+  }
+}
+
+// Blendet den Umschaltbutton fuer die Gesamtanzeige passend ein oder aus.
+function updateDisplayModeButton() {
+  const shouldHideButton = currentView === "missing" || displayMode === "full";
+
+  toggleDisplayModeButton.style.display = shouldHideButton ? "none" : "inline-block";
 }
 
 // Gibt die Kartenliste passend zur aktuellen Ansicht zurueck.
@@ -218,7 +251,7 @@ function renderCards(cards) {
 
   let cardsToRender = [];
 
-  if (currentView === "missing") {
+  if (currentView === "missing" || displayMode === "full") {
     cardsToRender = cards;
   } else {
     const startIndex = (currentPage - 1) * cardsPerPage;
@@ -239,7 +272,7 @@ function renderCards(cards) {
 // Aktualisiert die Navigationsbuttons fuer die Kartenansicht.
 // Aktualisiert die Navigationsbuttons fuer die Kartenansicht.
 function updatePaginationButtons(cards) {
-  if (currentView === "missing") {
+  if (currentView === "missing" || displayMode === "full") {
     previousButton.disabled = true;
     nextButton.disabled = true;
     return;
@@ -256,46 +289,64 @@ fetch("data/cards.json")
   .then((cards) => {
     allCards = cards;
     updateViewControls();
+    updateActiveViewButton();
+    updateDisplayModeButton();
     renderCards(getVisibleCards());
 });
 
 showAllButton.addEventListener("click", () => {
   currentView = "all";
+  displayMode = "paged";
   currentPage = 1;
   updateViewControls();
+  updateActiveViewButton();
+  updateDisplayModeButton();
   renderCards(getVisibleCards());
 });
 
 showGenerationButton.addEventListener("click", () => {
   currentView = "generation";
+  displayMode = "paged";
   currentPage = 1;
   generationSelect.value = "1";
   updateViewControls();
+  updateActiveViewButton();
+  updateDisplayModeButton();
   renderCards(getVisibleCards());
 });
 
 showBinderButton.addEventListener("click", () => {
   currentView = "binder";
+  displayMode = "paged";
   currentPage = 1;
   binderSelect.value = "1";
   updateViewControls();
+  updateActiveViewButton();
+  updateDisplayModeButton();
   renderCards(getVisibleCards());
 });
 
 showMissingButton.addEventListener("click", () => {
   currentView = "missing";
+  displayMode = "full";
   currentPage = 1;
   updateViewControls();
+  updateActiveViewButton();
+  updateDisplayModeButton();
   renderCards(getVisibleCards());
 });
 
 generationSelect.addEventListener("change", () => {
   currentPage = 1;
+  displayMode = "paged";
+  updateDisplayModeButton();
   renderCards(getVisibleCards());
 });
 
 binderSelect.addEventListener("change", () => {
   currentPage = 1;
+  displayMode = "paged";
+  updateDisplayModeButton();
   renderCards(getVisibleCards());
 });
 
@@ -314,4 +365,15 @@ nextButton.addEventListener("click", () => {
     currentPage += 1;
     renderCards(visibleCards);
   }
+});
+
+toggleDisplayModeButton.addEventListener("click", () => {
+  if (currentView === "missing") {
+    return;
+  }
+
+  displayMode = displayMode === "paged" ? "full" : "paged";
+  currentPage = 1;
+  updateDisplayModeButton();
+  renderCards(getVisibleCards());
 });
