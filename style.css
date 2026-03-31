@@ -108,6 +108,25 @@ section {
   border-color: #1a4f8b;
 }
 
+.search-controls {
+  margin-top: 16px;
+}
+
+.search-controls label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: bold;
+}
+
+.search-controls input {
+  width: 100%;
+  max-width: 320px;
+  padding: 8px;
+  border: 1px solid #cccccc;
+  border-radius: 6px;
+  background-color: #ffffff;
+}
+
 #generationControls,
 #binderControls {
   margin-top: 12px;

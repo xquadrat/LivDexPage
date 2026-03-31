@@ -50,9 +50,10 @@ const binderRanges = {
 
 const cardsPerPage = 9;
 let currentPage = 1;
-let allCards = [];
 let currentView = "all";
 let displayMode = "paged";
+let allCards = [];
+let pokemonData = [];
 
 // Gibt alle fehlenden Karten zurueck.
 function getMissingCards() {
@@ -103,6 +104,58 @@ function getCardsByView(viewType, viewValue) {
   return allCards;
 }
 
+// Gibt die Stammdaten zu einer Karte anhand der Pokedex-Nummer zurueck.
+function getPokemonData(card) {
+  return pokemonData.find((pokemon) => {
+    return pokemon.pokedexNumber === card.pokedexNumber;
+  });
+}
+
+// Gibt den englischen Pokemonnamen zu einer Karte zurueck.
+function getEnglishPokemonName(card) {
+  const matchingPokemon = getPokemonData(card);
+
+  if (!matchingPokemon) {
+    return "";
+  }
+
+  return matchingPokemon.englishName || "";
+}
+
+// Gibt den deutschen Pokemonnamen aus den Stammdaten zu einer Karte zurueck.
+function getGermanPokemonName(card) {
+  const matchingPokemon = getPokemonData(card);
+
+  if (!matchingPokemon) {
+    return "";
+  }
+
+  return matchingPokemon.germanName || "";
+}
+
+// Filtert Karten nach Pokemonname und Kartenname.
+function filterCardsBySearch(cards) {
+  const searchText = searchInput.value.trim().toLowerCase();
+
+  if (searchText === "") {
+    return cards;
+  }
+
+  return cards.filter((card) => {
+    const pokemonName = card.pokemonName.toLowerCase();
+    const cardName = card.cardName.toLowerCase();
+    const englishPokemonName = getEnglishPokemonName(card).toLowerCase();
+    const germanPokemonName = getGermanPokemonName(card).toLowerCase();
+
+    return (
+      pokemonName.includes(searchText) ||
+      cardName.includes(searchText) ||
+      englishPokemonName.includes(searchText) ||
+      germanPokemonName.includes(searchText)
+    );
+  });
+}
+
 // Blendet die passenden Auswahlfelder fuer die aktuelle Ansicht ein oder aus.
 function updateViewControls() {
   generationControls.style.display = currentView === "generation" ? "block" : "none";
@@ -142,35 +195,31 @@ function updateDisplayModeButton() {
 
 // Gibt die Kartenliste passend zur aktuellen Ansicht zurueck.
 function getVisibleCards() {
+  let visibleCards = [];
+
   if (currentView === "missing") {
-    return getMissingCards();
-  }
-
-  if (currentView === "all") {
-    return allCards;
-  }
-
-  if (currentView === "generation") {
+    visibleCards = getMissingCards();
+  } else if (currentView === "all") {
+    visibleCards = allCards;
+  } else if (currentView === "generation") {
     const generation = Number(generationSelect.value);
 
     if (!generation) {
       return [];
     }
 
-    return getCardsByView("generation", generation);
-  }
-
-  if (currentView === "binder") {
+    visibleCards = getCardsByView("generation", generation);
+  } else if (currentView === "binder") {
     const binder = Number(binderSelect.value);
 
     if (!binder) {
       return [];
     }
 
-    return getCardsByView("binder", binder);
+    visibleCards = getCardsByView("binder", binder);
   }
 
-  return [];
+  return filterCardsBySearch(visibleCards);
 }
 
 // Filtert Karten anhand eines Pokedex-Bereichs.
@@ -284,14 +333,16 @@ function updatePaginationButtons(cards) {
   nextButton.disabled = currentPage === maxPage || maxPage === 0;
 }
 
-fetch("data/cards.json")
-  .then((response) => response.json())
-  .then((cards) => {
-    allCards = cards;
-    updateViewControls();
-    updateActiveViewButton();
-    updateDisplayModeButton();
-    renderCards(getVisibleCards());
+Promise.all([
+  fetch("data/cards.json").then((response) => response.json()),
+  fetch("data/pokemon-data.json").then((response) => response.json())
+]).then(([cards, pokemon]) => {
+  allCards = cards;
+  pokemonData = pokemon;
+  updateViewControls();
+  updateActiveViewButton();
+  updateDisplayModeButton();
+  renderCards(getVisibleCards());
 });
 
 showAllButton.addEventListener("click", () => {
@@ -377,3 +428,9 @@ toggleDisplayModeButton.addEventListener("click", () => {
   updateDisplayModeButton();
   renderCards(getVisibleCards());
 });
+
+searchInput.addEventListener("input", () => {
+  currentPage = 1;
+  renderCards(getVisibleCards());
+});
+

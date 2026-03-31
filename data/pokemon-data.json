@@ -1,0 +1,6152 @@
+﻿[
+    {
+        "pokedexNumber":  1,
+        "englishName":  "Bulbasaur",
+        "germanName":  "Bisasam",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  2,
+        "englishName":  "Ivysaur",
+        "germanName":  "Bisaknosp",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  3,
+        "englishName":  "Venusaur",
+        "germanName":  "Bisaflor",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  4,
+        "englishName":  "Charmander",
+        "germanName":  "Glumanda",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  5,
+        "englishName":  "Charmeleon",
+        "germanName":  "Glutexo",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  6,
+        "englishName":  "Charizard",
+        "germanName":  "Glurak",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  7,
+        "englishName":  "Squirtle",
+        "germanName":  "Schiggy",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  8,
+        "englishName":  "Wartortle",
+        "germanName":  "Schillok",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  9,
+        "englishName":  "Blastoise",
+        "germanName":  "Turtok",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  10,
+        "englishName":  "Caterpie",
+        "germanName":  "Raupy",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  11,
+        "englishName":  "Metapod",
+        "germanName":  "Safcon",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  12,
+        "englishName":  "Butterfree",
+        "germanName":  "Smettbo",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  13,
+        "englishName":  "Weedle",
+        "germanName":  "Hornliu",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  14,
+        "englishName":  "Kakuna",
+        "germanName":  "Kokuna",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  15,
+        "englishName":  "Beedrill",
+        "germanName":  "Bibor",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  16,
+        "englishName":  "Pidgey",
+        "germanName":  "Taubsi",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  17,
+        "englishName":  "Pidgeotto",
+        "germanName":  "Tauboga",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  18,
+        "englishName":  "Pidgeot",
+        "germanName":  "Tauboss",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  19,
+        "englishName":  "Rattata",
+        "germanName":  "Rattfratz",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  20,
+        "englishName":  "Raticate",
+        "germanName":  "Rattikarl",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  21,
+        "englishName":  "Spearow",
+        "germanName":  "Habitak",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  22,
+        "englishName":  "Fearow",
+        "germanName":  "Ibitak",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  23,
+        "englishName":  "Ekans",
+        "germanName":  "Rettan",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  24,
+        "englishName":  "Arbok",
+        "germanName":  "Arbok",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  25,
+        "englishName":  "Pikachu",
+        "germanName":  "Pikachu",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  26,
+        "englishName":  "Raichu",
+        "germanName":  "Raichu",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  27,
+        "englishName":  "Sandshrew",
+        "germanName":  "Sandan",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  28,
+        "englishName":  "Sandslash",
+        "germanName":  "Sandamer",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  29,
+        "englishName":  "Nidoran♀",
+        "germanName":  "Nidoran♀",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  30,
+        "englishName":  "Nidorina",
+        "germanName":  "Nidorina",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  31,
+        "englishName":  "Nidoqueen",
+        "germanName":  "Nidoqueen",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  32,
+        "englishName":  "Nidoran♂",
+        "germanName":  "Nidoran♂",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  33,
+        "englishName":  "Nidorino",
+        "germanName":  "Nidorino",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  34,
+        "englishName":  "Nidoking",
+        "germanName":  "Nidoking",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  35,
+        "englishName":  "Clefairy",
+        "germanName":  "Piepi",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  36,
+        "englishName":  "Clefable",
+        "germanName":  "Pixi",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  37,
+        "englishName":  "Vulpix",
+        "germanName":  "Vulpix",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  38,
+        "englishName":  "Ninetales",
+        "germanName":  "Vulnona",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  39,
+        "englishName":  "Jigglypuff",
+        "germanName":  "Pummeluff",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  40,
+        "englishName":  "Wigglytuff",
+        "germanName":  "Knuddeluff",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  41,
+        "englishName":  "Zubat",
+        "germanName":  "Zubat",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  42,
+        "englishName":  "Golbat",
+        "germanName":  "Golbat",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  43,
+        "englishName":  "Oddish",
+        "germanName":  "Myrapla",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  44,
+        "englishName":  "Gloom",
+        "germanName":  "Duflor",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  45,
+        "englishName":  "Vileplume",
+        "germanName":  "Giflor",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  46,
+        "englishName":  "Paras",
+        "germanName":  "Paras",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  47,
+        "englishName":  "Parasect",
+        "germanName":  "Parasek",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  48,
+        "englishName":  "Venonat",
+        "germanName":  "Bluzuk",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  49,
+        "englishName":  "Venomoth",
+        "germanName":  "Omot",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  50,
+        "englishName":  "Diglett",
+        "germanName":  "Digda",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  51,
+        "englishName":  "Dugtrio",
+        "germanName":  "Digdri",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  52,
+        "englishName":  "Meowth",
+        "germanName":  "Mauzi",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  53,
+        "englishName":  "Persian",
+        "germanName":  "Snobilikat",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  54,
+        "englishName":  "Psyduck",
+        "germanName":  "Enton",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  55,
+        "englishName":  "Golduck",
+        "germanName":  "Entoron",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  56,
+        "englishName":  "Mankey",
+        "germanName":  "Menki",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  57,
+        "englishName":  "Primeape",
+        "germanName":  "Rasaff",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  58,
+        "englishName":  "Growlithe",
+        "germanName":  "Fukano",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  59,
+        "englishName":  "Arcanine",
+        "germanName":  "Arkani",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  60,
+        "englishName":  "Poliwag",
+        "germanName":  "Quapsel",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  61,
+        "englishName":  "Poliwhirl",
+        "germanName":  "Quaputzi",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  62,
+        "englishName":  "Poliwrath",
+        "germanName":  "Quappo",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  63,
+        "englishName":  "Abra",
+        "germanName":  "Abra",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  64,
+        "englishName":  "Kadabra",
+        "germanName":  "Kadabra",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  65,
+        "englishName":  "Alakazam",
+        "germanName":  "Simsala",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  66,
+        "englishName":  "Machop",
+        "germanName":  "Machollo",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  67,
+        "englishName":  "Machoke",
+        "germanName":  "Maschock",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  68,
+        "englishName":  "Machamp",
+        "germanName":  "Machomei",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  69,
+        "englishName":  "Bellsprout",
+        "germanName":  "Knofensa",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  70,
+        "englishName":  "Weepinbell",
+        "germanName":  "Ultrigaria",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  71,
+        "englishName":  "Victreebel",
+        "germanName":  "Sarzenia",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  72,
+        "englishName":  "Tentacool",
+        "germanName":  "Tentacha",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  73,
+        "englishName":  "Tentacruel",
+        "germanName":  "Tentoxa",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  74,
+        "englishName":  "Geodude",
+        "germanName":  "Kleinstein",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  75,
+        "englishName":  "Graveler",
+        "germanName":  "Georok",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  76,
+        "englishName":  "Golem",
+        "germanName":  "Geowaz",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  77,
+        "englishName":  "Ponyta",
+        "germanName":  "Ponita",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  78,
+        "englishName":  "Rapidash",
+        "germanName":  "Gallopa",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  79,
+        "englishName":  "Slowpoke",
+        "germanName":  "Flegmon",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  80,
+        "englishName":  "Slowbro",
+        "germanName":  "Lahmus",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  81,
+        "englishName":  "Magnemite",
+        "germanName":  "Magnetilo",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  82,
+        "englishName":  "Magneton",
+        "germanName":  "Magneton",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  83,
+        "englishName":  "Farfetch’d",
+        "germanName":  "Porenta",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  84,
+        "englishName":  "Doduo",
+        "germanName":  "Dodu",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  85,
+        "englishName":  "Dodrio",
+        "germanName":  "Dodri",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  86,
+        "englishName":  "Seel",
+        "germanName":  "Jurob",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  87,
+        "englishName":  "Dewgong",
+        "germanName":  "Jugong",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  88,
+        "englishName":  "Grimer",
+        "germanName":  "Sleima",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  89,
+        "englishName":  "Muk",
+        "germanName":  "Sleimok",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  90,
+        "englishName":  "Shellder",
+        "germanName":  "Muschas",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  91,
+        "englishName":  "Cloyster",
+        "germanName":  "Austos",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  92,
+        "englishName":  "Gastly",
+        "germanName":  "Nebulak",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  93,
+        "englishName":  "Haunter",
+        "germanName":  "Alpollo",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  94,
+        "englishName":  "Gengar",
+        "germanName":  "Gengar",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  95,
+        "englishName":  "Onix",
+        "germanName":  "Onix",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  96,
+        "englishName":  "Drowzee",
+        "germanName":  "Traumato",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  97,
+        "englishName":  "Hypno",
+        "germanName":  "Hypno",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  98,
+        "englishName":  "Krabby",
+        "germanName":  "Krabby",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  99,
+        "englishName":  "Kingler",
+        "germanName":  "Kingler",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  100,
+        "englishName":  "Voltorb",
+        "germanName":  "Voltobal",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  101,
+        "englishName":  "Electrode",
+        "germanName":  "Lektrobal",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  102,
+        "englishName":  "Exeggcute",
+        "germanName":  "Owei",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  103,
+        "englishName":  "Exeggutor",
+        "germanName":  "Kokowei",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  104,
+        "englishName":  "Cubone",
+        "germanName":  "Tragosso",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  105,
+        "englishName":  "Marowak",
+        "germanName":  "Knogga",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  106,
+        "englishName":  "Hitmonlee",
+        "germanName":  "Kicklee",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  107,
+        "englishName":  "Hitmonchan",
+        "germanName":  "Nockchan",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  108,
+        "englishName":  "Lickitung",
+        "germanName":  "Schlurp",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  109,
+        "englishName":  "Koffing",
+        "germanName":  "Smogon",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  110,
+        "englishName":  "Weezing",
+        "germanName":  "Smogmog",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  111,
+        "englishName":  "Rhyhorn",
+        "germanName":  "Rihorn",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  112,
+        "englishName":  "Rhydon",
+        "germanName":  "Rizeros",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  113,
+        "englishName":  "Chansey",
+        "germanName":  "Chaneira",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  114,
+        "englishName":  "Tangela",
+        "germanName":  "Tangela",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  115,
+        "englishName":  "Kangaskhan",
+        "germanName":  "Kangama",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  116,
+        "englishName":  "Horsea",
+        "germanName":  "Seeper",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  117,
+        "englishName":  "Seadra",
+        "germanName":  "Seemon",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  118,
+        "englishName":  "Goldeen",
+        "germanName":  "Goldini",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  119,
+        "englishName":  "Seaking",
+        "germanName":  "Golking",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  120,
+        "englishName":  "Staryu",
+        "germanName":  "Sterndu",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  121,
+        "englishName":  "Starmie",
+        "germanName":  "Starmie",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  122,
+        "englishName":  "Mr. Mime",
+        "germanName":  "Pantimos",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  123,
+        "englishName":  "Scyther",
+        "germanName":  "Sichlor",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  124,
+        "englishName":  "Jynx",
+        "germanName":  "Rossana",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  125,
+        "englishName":  "Electabuzz",
+        "germanName":  "Elektek",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  126,
+        "englishName":  "Magmar",
+        "germanName":  "Magmar",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  127,
+        "englishName":  "Pinsir",
+        "germanName":  "Pinsir",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  128,
+        "englishName":  "Tauros",
+        "germanName":  "Tauros",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  129,
+        "englishName":  "Magikarp",
+        "germanName":  "Karpador",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  130,
+        "englishName":  "Gyarados",
+        "germanName":  "Garados",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  131,
+        "englishName":  "Lapras",
+        "germanName":  "Lapras",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  132,
+        "englishName":  "Ditto",
+        "germanName":  "Ditto",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  133,
+        "englishName":  "Eevee",
+        "germanName":  "Evoli",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  134,
+        "englishName":  "Vaporeon",
+        "germanName":  "Aquana",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  135,
+        "englishName":  "Jolteon",
+        "germanName":  "Blitza",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  136,
+        "englishName":  "Flareon",
+        "germanName":  "Flamara",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  137,
+        "englishName":  "Porygon",
+        "germanName":  "Porygon",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  138,
+        "englishName":  "Omanyte",
+        "germanName":  "Amonitas",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  139,
+        "englishName":  "Omastar",
+        "germanName":  "Amoroso",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  140,
+        "englishName":  "Kabuto",
+        "germanName":  "Kabuto",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  141,
+        "englishName":  "Kabutops",
+        "germanName":  "Kabutops",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  142,
+        "englishName":  "Aerodactyl",
+        "germanName":  "Aerodactyl",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  143,
+        "englishName":  "Snorlax",
+        "germanName":  "Relaxo",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  144,
+        "englishName":  "Articuno",
+        "germanName":  "Arktos",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  145,
+        "englishName":  "Zapdos",
+        "germanName":  "Zapdos",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  146,
+        "englishName":  "Moltres",
+        "germanName":  "Lavados",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  147,
+        "englishName":  "Dratini",
+        "germanName":  "Dratini",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  148,
+        "englishName":  "Dragonair",
+        "germanName":  "Dragonir",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  149,
+        "englishName":  "Dragonite",
+        "germanName":  "Dragoran",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  150,
+        "englishName":  "Mewtwo",
+        "germanName":  "Mewtu",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  151,
+        "englishName":  "Mew",
+        "germanName":  "Mew",
+        "generation":  1
+    },
+    {
+        "pokedexNumber":  152,
+        "englishName":  "Chikorita",
+        "germanName":  "Endivie",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  153,
+        "englishName":  "Bayleef",
+        "germanName":  "Lorblatt",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  154,
+        "englishName":  "Meganium",
+        "germanName":  "Meganie",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  155,
+        "englishName":  "Cyndaquil",
+        "germanName":  "Feurigel",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  156,
+        "englishName":  "Quilava",
+        "germanName":  "Igelavar",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  157,
+        "englishName":  "Typhlosion",
+        "germanName":  "Tornupto",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  158,
+        "englishName":  "Totodile",
+        "germanName":  "Karnimani",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  159,
+        "englishName":  "Croconaw",
+        "germanName":  "Tyracroc",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  160,
+        "englishName":  "Feraligatr",
+        "germanName":  "Impergator",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  161,
+        "englishName":  "Sentret",
+        "germanName":  "Wiesor",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  162,
+        "englishName":  "Furret",
+        "germanName":  "Wiesenior",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  163,
+        "englishName":  "Hoothoot",
+        "germanName":  "Hoothoot",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  164,
+        "englishName":  "Noctowl",
+        "germanName":  "Noctuh",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  165,
+        "englishName":  "Ledyba",
+        "germanName":  "Ledyba",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  166,
+        "englishName":  "Ledian",
+        "germanName":  "Ledian",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  167,
+        "englishName":  "Spinarak",
+        "germanName":  "Webarak",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  168,
+        "englishName":  "Ariados",
+        "germanName":  "Ariados",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  169,
+        "englishName":  "Crobat",
+        "germanName":  "Iksbat",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  170,
+        "englishName":  "Chinchou",
+        "germanName":  "Lampi",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  171,
+        "englishName":  "Lanturn",
+        "germanName":  "Lanturn",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  172,
+        "englishName":  "Pichu",
+        "germanName":  "Pichu",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  173,
+        "englishName":  "Cleffa",
+        "germanName":  "Pii",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  174,
+        "englishName":  "Igglybuff",
+        "germanName":  "Fluffeluff",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  175,
+        "englishName":  "Togepi",
+        "germanName":  "Togepi",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  176,
+        "englishName":  "Togetic",
+        "germanName":  "Togetic",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  177,
+        "englishName":  "Natu",
+        "germanName":  "Natu",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  178,
+        "englishName":  "Xatu",
+        "germanName":  "Xatu",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  179,
+        "englishName":  "Mareep",
+        "germanName":  "Voltilamm",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  180,
+        "englishName":  "Flaaffy",
+        "germanName":  "Waaty",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  181,
+        "englishName":  "Ampharos",
+        "germanName":  "Ampharos",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  182,
+        "englishName":  "Bellossom",
+        "germanName":  "Blubella",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  183,
+        "englishName":  "Marill",
+        "germanName":  "Marill",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  184,
+        "englishName":  "Azumarill",
+        "germanName":  "Azumarill",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  185,
+        "englishName":  "Sudowoodo",
+        "germanName":  "Mogelbaum",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  186,
+        "englishName":  "Politoed",
+        "germanName":  "Quaxo",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  187,
+        "englishName":  "Hoppip",
+        "germanName":  "Hoppspross",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  188,
+        "englishName":  "Skiploom",
+        "germanName":  "Hubelupf",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  189,
+        "englishName":  "Jumpluff",
+        "germanName":  "Papungha",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  190,
+        "englishName":  "Aipom",
+        "germanName":  "Griffel",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  191,
+        "englishName":  "Sunkern",
+        "germanName":  "Sonnkern",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  192,
+        "englishName":  "Sunflora",
+        "germanName":  "Sonnflora",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  193,
+        "englishName":  "Yanma",
+        "germanName":  "Yanma",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  194,
+        "englishName":  "Wooper",
+        "germanName":  "Felino",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  195,
+        "englishName":  "Quagsire",
+        "germanName":  "Morlord",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  196,
+        "englishName":  "Espeon",
+        "germanName":  "Psiana",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  197,
+        "englishName":  "Umbreon",
+        "germanName":  "Nachtara",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  198,
+        "englishName":  "Murkrow",
+        "germanName":  "Kramurx",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  199,
+        "englishName":  "Slowking",
+        "germanName":  "Laschoking",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  200,
+        "englishName":  "Misdreavus",
+        "germanName":  "Traunfugil",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  201,
+        "englishName":  "Unown",
+        "germanName":  "Icognito",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  202,
+        "englishName":  "Wobbuffet",
+        "germanName":  "Woingenau",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  203,
+        "englishName":  "Girafarig",
+        "germanName":  "Girafarig",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  204,
+        "englishName":  "Pineco",
+        "germanName":  "Tannza",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  205,
+        "englishName":  "Forretress",
+        "germanName":  "Forstellka",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  206,
+        "englishName":  "Dunsparce",
+        "germanName":  "Dummisel",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  207,
+        "englishName":  "Gligar",
+        "germanName":  "Skorgla",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  208,
+        "englishName":  "Steelix",
+        "germanName":  "Stahlos",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  209,
+        "englishName":  "Snubbull",
+        "germanName":  "Snubbull",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  210,
+        "englishName":  "Granbull",
+        "germanName":  "Granbull",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  211,
+        "englishName":  "Qwilfish",
+        "germanName":  "Baldorfish",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  212,
+        "englishName":  "Scizor",
+        "germanName":  "Scherox",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  213,
+        "englishName":  "Shuckle",
+        "germanName":  "Pottrott",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  214,
+        "englishName":  "Heracross",
+        "germanName":  "Skaraborn",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  215,
+        "englishName":  "Sneasel",
+        "germanName":  "Sniebel",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  216,
+        "englishName":  "Teddiursa",
+        "germanName":  "Teddiursa",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  217,
+        "englishName":  "Ursaring",
+        "germanName":  "Ursaring",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  218,
+        "englishName":  "Slugma",
+        "germanName":  "Schneckmag",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  219,
+        "englishName":  "Magcargo",
+        "germanName":  "Magcargo",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  220,
+        "englishName":  "Swinub",
+        "germanName":  "Quiekel",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  221,
+        "englishName":  "Piloswine",
+        "germanName":  "Keifel",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  222,
+        "englishName":  "Corsola",
+        "germanName":  "Corasonn",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  223,
+        "englishName":  "Remoraid",
+        "germanName":  "Remoraid",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  224,
+        "englishName":  "Octillery",
+        "germanName":  "Octillery",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  225,
+        "englishName":  "Delibird",
+        "germanName":  "Botogel",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  226,
+        "englishName":  "Mantine",
+        "germanName":  "Mantax",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  227,
+        "englishName":  "Skarmory",
+        "germanName":  "Panzaeron",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  228,
+        "englishName":  "Houndour",
+        "germanName":  "Hunduster",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  229,
+        "englishName":  "Houndoom",
+        "germanName":  "Hundemon",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  230,
+        "englishName":  "Kingdra",
+        "germanName":  "Seedraking",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  231,
+        "englishName":  "Phanpy",
+        "germanName":  "Phanpy",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  232,
+        "englishName":  "Donphan",
+        "germanName":  "Donphan",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  233,
+        "englishName":  "Porygon2",
+        "germanName":  "Porygon2",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  234,
+        "englishName":  "Stantler",
+        "germanName":  "Damhirplex",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  235,
+        "englishName":  "Smeargle",
+        "germanName":  "Farbeagle",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  236,
+        "englishName":  "Tyrogue",
+        "germanName":  "Rabauz",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  237,
+        "englishName":  "Hitmontop",
+        "germanName":  "Kapoera",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  238,
+        "englishName":  "Smoochum",
+        "germanName":  "Kussilla",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  239,
+        "englishName":  "Elekid",
+        "germanName":  "Elekid",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  240,
+        "englishName":  "Magby",
+        "germanName":  "Magby",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  241,
+        "englishName":  "Miltank",
+        "germanName":  "Miltank",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  242,
+        "englishName":  "Blissey",
+        "germanName":  "Heiteira",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  243,
+        "englishName":  "Raikou",
+        "germanName":  "Raikou",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  244,
+        "englishName":  "Entei",
+        "germanName":  "Entei",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  245,
+        "englishName":  "Suicune",
+        "germanName":  "Suicune",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  246,
+        "englishName":  "Larvitar",
+        "germanName":  "Larvitar",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  247,
+        "englishName":  "Pupitar",
+        "germanName":  "Pupitar",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  248,
+        "englishName":  "Tyranitar",
+        "germanName":  "Despotar",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  249,
+        "englishName":  "Lugia",
+        "germanName":  "Lugia",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  250,
+        "englishName":  "Ho-Oh",
+        "germanName":  "Ho-Oh",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  251,
+        "englishName":  "Celebi",
+        "germanName":  "Celebi",
+        "generation":  2
+    },
+    {
+        "pokedexNumber":  252,
+        "englishName":  "Treecko",
+        "germanName":  "Geckarbor",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  253,
+        "englishName":  "Grovyle",
+        "germanName":  "Reptain",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  254,
+        "englishName":  "Sceptile",
+        "germanName":  "Gewaldro",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  255,
+        "englishName":  "Torchic",
+        "germanName":  "Flemmli",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  256,
+        "englishName":  "Combusken",
+        "germanName":  "Jungglut",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  257,
+        "englishName":  "Blaziken",
+        "germanName":  "Lohgock",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  258,
+        "englishName":  "Mudkip",
+        "germanName":  "Hydropi",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  259,
+        "englishName":  "Marshtomp",
+        "germanName":  "Moorabbel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  260,
+        "englishName":  "Swampert",
+        "germanName":  "Sumpex",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  261,
+        "englishName":  "Poochyena",
+        "germanName":  "Fiffyen",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  262,
+        "englishName":  "Mightyena",
+        "germanName":  "Magnayen",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  263,
+        "englishName":  "Zigzagoon",
+        "germanName":  "Zigzachs",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  264,
+        "englishName":  "Linoone",
+        "germanName":  "Geradaks",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  265,
+        "englishName":  "Wurmple",
+        "germanName":  "Waumpel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  266,
+        "englishName":  "Silcoon",
+        "germanName":  "Schaloko",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  267,
+        "englishName":  "Beautifly",
+        "germanName":  "Papinella",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  268,
+        "englishName":  "Cascoon",
+        "germanName":  "Panekon",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  269,
+        "englishName":  "Dustox",
+        "germanName":  "Pudox",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  270,
+        "englishName":  "Lotad",
+        "germanName":  "Loturzel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  271,
+        "englishName":  "Lombre",
+        "germanName":  "Lombrero",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  272,
+        "englishName":  "Ludicolo",
+        "germanName":  "Kappalores",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  273,
+        "englishName":  "Seedot",
+        "germanName":  "Samurzel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  274,
+        "englishName":  "Nuzleaf",
+        "germanName":  "Blanas",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  275,
+        "englishName":  "Shiftry",
+        "germanName":  "Tengulist",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  276,
+        "englishName":  "Taillow",
+        "germanName":  "Schwalbini",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  277,
+        "englishName":  "Swellow",
+        "germanName":  "Schwalboss",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  278,
+        "englishName":  "Wingull",
+        "germanName":  "Wingull",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  279,
+        "englishName":  "Pelipper",
+        "germanName":  "Pelipper",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  280,
+        "englishName":  "Ralts",
+        "germanName":  "Trasla",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  281,
+        "englishName":  "Kirlia",
+        "germanName":  "Kirlia",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  282,
+        "englishName":  "Gardevoir",
+        "germanName":  "Guardevoir",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  283,
+        "englishName":  "Surskit",
+        "germanName":  "Gehweiher",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  284,
+        "englishName":  "Masquerain",
+        "germanName":  "Maskeregen",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  285,
+        "englishName":  "Shroomish",
+        "germanName":  "Knilz",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  286,
+        "englishName":  "Breloom",
+        "germanName":  "Kapilz",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  287,
+        "englishName":  "Slakoth",
+        "germanName":  "Bummelz",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  288,
+        "englishName":  "Vigoroth",
+        "germanName":  "Muntier",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  289,
+        "englishName":  "Slaking",
+        "germanName":  "Letarking",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  290,
+        "englishName":  "Nincada",
+        "germanName":  "Nincada",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  291,
+        "englishName":  "Ninjask",
+        "germanName":  "Ninjask",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  292,
+        "englishName":  "Shedinja",
+        "germanName":  "Ninjatom",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  293,
+        "englishName":  "Whismur",
+        "germanName":  "Flurmel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  294,
+        "englishName":  "Loudred",
+        "germanName":  "Krakeelo",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  295,
+        "englishName":  "Exploud",
+        "germanName":  "Krawumms",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  296,
+        "englishName":  "Makuhita",
+        "germanName":  "Makuhita",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  297,
+        "englishName":  "Hariyama",
+        "germanName":  "Hariyama",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  298,
+        "englishName":  "Azurill",
+        "germanName":  "Azurill",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  299,
+        "englishName":  "Nosepass",
+        "germanName":  "Nasgnet",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  300,
+        "englishName":  "Skitty",
+        "germanName":  "Eneco",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  301,
+        "englishName":  "Delcatty",
+        "germanName":  "Enekoro",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  302,
+        "englishName":  "Sableye",
+        "germanName":  "Zobiris",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  303,
+        "englishName":  "Mawile",
+        "germanName":  "Flunkifer",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  304,
+        "englishName":  "Aron",
+        "germanName":  "Stollunior",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  305,
+        "englishName":  "Lairon",
+        "germanName":  "Stollrak",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  306,
+        "englishName":  "Aggron",
+        "germanName":  "Stolloss",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  307,
+        "englishName":  "Meditite",
+        "germanName":  "Meditie",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  308,
+        "englishName":  "Medicham",
+        "germanName":  "Meditalis",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  309,
+        "englishName":  "Electrike",
+        "germanName":  "Frizelbliz",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  310,
+        "englishName":  "Manectric",
+        "germanName":  "Voltenso",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  311,
+        "englishName":  "Plusle",
+        "germanName":  "Plusle",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  312,
+        "englishName":  "Minun",
+        "germanName":  "Minun",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  313,
+        "englishName":  "Volbeat",
+        "germanName":  "Volbeat",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  314,
+        "englishName":  "Illumise",
+        "germanName":  "Illumise",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  315,
+        "englishName":  "Roselia",
+        "germanName":  "Roselia",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  316,
+        "englishName":  "Gulpin",
+        "germanName":  "Schluppuck",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  317,
+        "englishName":  "Swalot",
+        "germanName":  "Schlukwech",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  318,
+        "englishName":  "Carvanha",
+        "germanName":  "Kanivanha",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  319,
+        "englishName":  "Sharpedo",
+        "germanName":  "Tohaido",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  320,
+        "englishName":  "Wailmer",
+        "germanName":  "Wailmer",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  321,
+        "englishName":  "Wailord",
+        "germanName":  "Wailord",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  322,
+        "englishName":  "Numel",
+        "germanName":  "Camaub",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  323,
+        "englishName":  "Camerupt",
+        "germanName":  "Camerupt",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  324,
+        "englishName":  "Torkoal",
+        "germanName":  "Qurtel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  325,
+        "englishName":  "Spoink",
+        "germanName":  "Spoink",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  326,
+        "englishName":  "Grumpig",
+        "germanName":  "Groink",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  327,
+        "englishName":  "Spinda",
+        "germanName":  "Pandir",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  328,
+        "englishName":  "Trapinch",
+        "germanName":  "Knacklion",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  329,
+        "englishName":  "Vibrava",
+        "germanName":  "Vibrava",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  330,
+        "englishName":  "Flygon",
+        "germanName":  "Libelldra",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  331,
+        "englishName":  "Cacnea",
+        "germanName":  "Tuska",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  332,
+        "englishName":  "Cacturne",
+        "germanName":  "Noktuska",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  333,
+        "englishName":  "Swablu",
+        "germanName":  "Wablu",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  334,
+        "englishName":  "Altaria",
+        "germanName":  "Altaria",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  335,
+        "englishName":  "Zangoose",
+        "germanName":  "Sengo",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  336,
+        "englishName":  "Seviper",
+        "germanName":  "Vipitis",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  337,
+        "englishName":  "Lunatone",
+        "germanName":  "Lunastein",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  338,
+        "englishName":  "Solrock",
+        "germanName":  "Sonnfel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  339,
+        "englishName":  "Barboach",
+        "germanName":  "Schmerbe",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  340,
+        "englishName":  "Whiscash",
+        "germanName":  "Welsar",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  341,
+        "englishName":  "Corphish",
+        "germanName":  "Krebscorps",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  342,
+        "englishName":  "Crawdaunt",
+        "germanName":  "Krebutack",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  343,
+        "englishName":  "Baltoy",
+        "germanName":  "Puppance",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  344,
+        "englishName":  "Claydol",
+        "germanName":  "Lepumentas",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  345,
+        "englishName":  "Lileep",
+        "germanName":  "Liliep",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  346,
+        "englishName":  "Cradily",
+        "germanName":  "Wielie",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  347,
+        "englishName":  "Anorith",
+        "germanName":  "Anorith",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  348,
+        "englishName":  "Armaldo",
+        "germanName":  "Armaldo",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  349,
+        "englishName":  "Feebas",
+        "germanName":  "Barschwa",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  350,
+        "englishName":  "Milotic",
+        "germanName":  "Milotic",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  351,
+        "englishName":  "Castform",
+        "germanName":  "Formeo",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  352,
+        "englishName":  "Kecleon",
+        "germanName":  "Kecleon",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  353,
+        "englishName":  "Shuppet",
+        "germanName":  "Shuppet",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  354,
+        "englishName":  "Banette",
+        "germanName":  "Banette",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  355,
+        "englishName":  "Duskull",
+        "germanName":  "Zwirrlicht",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  356,
+        "englishName":  "Dusclops",
+        "germanName":  "Zwirrklop",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  357,
+        "englishName":  "Tropius",
+        "germanName":  "Tropius",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  358,
+        "englishName":  "Chimecho",
+        "germanName":  "Palimpalim",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  359,
+        "englishName":  "Absol",
+        "germanName":  "Absol",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  360,
+        "englishName":  "Wynaut",
+        "germanName":  "Isso",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  361,
+        "englishName":  "Snorunt",
+        "germanName":  "Schneppke",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  362,
+        "englishName":  "Glalie",
+        "germanName":  "Firnontor",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  363,
+        "englishName":  "Spheal",
+        "germanName":  "Seemops",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  364,
+        "englishName":  "Sealeo",
+        "germanName":  "Seejong",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  365,
+        "englishName":  "Walrein",
+        "germanName":  "Walraisa",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  366,
+        "englishName":  "Clamperl",
+        "germanName":  "Perlu",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  367,
+        "englishName":  "Huntail",
+        "germanName":  "Aalabyss",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  368,
+        "englishName":  "Gorebyss",
+        "germanName":  "Saganabyss",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  369,
+        "englishName":  "Relicanth",
+        "germanName":  "Relicanth",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  370,
+        "englishName":  "Luvdisc",
+        "germanName":  "Liebiskus",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  371,
+        "englishName":  "Bagon",
+        "germanName":  "Kindwurm",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  372,
+        "englishName":  "Shelgon",
+        "germanName":  "Draschel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  373,
+        "englishName":  "Salamence",
+        "germanName":  "Brutalanda",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  374,
+        "englishName":  "Beldum",
+        "germanName":  "Tanhel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  375,
+        "englishName":  "Metang",
+        "germanName":  "Metang",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  376,
+        "englishName":  "Metagross",
+        "germanName":  "Metagross",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  377,
+        "englishName":  "Regirock",
+        "germanName":  "Regirock",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  378,
+        "englishName":  "Regice",
+        "germanName":  "Regice",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  379,
+        "englishName":  "Registeel",
+        "germanName":  "Registeel",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  380,
+        "englishName":  "Latias",
+        "germanName":  "Latias",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  381,
+        "englishName":  "Latios",
+        "germanName":  "Latios",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  382,
+        "englishName":  "Kyogre",
+        "germanName":  "Kyogre",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  383,
+        "englishName":  "Groudon",
+        "germanName":  "Groudon",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  384,
+        "englishName":  "Rayquaza",
+        "germanName":  "Rayquaza",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  385,
+        "englishName":  "Jirachi",
+        "germanName":  "Jirachi",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  386,
+        "englishName":  "Deoxys",
+        "germanName":  "Deoxys",
+        "generation":  3
+    },
+    {
+        "pokedexNumber":  387,
+        "englishName":  "Turtwig",
+        "germanName":  "Chelast",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  388,
+        "englishName":  "Grotle",
+        "germanName":  "Chelcarain",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  389,
+        "englishName":  "Torterra",
+        "germanName":  "Chelterrar",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  390,
+        "englishName":  "Chimchar",
+        "germanName":  "Panflam",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  391,
+        "englishName":  "Monferno",
+        "germanName":  "Panpyro",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  392,
+        "englishName":  "Infernape",
+        "germanName":  "Panferno",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  393,
+        "englishName":  "Piplup",
+        "germanName":  "Plinfa",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  394,
+        "englishName":  "Prinplup",
+        "germanName":  "Pliprin",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  395,
+        "englishName":  "Empoleon",
+        "germanName":  "Impoleon",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  396,
+        "englishName":  "Starly",
+        "germanName":  "Staralili",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  397,
+        "englishName":  "Staravia",
+        "germanName":  "Staravia",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  398,
+        "englishName":  "Staraptor",
+        "germanName":  "Staraptor",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  399,
+        "englishName":  "Bidoof",
+        "germanName":  "Bidiza",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  400,
+        "englishName":  "Bibarel",
+        "germanName":  "Bidifas",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  401,
+        "englishName":  "Kricketot",
+        "germanName":  "Zirpurze",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  402,
+        "englishName":  "Kricketune",
+        "germanName":  "Zirpeise",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  403,
+        "englishName":  "Shinx",
+        "germanName":  "Sheinux",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  404,
+        "englishName":  "Luxio",
+        "germanName":  "Luxio",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  405,
+        "englishName":  "Luxray",
+        "germanName":  "Luxtra",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  406,
+        "englishName":  "Budew",
+        "germanName":  "Knospi",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  407,
+        "englishName":  "Roserade",
+        "germanName":  "Roserade",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  408,
+        "englishName":  "Cranidos",
+        "germanName":  "Koknodon",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  409,
+        "englishName":  "Rampardos",
+        "germanName":  "Rameidon",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  410,
+        "englishName":  "Shieldon",
+        "germanName":  "Schilterus",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  411,
+        "englishName":  "Bastiodon",
+        "germanName":  "Bollterus",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  412,
+        "englishName":  "Burmy",
+        "germanName":  "Burmy",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  413,
+        "englishName":  "Wormadam",
+        "germanName":  "Burmadame",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  414,
+        "englishName":  "Mothim",
+        "germanName":  "Moterpel",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  415,
+        "englishName":  "Combee",
+        "germanName":  "Wadribie",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  416,
+        "englishName":  "Vespiquen",
+        "germanName":  "Honweisel",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  417,
+        "englishName":  "Pachirisu",
+        "germanName":  "Pachirisu",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  418,
+        "englishName":  "Buizel",
+        "germanName":  "Bamelin",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  419,
+        "englishName":  "Floatzel",
+        "germanName":  "Bojelin",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  420,
+        "englishName":  "Cherubi",
+        "germanName":  "Kikugi",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  421,
+        "englishName":  "Cherrim",
+        "germanName":  "Kinoso",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  422,
+        "englishName":  "Shellos",
+        "germanName":  "Schalellos",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  423,
+        "englishName":  "Gastrodon",
+        "germanName":  "Gastrodon",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  424,
+        "englishName":  "Ambipom",
+        "germanName":  "Ambidiffel",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  425,
+        "englishName":  "Drifloon",
+        "germanName":  "Driftlon",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  426,
+        "englishName":  "Drifblim",
+        "germanName":  "Drifzepeli",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  427,
+        "englishName":  "Buneary",
+        "germanName":  "Haspiror",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  428,
+        "englishName":  "Lopunny",
+        "germanName":  "Schlapor",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  429,
+        "englishName":  "Mismagius",
+        "germanName":  "Traunmagil",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  430,
+        "englishName":  "Honchkrow",
+        "germanName":  "Kramshef",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  431,
+        "englishName":  "Glameow",
+        "germanName":  "Charmian",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  432,
+        "englishName":  "Purugly",
+        "germanName":  "Shnurgarst",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  433,
+        "englishName":  "Chingling",
+        "germanName":  "Klingplim",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  434,
+        "englishName":  "Stunky",
+        "germanName":  "Skunkapuh",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  435,
+        "englishName":  "Skuntank",
+        "germanName":  "Skuntank",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  436,
+        "englishName":  "Bronzor",
+        "germanName":  "Bronzel",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  437,
+        "englishName":  "Bronzong",
+        "germanName":  "Bronzong",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  438,
+        "englishName":  "Bonsly",
+        "germanName":  "Mobai",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  439,
+        "englishName":  "Mime Jr.",
+        "germanName":  "Pantimimi",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  440,
+        "englishName":  "Happiny",
+        "germanName":  "Wonneira",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  441,
+        "englishName":  "Chatot",
+        "germanName":  "Plaudagei",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  442,
+        "englishName":  "Spiritomb",
+        "germanName":  "Kryppuk",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  443,
+        "englishName":  "Gible",
+        "germanName":  "Kaumalat",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  444,
+        "englishName":  "Gabite",
+        "germanName":  "Knarksel",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  445,
+        "englishName":  "Garchomp",
+        "germanName":  "Knakrack",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  446,
+        "englishName":  "Munchlax",
+        "germanName":  "Mampfaxo",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  447,
+        "englishName":  "Riolu",
+        "germanName":  "Riolu",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  448,
+        "englishName":  "Lucario",
+        "germanName":  "Lucario",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  449,
+        "englishName":  "Hippopotas",
+        "germanName":  "Hippopotas",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  450,
+        "englishName":  "Hippowdon",
+        "germanName":  "Hippoterus",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  451,
+        "englishName":  "Skorupi",
+        "germanName":  "Pionskora",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  452,
+        "englishName":  "Drapion",
+        "germanName":  "Piondragi",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  453,
+        "englishName":  "Croagunk",
+        "germanName":  "Glibunkel",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  454,
+        "englishName":  "Toxicroak",
+        "germanName":  "Toxiquak",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  455,
+        "englishName":  "Carnivine",
+        "germanName":  "Venuflibis",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  456,
+        "englishName":  "Finneon",
+        "germanName":  "Finneon",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  457,
+        "englishName":  "Lumineon",
+        "germanName":  "Lumineon",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  458,
+        "englishName":  "Mantyke",
+        "germanName":  "Mantirps",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  459,
+        "englishName":  "Snover",
+        "germanName":  "Shnebedeck",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  460,
+        "englishName":  "Abomasnow",
+        "germanName":  "Rexblisar",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  461,
+        "englishName":  "Weavile",
+        "germanName":  "Snibunna",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  462,
+        "englishName":  "Magnezone",
+        "germanName":  "Magnezone",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  463,
+        "englishName":  "Lickilicky",
+        "germanName":  "Schlurplek",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  464,
+        "englishName":  "Rhyperior",
+        "germanName":  "Rihornior",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  465,
+        "englishName":  "Tangrowth",
+        "germanName":  "Tangoloss",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  466,
+        "englishName":  "Electivire",
+        "germanName":  "Elevoltek",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  467,
+        "englishName":  "Magmortar",
+        "germanName":  "Magbrant",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  468,
+        "englishName":  "Togekiss",
+        "germanName":  "Togekiss",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  469,
+        "englishName":  "Yanmega",
+        "germanName":  "Yanmega",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  470,
+        "englishName":  "Leafeon",
+        "germanName":  "Folipurba",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  471,
+        "englishName":  "Glaceon",
+        "germanName":  "Glaziola",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  472,
+        "englishName":  "Gliscor",
+        "germanName":  "Skorgro",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  473,
+        "englishName":  "Mamoswine",
+        "germanName":  "Mamutel",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  474,
+        "englishName":  "Porygon-Z",
+        "germanName":  "Porygon-Z",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  475,
+        "englishName":  "Gallade",
+        "germanName":  "Galagladi",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  476,
+        "englishName":  "Probopass",
+        "germanName":  "Voluminas",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  477,
+        "englishName":  "Dusknoir",
+        "germanName":  "Zwirrfinst",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  478,
+        "englishName":  "Froslass",
+        "germanName":  "Frosdedje",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  479,
+        "englishName":  "Rotom",
+        "germanName":  "Rotom",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  480,
+        "englishName":  "Uxie",
+        "germanName":  "Selfe",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  481,
+        "englishName":  "Mesprit",
+        "germanName":  "Vesprit",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  482,
+        "englishName":  "Azelf",
+        "germanName":  "Tobutz",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  483,
+        "englishName":  "Dialga",
+        "germanName":  "Dialga",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  484,
+        "englishName":  "Palkia",
+        "germanName":  "Palkia",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  485,
+        "englishName":  "Heatran",
+        "germanName":  "Heatran",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  486,
+        "englishName":  "Regigigas",
+        "germanName":  "Regigigas",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  487,
+        "englishName":  "Giratina",
+        "germanName":  "Giratina",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  488,
+        "englishName":  "Cresselia",
+        "germanName":  "Cresselia",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  489,
+        "englishName":  "Phione",
+        "germanName":  "Phione",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  490,
+        "englishName":  "Manaphy",
+        "germanName":  "Manaphy",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  491,
+        "englishName":  "Darkrai",
+        "germanName":  "Darkrai",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  492,
+        "englishName":  "Shaymin",
+        "germanName":  "Shaymin",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  493,
+        "englishName":  "Arceus",
+        "germanName":  "Arceus",
+        "generation":  4
+    },
+    {
+        "pokedexNumber":  494,
+        "englishName":  "Victini",
+        "germanName":  "Victini",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  495,
+        "englishName":  "Snivy",
+        "germanName":  "Serpifeu",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  496,
+        "englishName":  "Servine",
+        "germanName":  "Efoserp",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  497,
+        "englishName":  "Serperior",
+        "germanName":  "Serpiroyal",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  498,
+        "englishName":  "Tepig",
+        "germanName":  "Floink",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  499,
+        "englishName":  "Pignite",
+        "germanName":  "Ferkokel",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  500,
+        "englishName":  "Emboar",
+        "germanName":  "Flambirex",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  501,
+        "englishName":  "Oshawott",
+        "germanName":  "Ottaro",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  502,
+        "englishName":  "Dewott",
+        "germanName":  "Zwottronin",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  503,
+        "englishName":  "Samurott",
+        "germanName":  "Admurai",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  504,
+        "englishName":  "Patrat",
+        "germanName":  "Nagelotz",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  505,
+        "englishName":  "Watchog",
+        "germanName":  "Kukmarda",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  506,
+        "englishName":  "Lillipup",
+        "germanName":  "Yorkleff",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  507,
+        "englishName":  "Herdier",
+        "germanName":  "Terribark",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  508,
+        "englishName":  "Stoutland",
+        "germanName":  "Bissbark",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  509,
+        "englishName":  "Purrloin",
+        "germanName":  "Felilou",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  510,
+        "englishName":  "Liepard",
+        "germanName":  "Kleoparda",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  511,
+        "englishName":  "Pansage",
+        "germanName":  "Vegimak",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  512,
+        "englishName":  "Simisage",
+        "germanName":  "Vegichita",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  513,
+        "englishName":  "Pansear",
+        "germanName":  "Grillmak",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  514,
+        "englishName":  "Simisear",
+        "germanName":  "Grillchita",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  515,
+        "englishName":  "Panpour",
+        "germanName":  "Sodamak",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  516,
+        "englishName":  "Simipour",
+        "germanName":  "Sodachita",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  517,
+        "englishName":  "Munna",
+        "germanName":  "Somniam",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  518,
+        "englishName":  "Musharna",
+        "germanName":  "Somnivora",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  519,
+        "englishName":  "Pidove",
+        "germanName":  "Dusselgurr",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  520,
+        "englishName":  "Tranquill",
+        "germanName":  "Navitaub",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  521,
+        "englishName":  "Unfezant",
+        "germanName":  "Fasasnob",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  522,
+        "englishName":  "Blitzle",
+        "germanName":  "Elezeba",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  523,
+        "englishName":  "Zebstrika",
+        "germanName":  "Zebritz",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  524,
+        "englishName":  "Roggenrola",
+        "germanName":  "Kiesling",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  525,
+        "englishName":  "Boldore",
+        "germanName":  "Sedimantur",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  526,
+        "englishName":  "Gigalith",
+        "germanName":  "Brockoloss",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  527,
+        "englishName":  "Woobat",
+        "germanName":  "Fleknoil",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  528,
+        "englishName":  "Swoobat",
+        "germanName":  "Fletiamo",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  529,
+        "englishName":  "Drilbur",
+        "germanName":  "Rotomurf",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  530,
+        "englishName":  "Excadrill",
+        "germanName":  "Stalobor",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  531,
+        "englishName":  "Audino",
+        "germanName":  "Ohrdoch",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  532,
+        "englishName":  "Timburr",
+        "germanName":  "Praktibalk",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  533,
+        "englishName":  "Gurdurr",
+        "germanName":  "Strepoli",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  534,
+        "englishName":  "Conkeldurr",
+        "germanName":  "Meistagrif",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  535,
+        "englishName":  "Tympole",
+        "germanName":  "Schallquap",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  536,
+        "englishName":  "Palpitoad",
+        "germanName":  "Mebrana",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  537,
+        "englishName":  "Seismitoad",
+        "germanName":  "Branawarz",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  538,
+        "englishName":  "Throh",
+        "germanName":  "Jiutesto",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  539,
+        "englishName":  "Sawk",
+        "germanName":  "Karadonis",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  540,
+        "englishName":  "Sewaddle",
+        "germanName":  "Strawickl",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  541,
+        "englishName":  "Swadloon",
+        "germanName":  "Folikon",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  542,
+        "englishName":  "Leavanny",
+        "germanName":  "Matrifol",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  543,
+        "englishName":  "Venipede",
+        "germanName":  "Toxiped",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  544,
+        "englishName":  "Whirlipede",
+        "germanName":  "Rollum",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  545,
+        "englishName":  "Scolipede",
+        "germanName":  "Cerapendra",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  546,
+        "englishName":  "Cottonee",
+        "germanName":  "Waumboll",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  547,
+        "englishName":  "Whimsicott",
+        "germanName":  "Elfun",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  548,
+        "englishName":  "Petilil",
+        "germanName":  "Lilminip",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  549,
+        "englishName":  "Lilligant",
+        "germanName":  "Dressella",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  550,
+        "englishName":  "Basculin",
+        "germanName":  "Barschuft",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  551,
+        "englishName":  "Sandile",
+        "germanName":  "Ganovil",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  552,
+        "englishName":  "Krokorok",
+        "germanName":  "Rokkaiman",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  553,
+        "englishName":  "Krookodile",
+        "germanName":  "Rabigator",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  554,
+        "englishName":  "Darumaka",
+        "germanName":  "Flampion",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  555,
+        "englishName":  "Darmanitan",
+        "germanName":  "Flampivian",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  556,
+        "englishName":  "Maractus",
+        "germanName":  "Maracamba",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  557,
+        "englishName":  "Dwebble",
+        "germanName":  "Lithomith",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  558,
+        "englishName":  "Crustle",
+        "germanName":  "Castellith",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  559,
+        "englishName":  "Scraggy",
+        "germanName":  "Zurrokex",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  560,
+        "englishName":  "Scrafty",
+        "germanName":  "Irokex",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  561,
+        "englishName":  "Sigilyph",
+        "germanName":  "Symvolara",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  562,
+        "englishName":  "Yamask",
+        "germanName":  "Makabaja",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  563,
+        "englishName":  "Cofagrigus",
+        "germanName":  "Echnatoll",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  564,
+        "englishName":  "Tirtouga",
+        "germanName":  "Galapaflos",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  565,
+        "englishName":  "Carracosta",
+        "germanName":  "Karippas",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  566,
+        "englishName":  "Archen",
+        "germanName":  "Flapteryx",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  567,
+        "englishName":  "Archeops",
+        "germanName":  "Aeropteryx",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  568,
+        "englishName":  "Trubbish",
+        "germanName":  "Unratütox",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  569,
+        "englishName":  "Garbodor",
+        "germanName":  "Deponitox",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  570,
+        "englishName":  "Zorua",
+        "germanName":  "Zorua",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  571,
+        "englishName":  "Zoroark",
+        "germanName":  "Zoroark",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  572,
+        "englishName":  "Minccino",
+        "germanName":  "Picochilla",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  573,
+        "englishName":  "Cinccino",
+        "germanName":  "Chillabell",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  574,
+        "englishName":  "Gothita",
+        "germanName":  "Mollimorba",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  575,
+        "englishName":  "Gothorita",
+        "germanName":  "Hypnomorba",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  576,
+        "englishName":  "Gothitelle",
+        "germanName":  "Morbitesse",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  577,
+        "englishName":  "Solosis",
+        "germanName":  "Monozyto",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  578,
+        "englishName":  "Duosion",
+        "germanName":  "Mitodos",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  579,
+        "englishName":  "Reuniclus",
+        "germanName":  "Zytomega",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  580,
+        "englishName":  "Ducklett",
+        "germanName":  "Piccolente",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  581,
+        "englishName":  "Swanna",
+        "germanName":  "Swaroness",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  582,
+        "englishName":  "Vanillite",
+        "germanName":  "Gelatini",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  583,
+        "englishName":  "Vanillish",
+        "germanName":  "Gelatroppo",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  584,
+        "englishName":  "Vanilluxe",
+        "germanName":  "Gelatwino",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  585,
+        "englishName":  "Deerling",
+        "germanName":  "Sesokitz",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  586,
+        "englishName":  "Sawsbuck",
+        "germanName":  "Kronjuwild",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  587,
+        "englishName":  "Emolga",
+        "germanName":  "Emolga",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  588,
+        "englishName":  "Karrablast",
+        "germanName":  "Laukaps",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  589,
+        "englishName":  "Escavalier",
+        "germanName":  "Cavalanzas",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  590,
+        "englishName":  "Foongus",
+        "germanName":  "Tarnpignon",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  591,
+        "englishName":  "Amoonguss",
+        "germanName":  "Hutsassa",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  592,
+        "englishName":  "Frillish",
+        "germanName":  "Quabbel",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  593,
+        "englishName":  "Jellicent",
+        "germanName":  "Apoquallyp",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  594,
+        "englishName":  "Alomomola",
+        "germanName":  "Mamolida",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  595,
+        "englishName":  "Joltik",
+        "germanName":  "Wattzapf",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  596,
+        "englishName":  "Galvantula",
+        "germanName":  "Voltula",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  597,
+        "englishName":  "Ferroseed",
+        "germanName":  "Kastadur",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  598,
+        "englishName":  "Ferrothorn",
+        "germanName":  "Tentantel",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  599,
+        "englishName":  "Klink",
+        "germanName":  "Klikk",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  600,
+        "englishName":  "Klang",
+        "germanName":  "Kliklak",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  601,
+        "englishName":  "Klinklang",
+        "germanName":  "Klikdiklak",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  602,
+        "englishName":  "Tynamo",
+        "germanName":  "Zapplardin",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  603,
+        "englishName":  "Eelektrik",
+        "germanName":  "Zapplalek",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  604,
+        "englishName":  "Eelektross",
+        "germanName":  "Zapplarang",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  605,
+        "englishName":  "Elgyem",
+        "germanName":  "Pygraulon",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  606,
+        "englishName":  "Beheeyem",
+        "germanName":  "Megalon",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  607,
+        "englishName":  "Litwick",
+        "germanName":  "Lichtel",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  608,
+        "englishName":  "Lampent",
+        "germanName":  "Laternecto",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  609,
+        "englishName":  "Chandelure",
+        "germanName":  "Skelabra",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  610,
+        "englishName":  "Axew",
+        "germanName":  "Milza",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  611,
+        "englishName":  "Fraxure",
+        "germanName":  "Sharfax",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  612,
+        "englishName":  "Haxorus",
+        "germanName":  "Maxax",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  613,
+        "englishName":  "Cubchoo",
+        "germanName":  "Petznief",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  614,
+        "englishName":  "Beartic",
+        "germanName":  "Siberio",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  615,
+        "englishName":  "Cryogonal",
+        "germanName":  "Frigometri",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  616,
+        "englishName":  "Shelmet",
+        "germanName":  "Schnuthelm",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  617,
+        "englishName":  "Accelgor",
+        "germanName":  "Hydragil",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  618,
+        "englishName":  "Stunfisk",
+        "germanName":  "Flunschlik",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  619,
+        "englishName":  "Mienfoo",
+        "germanName":  "Lin-Fu",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  620,
+        "englishName":  "Mienshao",
+        "germanName":  "Wie-Shu",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  621,
+        "englishName":  "Druddigon",
+        "germanName":  "Shardrago",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  622,
+        "englishName":  "Golett",
+        "germanName":  "Golbit",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  623,
+        "englishName":  "Golurk",
+        "germanName":  "Golgantes",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  624,
+        "englishName":  "Pawniard",
+        "germanName":  "Gladiantri",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  625,
+        "englishName":  "Bisharp",
+        "germanName":  "Caesurio",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  626,
+        "englishName":  "Bouffalant",
+        "germanName":  "Bisofank",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  627,
+        "englishName":  "Rufflet",
+        "germanName":  "Geronimatz",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  628,
+        "englishName":  "Braviary",
+        "germanName":  "Washakwil",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  629,
+        "englishName":  "Vullaby",
+        "germanName":  "Skallyk",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  630,
+        "englishName":  "Mandibuzz",
+        "germanName":  "Grypheldis",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  631,
+        "englishName":  "Heatmor",
+        "germanName":  "Furnifraß",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  632,
+        "englishName":  "Durant",
+        "germanName":  "Fermicula",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  633,
+        "englishName":  "Deino",
+        "germanName":  "Kapuno",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  634,
+        "englishName":  "Zweilous",
+        "germanName":  "Duodino",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  635,
+        "englishName":  "Hydreigon",
+        "germanName":  "Trikephalo",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  636,
+        "englishName":  "Larvesta",
+        "germanName":  "Ignivor",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  637,
+        "englishName":  "Volcarona",
+        "germanName":  "Ramoth",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  638,
+        "englishName":  "Cobalion",
+        "germanName":  "Kobalium",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  639,
+        "englishName":  "Terrakion",
+        "germanName":  "Terrakium",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  640,
+        "englishName":  "Virizion",
+        "germanName":  "Viridium",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  641,
+        "englishName":  "Tornadus",
+        "germanName":  "Boreos",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  642,
+        "englishName":  "Thundurus",
+        "germanName":  "Voltolos",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  643,
+        "englishName":  "Reshiram",
+        "germanName":  "Reshiram",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  644,
+        "englishName":  "Zekrom",
+        "germanName":  "Zekrom",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  645,
+        "englishName":  "Landorus",
+        "germanName":  "Demeteros",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  646,
+        "englishName":  "Kyurem",
+        "germanName":  "Kyurem",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  647,
+        "englishName":  "Keldeo",
+        "germanName":  "Keldeo",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  648,
+        "englishName":  "Meloetta",
+        "germanName":  "Meloetta",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  649,
+        "englishName":  "Genesect",
+        "germanName":  "Genesect",
+        "generation":  5
+    },
+    {
+        "pokedexNumber":  650,
+        "englishName":  "Chespin",
+        "germanName":  "Igamaro",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  651,
+        "englishName":  "Quilladin",
+        "germanName":  "Igastarnish",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  652,
+        "englishName":  "Chesnaught",
+        "germanName":  "Brigaron",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  653,
+        "englishName":  "Fennekin",
+        "germanName":  "Fynx",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  654,
+        "englishName":  "Braixen",
+        "germanName":  "Rutena",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  655,
+        "englishName":  "Delphox",
+        "germanName":  "Fennexis",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  656,
+        "englishName":  "Froakie",
+        "germanName":  "Froxy",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  657,
+        "englishName":  "Frogadier",
+        "germanName":  "Amphizel",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  658,
+        "englishName":  "Greninja",
+        "germanName":  "Quajutsu",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  659,
+        "englishName":  "Bunnelby",
+        "germanName":  "Scoppel",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  660,
+        "englishName":  "Diggersby",
+        "germanName":  "Grebbit",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  661,
+        "englishName":  "Fletchling",
+        "germanName":  "Dartiri",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  662,
+        "englishName":  "Fletchinder",
+        "germanName":  "Dartignis",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  663,
+        "englishName":  "Talonflame",
+        "germanName":  "Fiaro",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  664,
+        "englishName":  "Scatterbug",
+        "germanName":  "Purmel",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  665,
+        "englishName":  "Spewpa",
+        "germanName":  "Puponcho",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  666,
+        "englishName":  "Vivillon",
+        "germanName":  "Vivillon",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  667,
+        "englishName":  "Litleo",
+        "germanName":  "Leufeo",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  668,
+        "englishName":  "Pyroar",
+        "germanName":  "Pyroleo",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  669,
+        "englishName":  "Flabébé",
+        "germanName":  "Flabébé",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  670,
+        "englishName":  "Floette",
+        "germanName":  "Floette",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  671,
+        "englishName":  "Florges",
+        "germanName":  "Florges",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  672,
+        "englishName":  "Skiddo",
+        "germanName":  "Mähikel",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  673,
+        "englishName":  "Gogoat",
+        "germanName":  "Chevrumm",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  674,
+        "englishName":  "Pancham",
+        "germanName":  "Pam-Pam",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  675,
+        "englishName":  "Pangoro",
+        "germanName":  "Pandagro",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  676,
+        "englishName":  "Furfrou",
+        "germanName":  "Coiffwaff",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  677,
+        "englishName":  "Espurr",
+        "germanName":  "Psiau",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  678,
+        "englishName":  "Meowstic",
+        "germanName":  "Psiaugon",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  679,
+        "englishName":  "Honedge",
+        "germanName":  "Gramokles",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  680,
+        "englishName":  "Doublade",
+        "germanName":  "Duokles",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  681,
+        "englishName":  "Aegislash",
+        "germanName":  "Durengard",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  682,
+        "englishName":  "Spritzee",
+        "germanName":  "Parfi",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  683,
+        "englishName":  "Aromatisse",
+        "germanName":  "Parfinesse",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  684,
+        "englishName":  "Swirlix",
+        "germanName":  "Flauschling",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  685,
+        "englishName":  "Slurpuff",
+        "germanName":  "Sabbaione",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  686,
+        "englishName":  "Inkay",
+        "germanName":  "Iscalar",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  687,
+        "englishName":  "Malamar",
+        "germanName":  "Calamanero",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  688,
+        "englishName":  "Binacle",
+        "germanName":  "Bithora",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  689,
+        "englishName":  "Barbaracle",
+        "germanName":  "Thanathora",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  690,
+        "englishName":  "Skrelp",
+        "germanName":  "Algitt",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  691,
+        "englishName":  "Dragalge",
+        "germanName":  "Tandrak",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  692,
+        "englishName":  "Clauncher",
+        "germanName":  "Scampisto",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  693,
+        "englishName":  "Clawitzer",
+        "germanName":  "Wummer",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  694,
+        "englishName":  "Helioptile",
+        "germanName":  "Eguana",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  695,
+        "englishName":  "Heliolisk",
+        "germanName":  "Elezard",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  696,
+        "englishName":  "Tyrunt",
+        "germanName":  "Balgoras",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  697,
+        "englishName":  "Tyrantrum",
+        "germanName":  "Monargoras",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  698,
+        "englishName":  "Amaura",
+        "germanName":  "Amarino",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  699,
+        "englishName":  "Aurorus",
+        "germanName":  "Amagarga",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  700,
+        "englishName":  "Sylveon",
+        "germanName":  "Feelinara",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  701,
+        "englishName":  "Hawlucha",
+        "germanName":  "Resladero",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  702,
+        "englishName":  "Dedenne",
+        "germanName":  "Dedenne",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  703,
+        "englishName":  "Carbink",
+        "germanName":  "Rocara",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  704,
+        "englishName":  "Goomy",
+        "germanName":  "Viscora",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  705,
+        "englishName":  "Sliggoo",
+        "germanName":  "Viscargot",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  706,
+        "englishName":  "Goodra",
+        "germanName":  "Viscogon",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  707,
+        "englishName":  "Klefki",
+        "germanName":  "Clavion",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  708,
+        "englishName":  "Phantump",
+        "germanName":  "Paragoni",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  709,
+        "englishName":  "Trevenant",
+        "germanName":  "Trombork",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  710,
+        "englishName":  "Pumpkaboo",
+        "germanName":  "Irrbis",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  711,
+        "englishName":  "Gourgeist",
+        "germanName":  "Pumpdjinn",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  712,
+        "englishName":  "Bergmite",
+        "germanName":  "Arktip",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  713,
+        "englishName":  "Avalugg",
+        "germanName":  "Arktilas",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  714,
+        "englishName":  "Noibat",
+        "germanName":  "eF-eM",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  715,
+        "englishName":  "Noivern",
+        "germanName":  "UHaFnir",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  716,
+        "englishName":  "Xerneas",
+        "germanName":  "Xerneas",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  717,
+        "englishName":  "Yveltal",
+        "germanName":  "Yveltal",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  718,
+        "englishName":  "Zygarde",
+        "germanName":  "Zygarde",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  719,
+        "englishName":  "Diancie",
+        "germanName":  "Diancie",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  720,
+        "englishName":  "Hoopa",
+        "germanName":  "Hoopa",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  721,
+        "englishName":  "Volcanion",
+        "germanName":  "Volcanion",
+        "generation":  6
+    },
+    {
+        "pokedexNumber":  722,
+        "englishName":  "Rowlet",
+        "germanName":  "Bauz",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  723,
+        "englishName":  "Dartrix",
+        "germanName":  "Arboretoss",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  724,
+        "englishName":  "Decidueye",
+        "germanName":  "Silvarro",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  725,
+        "englishName":  "Litten",
+        "germanName":  "Flamiau",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  726,
+        "englishName":  "Torracat",
+        "germanName":  "Miezunder",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  727,
+        "englishName":  "Incineroar",
+        "germanName":  "Fuegro",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  728,
+        "englishName":  "Popplio",
+        "germanName":  "Robball",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  729,
+        "englishName":  "Brionne",
+        "germanName":  "Marikeck",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  730,
+        "englishName":  "Primarina",
+        "germanName":  "Primarene",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  731,
+        "englishName":  "Pikipek",
+        "germanName":  "Peppeck",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  732,
+        "englishName":  "Trumbeak",
+        "germanName":  "Trompeck",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  733,
+        "englishName":  "Toucannon",
+        "germanName":  "Tukanon",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  734,
+        "englishName":  "Yungoos",
+        "germanName":  "Mangunior",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  735,
+        "englishName":  "Gumshoos",
+        "germanName":  "Manguspektor",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  736,
+        "englishName":  "Grubbin",
+        "germanName":  "Mabula",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  737,
+        "englishName":  "Charjabug",
+        "germanName":  "Akkup",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  738,
+        "englishName":  "Vikavolt",
+        "germanName":  "Donarion",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  739,
+        "englishName":  "Crabrawler",
+        "germanName":  "Krabbox",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  740,
+        "englishName":  "Crabominable",
+        "germanName":  "Krawell",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  741,
+        "englishName":  "Oricorio",
+        "germanName":  "Choreogel",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  742,
+        "englishName":  "Cutiefly",
+        "germanName":  "Wommel",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  743,
+        "englishName":  "Ribombee",
+        "germanName":  "Bandelby",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  744,
+        "englishName":  "Rockruff",
+        "germanName":  "Wuffels",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  745,
+        "englishName":  "Lycanroc",
+        "germanName":  "Wolwerock",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  746,
+        "englishName":  "Wishiwashi",
+        "germanName":  "Lusardin",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  747,
+        "englishName":  "Mareanie",
+        "germanName":  "Garstella",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  748,
+        "englishName":  "Toxapex",
+        "germanName":  "Aggrostella",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  749,
+        "englishName":  "Mudbray",
+        "germanName":  "Pampuli",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  750,
+        "englishName":  "Mudsdale",
+        "germanName":  "Pampross",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  751,
+        "englishName":  "Dewpider",
+        "germanName":  "Araqua",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  752,
+        "englishName":  "Araquanid",
+        "germanName":  "Aranestro",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  753,
+        "englishName":  "Fomantis",
+        "germanName":  "Imantis",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  754,
+        "englishName":  "Lurantis",
+        "germanName":  "Mantidea",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  755,
+        "englishName":  "Morelull",
+        "germanName":  "Bubungus",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  756,
+        "englishName":  "Shiinotic",
+        "germanName":  "Lamellux",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  757,
+        "englishName":  "Salandit",
+        "germanName":  "Molunk",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  758,
+        "englishName":  "Salazzle",
+        "germanName":  "Amfira",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  759,
+        "englishName":  "Stufful",
+        "germanName":  "Velursi",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  760,
+        "englishName":  "Bewear",
+        "germanName":  "Kosturso",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  761,
+        "englishName":  "Bounsweet",
+        "germanName":  "Frubberl",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  762,
+        "englishName":  "Steenee",
+        "germanName":  "Frubaila",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  763,
+        "englishName":  "Tsareena",
+        "germanName":  "Fruyal",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  764,
+        "englishName":  "Comfey",
+        "germanName":  "Curelei",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  765,
+        "englishName":  "Oranguru",
+        "germanName":  "Kommandutan",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  766,
+        "englishName":  "Passimian",
+        "germanName":  "Quartermak",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  767,
+        "englishName":  "Wimpod",
+        "germanName":  "Reißlaus",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  768,
+        "englishName":  "Golisopod",
+        "germanName":  "Tectass",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  769,
+        "englishName":  "Sandygast",
+        "germanName":  "Sankabuh",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  770,
+        "englishName":  "Palossand",
+        "germanName":  "Colossand",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  771,
+        "englishName":  "Pyukumuku",
+        "germanName":  "Gufa",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  772,
+        "englishName":  "Type: Null",
+        "germanName":  "Typ:Null",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  773,
+        "englishName":  "Silvally",
+        "germanName":  "Amigento",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  774,
+        "englishName":  "Minior",
+        "germanName":  "Meteno",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  775,
+        "englishName":  "Komala",
+        "germanName":  "Koalelu",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  776,
+        "englishName":  "Turtonator",
+        "germanName":  "Tortunator",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  777,
+        "englishName":  "Togedemaru",
+        "germanName":  "Togedemaru",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  778,
+        "englishName":  "Mimikyu",
+        "germanName":  "Mimigma",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  779,
+        "englishName":  "Bruxish",
+        "germanName":  "Knirfish",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  780,
+        "englishName":  "Drampa",
+        "germanName":  "Sen-Long",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  781,
+        "englishName":  "Dhelmise",
+        "germanName":  "Moruda",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  782,
+        "englishName":  "Jangmo-o",
+        "germanName":  "Miniras",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  783,
+        "englishName":  "Hakamo-o",
+        "germanName":  "Mediras",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  784,
+        "englishName":  "Kommo-o",
+        "germanName":  "Grandiras",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  785,
+        "englishName":  "Tapu Koko",
+        "germanName":  "Kapu-Riki",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  786,
+        "englishName":  "Tapu Lele",
+        "germanName":  "Kapu-Fala",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  787,
+        "englishName":  "Tapu Bulu",
+        "germanName":  "Kapu-Toro",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  788,
+        "englishName":  "Tapu Fini",
+        "germanName":  "Kapu-Kime",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  789,
+        "englishName":  "Cosmog",
+        "germanName":  "Cosmog",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  790,
+        "englishName":  "Cosmoem",
+        "germanName":  "Cosmovum",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  791,
+        "englishName":  "Solgaleo",
+        "germanName":  "Solgaleo",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  792,
+        "englishName":  "Lunala",
+        "germanName":  "Lunala",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  793,
+        "englishName":  "Nihilego",
+        "germanName":  "Anego",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  794,
+        "englishName":  "Buzzwole",
+        "germanName":  "Masskito",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  795,
+        "englishName":  "Pheromosa",
+        "germanName":  "Schabelle",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  796,
+        "englishName":  "Xurkitree",
+        "germanName":  "Voltriant",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  797,
+        "englishName":  "Celesteela",
+        "germanName":  "Kaguron",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  798,
+        "englishName":  "Kartana",
+        "germanName":  "Katagami",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  799,
+        "englishName":  "Guzzlord",
+        "germanName":  "Schlingking",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  800,
+        "englishName":  "Necrozma",
+        "germanName":  "Necrozma",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  801,
+        "englishName":  "Magearna",
+        "germanName":  "Magearna",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  802,
+        "englishName":  "Marshadow",
+        "germanName":  "Marshadow",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  803,
+        "englishName":  "Poipole",
+        "germanName":  "Venicro",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  804,
+        "englishName":  "Naganadel",
+        "germanName":  "Agoyon",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  805,
+        "englishName":  "Stakataka",
+        "germanName":  "Muramura",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  806,
+        "englishName":  "Blacephalon",
+        "germanName":  "Kopplosio",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  807,
+        "englishName":  "Zeraora",
+        "germanName":  "Zeraora",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  808,
+        "englishName":  "Meltan",
+        "germanName":  "Meltan",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  809,
+        "englishName":  "Melmetal",
+        "germanName":  "Melmetal",
+        "generation":  7
+    },
+    {
+        "pokedexNumber":  810,
+        "englishName":  "Grookey",
+        "germanName":  "Chimpep",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  811,
+        "englishName":  "Thwackey",
+        "germanName":  "Chimstix",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  812,
+        "englishName":  "Rillaboom",
+        "germanName":  "Gortrom",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  813,
+        "englishName":  "Scorbunny",
+        "germanName":  "Hopplo",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  814,
+        "englishName":  "Raboot",
+        "germanName":  "Kickerlo",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  815,
+        "englishName":  "Cinderace",
+        "germanName":  "Liberlo",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  816,
+        "englishName":  "Sobble",
+        "germanName":  "Memmeon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  817,
+        "englishName":  "Drizzile",
+        "germanName":  "Phlegleon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  818,
+        "englishName":  "Inteleon",
+        "germanName":  "Intelleon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  819,
+        "englishName":  "Skwovet",
+        "germanName":  "Raffel",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  820,
+        "englishName":  "Greedent",
+        "germanName":  "Schlaraffel",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  821,
+        "englishName":  "Rookidee",
+        "germanName":  "Meikro",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  822,
+        "englishName":  "Corvisquire",
+        "germanName":  "Kranoviz",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  823,
+        "englishName":  "Corviknight",
+        "germanName":  "Krarmor",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  824,
+        "englishName":  "Blipbug",
+        "germanName":  "Sensect",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  825,
+        "englishName":  "Dottler",
+        "germanName":  "Keradar",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  826,
+        "englishName":  "Orbeetle",
+        "germanName":  "Maritellit",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  827,
+        "englishName":  "Nickit",
+        "germanName":  "Kleptifux",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  828,
+        "englishName":  "Thievul",
+        "germanName":  "Gaunux",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  829,
+        "englishName":  "Gossifleur",
+        "germanName":  "Cottini",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  830,
+        "englishName":  "Eldegoss",
+        "germanName":  "Cottomi",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  831,
+        "englishName":  "Wooloo",
+        "germanName":  "Wolly",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  832,
+        "englishName":  "Dubwool",
+        "germanName":  "Zwollock",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  833,
+        "englishName":  "Chewtle",
+        "germanName":  "Kamehaps",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  834,
+        "englishName":  "Drednaw",
+        "germanName":  "Kamalm",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  835,
+        "englishName":  "Yamper",
+        "germanName":  "Voldi",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  836,
+        "englishName":  "Boltund",
+        "germanName":  "Bellektro",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  837,
+        "englishName":  "Rolycoly",
+        "germanName":  "Klonkett",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  838,
+        "englishName":  "Carkol",
+        "germanName":  "Wagong",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  839,
+        "englishName":  "Coalossal",
+        "germanName":  "Montecarbo",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  840,
+        "englishName":  "Applin",
+        "germanName":  "Knapfel",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  841,
+        "englishName":  "Flapple",
+        "germanName":  "Drapfel",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  842,
+        "englishName":  "Appletun",
+        "germanName":  "Schlapfel",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  843,
+        "englishName":  "Silicobra",
+        "germanName":  "Salanga",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  844,
+        "englishName":  "Sandaconda",
+        "germanName":  "Sanaconda",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  845,
+        "englishName":  "Cramorant",
+        "germanName":  "Urgl",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  846,
+        "englishName":  "Arrokuda",
+        "germanName":  "Pikuda",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  847,
+        "englishName":  "Barraskewda",
+        "germanName":  "Barrakiefa",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  848,
+        "englishName":  "Toxel",
+        "germanName":  "Toxel",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  849,
+        "englishName":  "Toxtricity",
+        "germanName":  "Riffex",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  850,
+        "englishName":  "Sizzlipede",
+        "germanName":  "Thermopod",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  851,
+        "englishName":  "Centiskorch",
+        "germanName":  "Infernopod",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  852,
+        "englishName":  "Clobbopus",
+        "germanName":  "Klopptopus",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  853,
+        "englishName":  "Grapploct",
+        "germanName":  "Kaocto",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  854,
+        "englishName":  "Sinistea",
+        "germanName":  "Fatalitee",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  855,
+        "englishName":  "Polteageist",
+        "germanName":  "Mortipot",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  856,
+        "englishName":  "Hatenna",
+        "germanName":  "Brimova",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  857,
+        "englishName":  "Hattrem",
+        "germanName":  "Brimano",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  858,
+        "englishName":  "Hatterene",
+        "germanName":  "Silembrim",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  859,
+        "englishName":  "Impidimp",
+        "germanName":  "Bähmon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  860,
+        "englishName":  "Morgrem",
+        "germanName":  "Pelzebub",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  861,
+        "englishName":  "Grimmsnarl",
+        "germanName":  "Olangaar",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  862,
+        "englishName":  "Obstagoon",
+        "germanName":  "Barrikadax",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  863,
+        "englishName":  "Perrserker",
+        "germanName":  "Mauzinger",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  864,
+        "englishName":  "Cursola",
+        "germanName":  "Gorgasonn",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  865,
+        "englishName":  "Sirfetch’d",
+        "germanName":  "Lauchzelot",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  866,
+        "englishName":  "Mr. Rime",
+        "germanName":  "Pantifrost",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  867,
+        "englishName":  "Runerigus",
+        "germanName":  "Oghnatoll",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  868,
+        "englishName":  "Milcery",
+        "germanName":  "Hokumil",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  869,
+        "englishName":  "Alcremie",
+        "germanName":  "Pokusan",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  870,
+        "englishName":  "Falinks",
+        "germanName":  "Legios",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  871,
+        "englishName":  "Pincurchin",
+        "germanName":  "Britzigel",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  872,
+        "englishName":  "Snom",
+        "germanName":  "Snomnom",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  873,
+        "englishName":  "Frosmoth",
+        "germanName":  "Mottineva",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  874,
+        "englishName":  "Stonjourner",
+        "germanName":  "Humanolith",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  875,
+        "englishName":  "Eiscue",
+        "germanName":  "Kubuin",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  876,
+        "englishName":  "Indeedee",
+        "germanName":  "Servol",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  877,
+        "englishName":  "Morpeko",
+        "germanName":  "Morpeko",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  878,
+        "englishName":  "Cufant",
+        "germanName":  "Kupfanti",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  879,
+        "englishName":  "Copperajah",
+        "germanName":  "Patinaraja",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  880,
+        "englishName":  "Dracozolt",
+        "germanName":  "Lectragon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  881,
+        "englishName":  "Arctozolt",
+        "germanName":  "Lecryodon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  882,
+        "englishName":  "Dracovish",
+        "germanName":  "Pescragon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  883,
+        "englishName":  "Arctovish",
+        "germanName":  "Pescryodon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  884,
+        "englishName":  "Duraludon",
+        "germanName":  "Duraludon",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  885,
+        "englishName":  "Dreepy",
+        "germanName":  "Grolldra",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  886,
+        "englishName":  "Drakloak",
+        "germanName":  "Phandra",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  887,
+        "englishName":  "Dragapult",
+        "germanName":  "Katapuldra",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  888,
+        "englishName":  "Zacian",
+        "germanName":  "Zacian",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  889,
+        "englishName":  "Zamazenta",
+        "germanName":  "Zamazenta",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  890,
+        "englishName":  "Eternatus",
+        "germanName":  "Endynalos",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  891,
+        "englishName":  "Kubfu",
+        "germanName":  "Dakuma",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  892,
+        "englishName":  "Urshifu",
+        "germanName":  "Wulaosu",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  893,
+        "englishName":  "Zarude",
+        "germanName":  "Zarude",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  894,
+        "englishName":  "Regieleki",
+        "germanName":  "Regieleki",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  895,
+        "englishName":  "Regidrago",
+        "germanName":  "Regidrago",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  896,
+        "englishName":  "Glastrier",
+        "germanName":  "Polaross",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  897,
+        "englishName":  "Spectrier",
+        "germanName":  "Phantoross",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  898,
+        "englishName":  "Calyrex",
+        "germanName":  "Coronospa",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  899,
+        "englishName":  "Wyrdeer",
+        "germanName":  "Damythir",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  900,
+        "englishName":  "Kleavor",
+        "germanName":  "Axantor",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  901,
+        "englishName":  "Ursaluna",
+        "germanName":  "Ursaluna",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  902,
+        "englishName":  "Basculegion",
+        "germanName":  "Salmagnis",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  903,
+        "englishName":  "Sneasler",
+        "germanName":  "Snieboss",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  904,
+        "englishName":  "Overqwil",
+        "germanName":  "Myriador",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  905,
+        "englishName":  "Enamorus",
+        "germanName":  "Cupidos",
+        "generation":  8
+    },
+    {
+        "pokedexNumber":  906,
+        "englishName":  "Sprigatito",
+        "germanName":  "Felori",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  907,
+        "englishName":  "Floragato",
+        "germanName":  "Feliospa",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  908,
+        "englishName":  "Meowscarada",
+        "germanName":  "Maskagato",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  909,
+        "englishName":  "Fuecoco",
+        "germanName":  "Krokel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  910,
+        "englishName":  "Crocalor",
+        "germanName":  "Lokroko",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  911,
+        "englishName":  "Skeledirge",
+        "germanName":  "Skelokrok",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  912,
+        "englishName":  "Quaxly",
+        "germanName":  "Kwaks",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  913,
+        "englishName":  "Quaxwell",
+        "germanName":  "Fuentente",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  914,
+        "englishName":  "Quaquaval",
+        "germanName":  "Bailonda",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  915,
+        "englishName":  "Lechonk",
+        "germanName":  "Ferkuli",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  916,
+        "englishName":  "Oinkologne",
+        "germanName":  "Fragrunz",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  917,
+        "englishName":  "Tarountula",
+        "germanName":  "Tarundel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  918,
+        "englishName":  "Spidops",
+        "germanName":  "Spinsidias",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  919,
+        "englishName":  "Nymble",
+        "germanName":  "Micrick",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  920,
+        "englishName":  "Lokix",
+        "germanName":  "Lextremo",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  921,
+        "englishName":  "Pawmi",
+        "germanName":  "Pamo",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  922,
+        "englishName":  "Pawmo",
+        "germanName":  "Pamamo",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  923,
+        "englishName":  "Pawmot",
+        "germanName":  "Pamomamo",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  924,
+        "englishName":  "Tandemaus",
+        "germanName":  "Zwieps",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  925,
+        "englishName":  "Maushold",
+        "germanName":  "Famieps",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  926,
+        "englishName":  "Fidough",
+        "germanName":  "Hefel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  927,
+        "englishName":  "Dachsbun",
+        "germanName":  "Backel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  928,
+        "englishName":  "Smoliv",
+        "germanName":  "Olini",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  929,
+        "englishName":  "Dolliv",
+        "germanName":  "Olivinio",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  930,
+        "englishName":  "Arboliva",
+        "germanName":  "Olithena",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  931,
+        "englishName":  "Squawkabilly",
+        "germanName":  "Krawalloro",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  932,
+        "englishName":  "Nacli",
+        "germanName":  "Geosali",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  933,
+        "englishName":  "Naclstack",
+        "germanName":  "Sedisal",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  934,
+        "englishName":  "Garganacl",
+        "germanName":  "Saltigant",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  935,
+        "englishName":  "Charcadet",
+        "germanName":  "Knarbon",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  936,
+        "englishName":  "Armarouge",
+        "germanName":  "Crimanzo",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  937,
+        "englishName":  "Ceruledge",
+        "germanName":  "Azugladis",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  938,
+        "englishName":  "Tadbulb",
+        "germanName":  "Blipp",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  939,
+        "englishName":  "Bellibolt",
+        "germanName":  "Wampitz",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  940,
+        "englishName":  "Wattrel",
+        "germanName":  "Voltrel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  941,
+        "englishName":  "Kilowattrel",
+        "germanName":  "Voltrean",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  942,
+        "englishName":  "Maschiff",
+        "germanName":  "Mobtiff",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  943,
+        "englishName":  "Mabosstiff",
+        "germanName":  "Mastifioso",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  944,
+        "englishName":  "Shroodle",
+        "germanName":  "Sproxi",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  945,
+        "englishName":  "Grafaiai",
+        "germanName":  "Affiti",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  946,
+        "englishName":  "Bramblin",
+        "germanName":  "Weherba",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  947,
+        "englishName":  "Brambleghast",
+        "germanName":  "Horrerba",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  948,
+        "englishName":  "Toedscool",
+        "germanName":  "Tentagra",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  949,
+        "englishName":  "Toedscruel",
+        "germanName":  "Tenterra",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  950,
+        "englishName":  "Klawf",
+        "germanName":  "Klibbe",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  951,
+        "englishName":  "Capsakid",
+        "germanName":  "Chilingel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  952,
+        "englishName":  "Scovillain",
+        "germanName":  "Halupenjo",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  953,
+        "englishName":  "Rellor",
+        "germanName":  "Relluk",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  954,
+        "englishName":  "Rabsca",
+        "germanName":  "Skarabaks",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  955,
+        "englishName":  "Flittle",
+        "germanName":  "Flattutu",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  956,
+        "englishName":  "Espathra",
+        "germanName":  "Psiopatra",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  957,
+        "englishName":  "Tinkatink",
+        "germanName":  "Forgita",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  958,
+        "englishName":  "Tinkatuff",
+        "germanName":  "Tafforgita",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  959,
+        "englishName":  "Tinkaton",
+        "germanName":  "Granforgita",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  960,
+        "englishName":  "Wiglett",
+        "germanName":  "Schligda",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  961,
+        "englishName":  "Wugtrio",
+        "germanName":  "Schligdri",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  962,
+        "englishName":  "Bombirdier",
+        "germanName":  "Adebom",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  963,
+        "englishName":  "Finizen",
+        "germanName":  "Normifin",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  964,
+        "englishName":  "Palafin",
+        "germanName":  "Delfinator",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  965,
+        "englishName":  "Varoom",
+        "germanName":  "Knattox",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  966,
+        "englishName":  "Revavroom",
+        "germanName":  "Knattatox",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  967,
+        "englishName":  "Cyclizar",
+        "germanName":  "Mopex",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  968,
+        "englishName":  "Orthworm",
+        "germanName":  "Schlurm",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  969,
+        "englishName":  "Glimmet",
+        "germanName":  "Lumispross",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  970,
+        "englishName":  "Glimmora",
+        "germanName":  "Lumiflora",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  971,
+        "englishName":  "Greavard",
+        "germanName":  "Gruff",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  972,
+        "englishName":  "Houndstone",
+        "germanName":  "Friedwuff",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  973,
+        "englishName":  "Flamigo",
+        "germanName":  "Flaminkno",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  974,
+        "englishName":  "Cetoddle",
+        "germanName":  "Flaniwal",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  975,
+        "englishName":  "Cetitan",
+        "germanName":  "Kolowal",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  976,
+        "englishName":  "Veluza",
+        "germanName":  "Agiluza",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  977,
+        "englishName":  "Dondozo",
+        "germanName":  "Heerashai",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  978,
+        "englishName":  "Tatsugiri",
+        "germanName":  "Nigiragi",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  979,
+        "englishName":  "Annihilape",
+        "germanName":  "Epitaff",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  980,
+        "englishName":  "Clodsire",
+        "germanName":  "Suelord",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  981,
+        "englishName":  "Farigiraf",
+        "germanName":  "Farigiraf",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  982,
+        "englishName":  "Dudunsparce",
+        "germanName":  "Dummimisel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  983,
+        "englishName":  "Kingambit",
+        "germanName":  "Gladimperio",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  984,
+        "englishName":  "Great Tusk",
+        "germanName":  "Riesenzahn",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  985,
+        "englishName":  "Scream Tail",
+        "germanName":  "Brüllschweif",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  986,
+        "englishName":  "Brute Bonnet",
+        "germanName":  "Wutpilz",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  987,
+        "englishName":  "Flutter Mane",
+        "germanName":  "Flatterhaar",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  988,
+        "englishName":  "Slither Wing",
+        "germanName":  "Kriechflügel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  989,
+        "englishName":  "Sandy Shocks",
+        "germanName":  "Sandfell",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  990,
+        "englishName":  "Iron Treads",
+        "germanName":  "Eisenrad",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  991,
+        "englishName":  "Iron Bundle",
+        "germanName":  "Eisenbündel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  992,
+        "englishName":  "Iron Hands",
+        "germanName":  "Eisenhand",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  993,
+        "englishName":  "Iron Jugulis",
+        "germanName":  "Eisenhals",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  994,
+        "englishName":  "Iron Moth",
+        "germanName":  "Eisenfalter",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  995,
+        "englishName":  "Iron Thorns",
+        "germanName":  "Eisendorn",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  996,
+        "englishName":  "Frigibax",
+        "germanName":  "Frospino",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  997,
+        "englishName":  "Arctibax",
+        "germanName":  "Cryospino",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  998,
+        "englishName":  "Baxcalibur",
+        "germanName":  "Espinodon",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  999,
+        "englishName":  "Gimmighoul",
+        "germanName":  "Gierspenst",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1000,
+        "englishName":  "Gholdengo",
+        "germanName":  "Monetigo",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1001,
+        "englishName":  "Wo-Chien",
+        "germanName":  "Chongjian",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1002,
+        "englishName":  "Chien-Pao",
+        "germanName":  "Baojian",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1003,
+        "englishName":  "Ting-Lu",
+        "germanName":  "Dinglu",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1004,
+        "englishName":  "Chi-Yu",
+        "germanName":  "Yuyu",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1005,
+        "englishName":  "Roaring Moon",
+        "germanName":  "Donnersichel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1006,
+        "englishName":  "Iron Valiant",
+        "germanName":  "Eisenkrieger",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1007,
+        "englishName":  "Koraidon",
+        "germanName":  "Koraidon",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1008,
+        "englishName":  "Miraidon",
+        "germanName":  "Miraidon",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1009,
+        "englishName":  "Walking Wake",
+        "germanName":  "Windewoge",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1010,
+        "englishName":  "Iron Leaves",
+        "germanName":  "Eisenblatt",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1011,
+        "englishName":  "Dipplin",
+        "germanName":  "Sirapfel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1012,
+        "englishName":  "Poltchageist",
+        "germanName":  "Mortcha",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1013,
+        "englishName":  "Sinistcha",
+        "germanName":  "Fatalitcha",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1014,
+        "englishName":  "Okidogi",
+        "germanName":  "Boninu",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1015,
+        "englishName":  "Munkidori",
+        "germanName":  "Benesaru",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1016,
+        "englishName":  "Fezandipiti",
+        "germanName":  "Beatori",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1017,
+        "englishName":  "Ogerpon",
+        "germanName":  "Ogerpon",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1018,
+        "englishName":  "Archaludon",
+        "germanName":  "Briduradon",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1019,
+        "englishName":  "Hydrapple",
+        "germanName":  "Hydrapfel",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1020,
+        "englishName":  "Gouging Fire",
+        "germanName":  "Keilflamme",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1021,
+        "englishName":  "Raging Bolt",
+        "germanName":  "Furienblitz",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1022,
+        "englishName":  "Iron Boulder",
+        "germanName":  "Eisenfels",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1023,
+        "englishName":  "Iron Crown",
+        "germanName":  "Eisenhaupt",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1024,
+        "englishName":  "Terapagos",
+        "germanName":  "Terapagos",
+        "generation":  9
+    },
+    {
+        "pokedexNumber":  1025,
+        "englishName":  "Pecharunt",
+        "germanName":  "Infamomo",
+        "generation":  9
+    }
+]
