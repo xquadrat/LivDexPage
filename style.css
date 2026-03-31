@@ -53,6 +53,16 @@ section {
   padding: 20px;
 }
 
+.card-link {
+  color: #1a4f8b;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.card-link:hover {
+  text-decoration: underline;
+}
+
 .card--image-error .card-image {
   display: none;
 }

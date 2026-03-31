@@ -36,6 +36,12 @@ function Convert-RowToCard {
   $cardName = Get-SafeText $Row.cardName
   $isOwned = $cardName -ne ""
 
+  $language = Get-SafeText $Row.language
+
+  if ($isOwned -and $language -eq "") {
+    $language = "Deutsch"
+  }
+
   return [pscustomobject]@{
     pokedexNumber    = [int]$Row.pokedexNumber
     pokemonName      = Get-SafeText $Row.pokemonName
@@ -43,7 +49,7 @@ function Convert-RowToCard {
     setExtra         = Get-SafeText $Row.setExtra
     set              = Get-SafeText $Row.set
     cardNumber       = Format-CardNumber $Row.cardNumber
-    language         = Get-SafeText $Row.language
+    language         = $language
     note             = Get-SafeText $Row.note
     isOwned          = $isOwned
     foilType         = ""

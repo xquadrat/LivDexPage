@@ -17,20 +17,41 @@
   <main>
     <section>
       <h2>Filter</h2>
-        <label for="viewType">Bereich</label>
-        <select id="viewType">
-          <option value="all">Gesamt</option>
-          <option value="generation">Generation</option>
-          <option value="binder">Ordner</option>
-        </select>
-        <label for="viewValue">Auswahl</label>
-        <select id="viewValue">
-          <option value="">Bitte waehlen</option>
-        </select>
-      </select>
 
-      <button id="showMissingButton" type="button">Fehlende Karten anzeigen</button>
+      <div class="view-buttons">
+        <button id="showMissingButton" type="button">Fehlende Karten anzeigen</button>
+        <button id="showAllButton" type="button">Alle Karten anzeigen</button>
+        <button id="showGenerationButton" type="button">Eine Generation anzeigen</button>
+        <button id="showBinderButton" type="button">Einen Ordner anzeigen</button>
+      </div>
+
+      <div id="generationControls">
+        <label for="generationSelect">Generation</label>
+        <select id="generationSelect">
+          <option value="">Bitte waehlen</option>
+          <option value="1">Generation 1</option>
+          <option value="2">Generation 2</option>
+          <option value="3">Generation 3</option>
+          <option value="4">Generation 4</option>
+          <option value="5">Generation 5</option>
+          <option value="6">Generation 6</option>
+          <option value="7">Generation 7</option>
+          <option value="8">Generation 8</option>
+          <option value="9">Generation 9</option>
+        </select>
+      </div>
+
+      <div id="binderControls">
+        <label for="binderSelect">Ordner</label>
+        <select id="binderSelect">
+          <option value="">Bitte waehlen</option>
+          <option value="1">Ordner 1</option>
+          <option value="2">Ordner 2</option>
+          <option value="3">Ordner 3</option>
+        </select>
+      </div>
     </section>
+
 
     <section>
       <h2>Karten</h2>

@@ -3,14 +3,16 @@ const cardsStatus = document.getElementById("cardsStatus");
 const previousButton = document.getElementById("previousButton");
 const nextButton = document.getElementById("nextButton");
 
-const cardsPerPage = 9;
-let currentPage = 1;
-let allCards = [];
-let currentMode = "normal";
-
-const viewTypeSelect = document.getElementById("viewType");
-const viewValueSelect = document.getElementById("viewValue");
+const showAllButton = document.getElementById("showAllButton");
+const showGenerationButton = document.getElementById("showGenerationButton");
+const showBinderButton = document.getElementById("showBinderButton");
 const showMissingButton = document.getElementById("showMissingButton");
+
+const generationControls = document.getElementById("generationControls");
+const binderControls = document.getElementById("binderControls");
+
+const generationSelect = document.getElementById("generationSelect");
+const binderSelect = document.getElementById("binderSelect");
 
 const languageCodes = {
   Deutsch: "DE",
@@ -45,57 +47,16 @@ const binderRanges = {
   3: { start: 721, end: 1080 }
 };
 
+const cardsPerPage = 9;
+let currentPage = 1;
+let allCards = [];
+let currentView = "all";
+
 // Gibt alle fehlenden Karten zurueck.
 function getMissingCards() {
   return allCards.filter((card) => {
     return card.isOwned === false;
   });
-}
-
-// Fuellt das zweite Auswahlfeld passend zum ausgewaehlten Bereich.
-function updateViewValueOptions() {
-  const viewType = viewTypeSelect.value;
-
-  viewValueSelect.innerHTML = '<option value="">Bitte waehlen</option>';
-
-  if (viewType === "generation") {
-    for (let generation = 1; generation <= 9; generation += 1) {
-      const option = document.createElement("option");
-      option.value = generation;
-      option.textContent = `Generation ${generation}`;
-      viewValueSelect.appendChild(option);
-    }
-  }
-
-  if (viewType === "binder") {
-    for (let binder = 1; binder <= 3; binder += 1) {
-      const option = document.createElement("option");
-      option.value = binder;
-      option.textContent = `Ordner ${binder}`;
-      viewValueSelect.appendChild(option);
-    }
-  }
-}
-
-// Gibt die Kartenliste passend zur aktuellen Bereichsauswahl zurueck.
-// Gibt die Kartenliste passend zur aktuellen Ansicht zurueck.
-function getVisibleCards() {
-  if (currentMode === "missing") {
-    return getMissingCards();
-  }
-
-  const viewType = viewTypeSelect.value;
-  const viewValue = Number(viewValueSelect.value);
-
-  if (viewType === "all") {
-    return allCards;
-  }
-
-  if (!viewValue) {
-    return [];
-  }
-
-  return getCardsByView(viewType, viewValue);
 }
 
 // Baut die Bild-URL fuer eine Karte.
@@ -104,9 +65,25 @@ function getCardImageUrl(card) {
     return "";
   }
 
-  const languageCode = languageCodes[card.language] || "EN";
+  const languageCode = card.language === "Deutsch" ? "DE" : "EN";
 
   return `https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/${card.set}/${card.set}_${card.cardNumber}_R_${languageCode}_LG.png`;
+}
+
+// Baut die Limitless-Seiten-URL fuer eine Karte.
+function getCardPageUrl(card) {
+  if (!card.set || !card.cardNumber) {
+    return "";
+  }
+
+  const cardNumber = Number(card.cardNumber);
+  const isJapaneseCard = card.language === "Japanisch";
+
+  if (isJapaneseCard) {
+    return `https://limitlesstcg.com/cards/jp/${card.set}/${cardNumber}`;
+  }
+
+  return `https://limitlesstcg.com/cards/${card.set}/${cardNumber}`;
 }
 
 // Gibt Karten passend zu einem ausgewaehlten Bereich zurueck.
@@ -122,6 +99,45 @@ function getCardsByView(viewType, viewValue) {
   }
 
   return allCards;
+}
+
+// Blendet die passenden Auswahlfelder fuer die aktuelle Ansicht ein oder aus.
+function updateViewControls() {
+  generationControls.style.display = currentView === "generation" ? "block" : "none";
+  binderControls.style.display = currentView === "binder" ? "block" : "none";
+}
+
+// Gibt die Kartenliste passend zur aktuellen Ansicht zurueck.
+function getVisibleCards() {
+  if (currentView === "missing") {
+    return getMissingCards();
+  }
+
+  if (currentView === "all") {
+    return allCards;
+  }
+
+  if (currentView === "generation") {
+    const generation = Number(generationSelect.value);
+
+    if (!generation) {
+      return [];
+    }
+
+    return getCardsByView("generation", generation);
+  }
+
+  if (currentView === "binder") {
+    const binder = Number(binderSelect.value);
+
+    if (!binder) {
+      return [];
+    }
+
+    return getCardsByView("binder", binder);
+  }
+
+  return [];
 }
 
 // Filtert Karten anhand eines Pokedex-Bereichs.
@@ -146,11 +162,15 @@ function createCardElement(card) {
     ? `${card.targetCardSet} ${card.targetCardNumber}`
     : "-";
   const imageUrl = getCardImageUrl(card);
+  const cardPageUrl = getCardPageUrl(card);
 
   cardElement.innerHTML = `
     <div class="card-image-wrapper">
       <img class="card-image" src="${imageUrl}" alt="${card.pokemonName}">
-      <div class="card-image-fallback">Kein Bild verfuegbar</div>
+      <div class="card-image-fallback">
+        <p>Kein Bild verfügbar</p>
+        <a class="card-link" href="${cardPageUrl}" target="_blank" rel="noopener noreferrer">Zur Kartenquelle</a>
+      </div>
     </div>
     <h3 class="card-title">${card.pokemonName}</h3>
     <p class="card-info"><strong>Kartenname:</strong> ${cardNameText}</p>
@@ -168,10 +188,58 @@ function createCardElement(card) {
   return cardElement;
 }
 
+// Baut den Statustext passend zur aktuellen Ansicht.
+function getStatusText(cards) {
+  if (currentView === "missing") {
+    return "Fehlende Karten";
+  }
+
+  if (currentView === "all") {
+    return `Alle Karten, Seite ${currentPage}`;
+  }
+
+  if (currentView === "generation") {
+    const generation = generationSelect.value || "?";
+    return `Generation ${generation}, Seite ${currentPage}`;
+  }
+
+  if (currentView === "binder") {
+    const binder = binderSelect.value || "?";
+    return `Ordner ${binder}, Seite ${currentPage}`;
+  }
+
+  return "";
+}
+
+// Zeigt Karten im Kartenbereich an.
+// In der Fehlend-Ansicht werden alle Karten angezeigt, sonst seitenweise.
+function renderCards(cards) {
+  cardsContainer.innerHTML = "";
+
+  let cardsToRender = [];
+
+  if (currentView === "missing") {
+    cardsToRender = cards;
+  } else {
+    const startIndex = (currentPage - 1) * cardsPerPage;
+    const endIndex = startIndex + cardsPerPage;
+    cardsToRender = cards.slice(startIndex, endIndex);
+  }
+
+  cardsStatus.textContent = getStatusText(cards);
+
+  cardsToRender.forEach((card) => {
+    const cardElement = createCardElement(card);
+    cardsContainer.appendChild(cardElement);
+  });
+
+  updatePaginationButtons(cards);
+}
+
 // Aktualisiert die Navigationsbuttons fuer die Kartenansicht.
 // Aktualisiert die Navigationsbuttons fuer die Kartenansicht.
 function updatePaginationButtons(cards) {
-  if (currentMode === "missing") {
+  if (currentView === "missing") {
     previousButton.disabled = true;
     nextButton.disabled = true;
     return;
@@ -183,58 +251,50 @@ function updatePaginationButtons(cards) {
   nextButton.disabled = currentPage === maxPage || maxPage === 0;
 }
 
-// Zeigt Karten im Kartenbereich an.
-// In der normalen Ansicht wird paginiert, in der Fehlend-Ansicht nicht.
-function renderCards(cards) {
-  cardsContainer.innerHTML = "";
-
-  let cardsToRender = [];
-  let statusText = "";
-
-  if (currentMode === "missing") {
-    cardsToRender = cards;
-    statusText = `Fehlende Karten: ${cards.length}`;
-  } else {
-    const startIndex = (currentPage - 1) * cardsPerPage;
-    const endIndex = startIndex + cardsPerPage;
-    cardsToRender = cards.slice(startIndex, endIndex);
-
-    statusText = `Zeige ${startIndex + 1} bis ${startIndex + cardsToRender.length} von ${cards.length} Karten`;
-  }
-
-  cardsStatus.textContent = statusText;
-
-  cardsToRender.forEach((card) => {
-    const cardElement = createCardElement(card);
-    cardsContainer.appendChild(cardElement);
-  });
-
-  updatePaginationButtons(cards);
-}
-
 fetch("data/cards.json")
   .then((response) => response.json())
   .then((cards) => {
     allCards = cards;
-    updateViewValueOptions();
+    updateViewControls();
     renderCards(getVisibleCards());
 });
 
-viewTypeSelect.addEventListener("change", () => {
-  currentMode = "normal";
+showAllButton.addEventListener("click", () => {
+  currentView = "all";
   currentPage = 1;
-  updateViewValueOptions();
+  updateViewControls();
   renderCards(getVisibleCards());
 });
 
-viewValueSelect.addEventListener("change", () => {
-  currentMode = "normal";
+showGenerationButton.addEventListener("click", () => {
+  currentView = "generation";
   currentPage = 1;
+  generationSelect.value = "1";
+  updateViewControls();
+  renderCards(getVisibleCards());
+});
+
+showBinderButton.addEventListener("click", () => {
+  currentView = "binder";
+  currentPage = 1;
+  binderSelect.value = "1";
+  updateViewControls();
   renderCards(getVisibleCards());
 });
 
 showMissingButton.addEventListener("click", () => {
-  currentMode = "missing";
+  currentView = "missing";
+  currentPage = 1;
+  updateViewControls();
+  renderCards(getVisibleCards());
+});
+
+generationSelect.addEventListener("change", () => {
+  currentPage = 1;
+  renderCards(getVisibleCards());
+});
+
+binderSelect.addEventListener("change", () => {
   currentPage = 1;
   renderCards(getVisibleCards());
 });
