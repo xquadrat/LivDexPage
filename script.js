@@ -14,21 +14,7 @@ const binderControls = document.getElementById("binderControls");
 
 const generationSelect = document.getElementById("generationSelect");
 const binderSelect = document.getElementById("binderSelect");
-
-const languageCodes = {
-  Deutsch: "DE",
-  Englisch: "EN",
-  Japanisch: "JA",
-  Niederlaendisch: "NL",
-  Franzoesisch: "FR",
-  Italienisch: "IT",
-  Spanisch: "ES",
-  Portugiesisch: "PT",
-  Koreanisch: "KO",
-  Chinesisch: "ZH",
-  Russisch: "RU",
-  Polnisch: "PL"
-};
+const searchInput = document.getElementById("searchInput");
 
 const generationRanges = {
   1: { start: 1, end: 151 },
@@ -60,33 +46,6 @@ function getMissingCards() {
   return allCards.filter((card) => {
     return card.isOwned === false;
   });
-}
-
-// Baut die Bild-URL fuer eine Karte.
-function getCardImageUrl(card) {
-  if (!card.set || !card.cardNumber) {
-    return "";
-  }
-
-  const languageCode = card.language === "Deutsch" ? "DE" : "EN";
-
-  return `https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/${card.set}/${card.set}_${card.cardNumber}_R_${languageCode}_LG.png`;
-}
-
-// Baut die Limitless-Seiten-URL fuer eine Karte.
-function getCardPageUrl(card) {
-  if (!card.set || !card.cardNumber) {
-    return "";
-  }
-
-  const cardNumber = Number(card.cardNumber);
-  const isJapaneseCard = card.language === "Japanisch";
-
-  if (isJapaneseCard) {
-    return `https://limitlesstcg.com/cards/jp/${card.set}/${cardNumber}`;
-  }
-
-  return `https://limitlesstcg.com/cards/${card.set}/${cardNumber}`;
 }
 
 // Gibt Karten passend zu einem ausgewaehlten Bereich zurueck.
@@ -155,6 +114,81 @@ function filterCardsBySearch(cards) {
     );
   });
 }
+
+// Prueft im Browser, ob mindestens ein Bildkandidat fuer eine Karte laedt.
+function cardHasLoadableImage(card) {
+  const imageCandidates = getCardImageCandidates(card);
+
+  if (imageCandidates.length === 0) {
+    return Promise.resolve(false);
+  }
+
+  return new Promise((resolve) => {
+    let currentIndex = 0;
+
+    function tryNextImage() {
+      if (currentIndex >= imageCandidates.length) {
+        resolve(false);
+        return;
+      }
+
+      const image = new Image();
+      const imageUrl = imageCandidates[currentIndex];
+
+      image.onload = () => resolve(true);
+      image.onerror = () => {
+        currentIndex += 1;
+        tryNextImage();
+      };
+
+      image.src = imageUrl;
+    }
+
+    tryNextImage();
+  });
+}
+
+// Sammelt alle Karten, fuer die mit der aktuellen Bildlogik kein Bild geladen werden kann.
+window.collectMissingImageCards = async function collectMissingImageCards() {
+  const missingCards = [];
+
+  for (const card of allCards) {
+    const hasLoadableImage = await cardHasLoadableImage(card);
+
+    if (!hasLoadableImage) {
+      missingCards.push({
+        pokedexNumber: card.pokedexNumber,
+        pokemonName: card.pokemonName,
+        cardName: card.cardName,
+        set: card.set,
+        setExtra: card.setExtra,
+        cardNumber: card.cardNumber,
+        language: card.language,
+        cardPageUrl: getCardPageUrl(card)
+      });
+    }
+  }
+
+  console.table(missingCards);
+  return missingCards;
+};
+
+// Exportiert die Karten ohne ladbares Bild als JSON-Datei aus dem Browser.
+window.exportMissingImageCards = async function exportMissingImageCards() {
+  const missingCards = await window.collectMissingImageCards();
+  const json = JSON.stringify(missingCards, null, 2);
+  const blob = new Blob([json], { type: "application/json" });
+  const downloadUrl = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+
+  link.href = downloadUrl;
+  link.download = "missing-image-cards.json";
+  link.click();
+
+  URL.revokeObjectURL(downloadUrl);
+
+  return missingCards;
+};
 
 // Blendet die passenden Auswahlfelder fuer die aktuelle Ansicht ein oder aus.
 function updateViewControls() {
@@ -243,12 +277,12 @@ function createCardElement(card) {
   const targetCardText = card.targetCardSet && card.targetCardNumber
     ? `${card.targetCardSet} ${card.targetCardNumber}`
     : "-";
-  const imageUrl = getCardImageUrl(card);
+  const imageCandidates = getCardImageCandidates(card);
   const cardPageUrl = getCardPageUrl(card);
 
   cardElement.innerHTML = `
     <div class="card-image-wrapper">
-      <img class="card-image" src="${imageUrl}" alt="${card.pokemonName}">
+      <img class="card-image" src="${imageCandidates[0] || ""}" alt="${card.pokemonName}">
       <div class="card-image-fallback">
         <p>Kein Bild verfügbar</p>
         <a class="card-link" href="${cardPageUrl}" target="_blank" rel="noopener noreferrer">Zur Kartenquelle</a>
@@ -263,9 +297,19 @@ function createCardElement(card) {
 
   const imageElement = cardElement.querySelector(".card-image");
 
+  let currentImageIndex = 0;
+
   imageElement.addEventListener("error", () => {
-    cardElement.classList.add("card--image-error");
-  });
+    currentImageIndex += 1;
+
+    if (currentImageIndex < imageCandidates.length) {
+      imageElement.src = imageCandidates[currentImageIndex];
+      return;
+    }
+
+  cardElement.classList.add("card--image-error");
+});
+
 
   return cardElement;
 }

@@ -1,0 +1,472 @@
+[
+  {
+    "pokedexNumber": 5,
+    "pokemonName": "Glutexo",
+    "cardName": "Dark Charmeleon",
+    "set": "TR",
+    "setExtra": "",
+    "cardNumber": "032",
+    "language": "Englisch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/TR/32"
+  },
+  {
+    "pokedexNumber": 8,
+    "pokemonName": "Schillok",
+    "cardName": "Dark Wartortle",
+    "set": "TR",
+    "setExtra": "",
+    "cardNumber": "046",
+    "language": "Englisch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/TR/46"
+  },
+  {
+    "pokedexNumber": 153,
+    "pokemonName": "Lorblatt",
+    "cardName": "Lorblatt",
+    "set": "NG",
+    "setExtra": "",
+    "cardNumber": "029",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/NG/29"
+  },
+  {
+    "pokedexNumber": 174,
+    "pokemonName": "Fluffeluff",
+    "cardName": "Fluffeluff",
+    "set": "NDI",
+    "setExtra": "",
+    "cardNumber": "040",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/NDI/40"
+  },
+  {
+    "pokedexNumber": 175,
+    "pokemonName": "Togepi",
+    "cardName": "Togepi Lv.4",
+    "set": "GE",
+    "setExtra": "",
+    "cardNumber": "088",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/GE/88"
+  },
+  {
+    "pokedexNumber": 195,
+    "pokemonName": "Morlord",
+    "cardName": "Morlord",
+    "set": "NR",
+    "setExtra": "",
+    "cardNumber": "048",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/NR/48"
+  },
+  {
+    "pokedexNumber": 240,
+    "pokemonName": "Magby",
+    "cardName": "Magby",
+    "set": "NG",
+    "setExtra": "",
+    "cardNumber": "023",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/NG/23"
+  },
+  {
+    "pokedexNumber": 252,
+    "pokemonName": "Geckarbor",
+    "cardName": "Geckarbor Lv.11",
+    "set": "STF",
+    "setExtra": "",
+    "cardNumber": "079",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/STF/79"
+  },
+  {
+    "pokedexNumber": 253,
+    "pokemonName": "Reptain",
+    "cardName": "Reptain Lv.23",
+    "set": "STF",
+    "setExtra": "",
+    "cardNumber": "039",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/STF/39"
+  },
+  {
+    "pokedexNumber": 254,
+    "pokemonName": "Gewaldro",
+    "cardName": "Gewaldro Lv.57",
+    "set": "AR",
+    "setExtra": "",
+    "cardNumber": "030",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/AR/30"
+  },
+  {
+    "pokedexNumber": 258,
+    "pokemonName": "Hydropi",
+    "cardName": "Mudkip",
+    "set": "CG",
+    "setExtra": "",
+    "cardNumber": "058",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/CG/58"
+  },
+  {
+    "pokedexNumber": 266,
+    "pokemonName": "Schaloko",
+    "cardName": "Schaloko Lv.8",
+    "set": "DP",
+    "setExtra": "",
+    "cardNumber": "063",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/DP/63"
+  },
+  {
+    "pokedexNumber": 290,
+    "pokemonName": "Nincada",
+    "cardName": "Nincada",
+    "set": "DX",
+    "setExtra": "",
+    "cardNumber": "067",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/DX/67"
+  },
+  {
+    "pokedexNumber": 304,
+    "pokemonName": "Stollunior",
+    "cardName": "Team Magmas Stollunior",
+    "set": "MA",
+    "setExtra": "",
+    "cardNumber": "058",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/MA/58"
+  },
+  {
+    "pokedexNumber": 316,
+    "pokemonName": "Schluppuck",
+    "cardName": "Schluppuck Lv.21",
+    "set": "AR",
+    "setExtra": "",
+    "cardNumber": "040",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/AR/40"
+  },
+  {
+    "pokedexNumber": 343,
+    "pokemonName": "Puppance",
+    "cardName": "Team Magmas Puppance",
+    "set": "MA",
+    "setExtra": "",
+    "cardNumber": "060",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/MA/60"
+  },
+  {
+    "pokedexNumber": 394,
+    "pokemonName": "Pliprin",
+    "cardName": "Pliprin Lv.20",
+    "set": "DP",
+    "setExtra": "",
+    "cardNumber": "058",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/DP/58"
+  },
+  {
+    "pokedexNumber": 411,
+    "pokemonName": "Bollterus",
+    "cardName": "Bollterus Lv.56",
+    "set": "PL",
+    "setExtra": "",
+    "cardNumber": "020",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/PL/20"
+  },
+  {
+    "pokedexNumber": 421,
+    "pokemonName": "Kinoso",
+    "cardName": "Kinoso Lv. 30",
+    "set": "STF",
+    "setExtra": "",
+    "cardNumber": "014",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/STF/14"
+  },
+  {
+    "pokedexNumber": 434,
+    "pokemonName": "Skunkapuh",
+    "cardName": "Skunkapuh Lv.18",
+    "set": "STF",
+    "setExtra": "",
+    "cardNumber": "076",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/STF/76"
+  },
+  {
+    "pokedexNumber": 440,
+    "pokemonName": "Wonneira",
+    "cardName": "Wonneira Lv.5",
+    "set": "PL",
+    "setExtra": "",
+    "cardNumber": "076",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/PL/76"
+  },
+  {
+    "pokedexNumber": 446,
+    "pokemonName": "Mampfaxo",
+    "cardName": "Mampfaxo Lv.7",
+    "set": "MD",
+    "setExtra": "",
+    "cardNumber": "068",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/MD/68"
+  },
+  {
+    "pokedexNumber": 449,
+    "pokemonName": "Hippopotas",
+    "cardName": "Hippopotas Lv.23",
+    "set": "DP",
+    "setExtra": "",
+    "cardNumber": "051",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/DP/51"
+  },
+  {
+    "pokedexNumber": 650,
+    "pokemonName": "Igamaro",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 651,
+    "pokemonName": "Igastarnish",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 682,
+    "pokemonName": "Parfi",
+    "cardName": "Parfi",
+    "set": "PRE",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "Deutsch",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 696,
+    "pokemonName": "Balgoras",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 697,
+    "pokemonName": "Monargoras",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 698,
+    "pokemonName": "Amarino",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 699,
+    "pokemonName": "Amagarga",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 709,
+    "pokemonName": "Trombork",
+    "cardName": "대로트 V",
+    "set": "S7R",
+    "setExtra": "",
+    "cardNumber": "068",
+    "language": "Koreanisch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/S7R/68"
+  },
+  {
+    "pokedexNumber": 728,
+    "pokemonName": "Robball",
+    "cardName": "Robball",
+    "set": "MCD25",
+    "setExtra": "",
+    "cardNumber": "023",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/MCD25/23"
+  },
+  {
+    "pokedexNumber": 730,
+    "pokemonName": "Primarene",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 731,
+    "pokemonName": "Peppeck",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 733,
+    "pokemonName": "Tukanon",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 783,
+    "pokemonName": "Mediras",
+    "cardName": "Mediras",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "Deutsch",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 793,
+    "pokemonName": "Anego",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 795,
+    "pokemonName": "Schabelle",
+    "cardName": "費洛美螂&爆肌蚊 GX",
+    "set": "CSM2bC",
+    "setExtra": "",
+    "cardNumber": "003",
+    "language": "Chinesisch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/CSM2bC/3"
+  },
+  {
+    "pokedexNumber": 798,
+    "pokemonName": "Katagami",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 799,
+    "pokemonName": "Schlingking",
+    "cardName": "四颚针龙&恶食大王 GX",
+    "set": "CSM25C",
+    "setExtra": "",
+    "cardNumber": "037",
+    "language": "Chinesisch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/CSM25C/37"
+  },
+  {
+    "pokedexNumber": 803,
+    "pokemonName": "Venicro",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 804,
+    "pokemonName": "Agoyon",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 805,
+    "pokemonName": "Muramura",
+    "cardName": "",
+    "set": "",
+    "setExtra": "",
+    "cardNumber": "",
+    "language": "",
+    "cardPageUrl": ""
+  },
+  {
+    "pokedexNumber": 856,
+    "pokemonName": "Brimova",
+    "cardName": "Brimova",
+    "set": "M24",
+    "setExtra": "",
+    "cardNumber": "005",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/M24/5"
+  },
+  {
+    "pokedexNumber": 880,
+    "pokemonName": "Lectragon",
+    "cardName": "雷鸟龙",
+    "set": "CS2BC",
+    "setExtra": "",
+    "cardNumber": "120",
+    "language": "Chinesisch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/CS2BC/120"
+  },
+  {
+    "pokedexNumber": 906,
+    "pokemonName": "Felori",
+    "cardName": "Felori",
+    "set": "SVP",
+    "setExtra": "",
+    "cardNumber": "191",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/SVP/191"
+  },
+  {
+    "pokedexNumber": 909,
+    "pokemonName": "Krokel",
+    "cardName": "Krokel",
+    "set": "SVP",
+    "setExtra": "",
+    "cardNumber": "192",
+    "language": "Deutsch",
+    "cardPageUrl": "https://limitlesstcg.com/cards/SVP/192"
+  }
+]
