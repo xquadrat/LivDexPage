@@ -1,3 +1,5 @@
+// Steuerelemente
+
 const cardsContainer = document.getElementById("cardsContainer");
 const cardsStatus = document.getElementById("cardsStatus");
 const previousButton = document.getElementById("previousButton");
@@ -15,6 +17,8 @@ const binderControls = document.getElementById("binderControls");
 const generationSelect = document.getElementById("generationSelect");
 const binderSelect = document.getElementById("binderSelect");
 const searchInput = document.getElementById("searchInput");
+
+// Bereichsdefinitionen
 
 const generationRanges = {
   1: { start: 1, end: 151 },
@@ -34,6 +38,8 @@ const binderRanges = {
   3: { start: 721, end: 1080 }
 };
 
+// Ansichtszustand
+
 const cardsPerPage = 9;
 let currentPage = 1;
 let currentView = "all";
@@ -42,79 +48,7 @@ let allCards = [];
 let pokemonData = [];
 let imageOverrides = [];
 
-// Gibt alle fehlenden Karten zurueck.
-function getMissingCards() {
-  return allCards.filter((card) => {
-    return card.isOwned === false;
-  });
-}
-
-// Gibt Karten passend zu einem ausgewaehlten Bereich zurueck.
-function getCardsByView(viewType, viewValue) {
-  if (viewType === "generation") {
-    const range = generationRanges[viewValue];
-    return filterCardsByRange(allCards, range.start, range.end);
-  }
-
-  if (viewType === "binder") {
-    const range = binderRanges[viewValue];
-    return filterCardsByRange(allCards, range.start, range.end);
-  }
-
-  return allCards;
-}
-
-// Gibt die Stammdaten zu einer Karte anhand der Pokedex-Nummer zurueck.
-function getPokemonData(card) {
-  return pokemonData.find((pokemon) => {
-    return pokemon.pokedexNumber === card.pokedexNumber;
-  });
-}
-
-// Gibt den englischen Pokemonnamen zu einer Karte zurueck.
-function getEnglishPokemonName(card) {
-  const matchingPokemon = getPokemonData(card);
-
-  if (!matchingPokemon) {
-    return "";
-  }
-
-  return matchingPokemon.englishName || "";
-}
-
-// Gibt den deutschen Pokemonnamen aus den Stammdaten zu einer Karte zurueck.
-function getGermanPokemonName(card) {
-  const matchingPokemon = getPokemonData(card);
-
-  if (!matchingPokemon) {
-    return "";
-  }
-
-  return matchingPokemon.germanName || "";
-}
-
-// Filtert Karten nach Pokemonname und Kartenname.
-function filterCardsBySearch(cards) {
-  const searchText = searchInput.value.trim().toLowerCase();
-
-  if (searchText === "") {
-    return cards;
-  }
-
-  return cards.filter((card) => {
-    const pokemonName = card.pokemonName.toLowerCase();
-    const cardName = card.cardName.toLowerCase();
-    const englishPokemonName = getEnglishPokemonName(card).toLowerCase();
-    const germanPokemonName = getGermanPokemonName(card).toLowerCase();
-
-    return (
-      pokemonName.includes(searchText) ||
-      cardName.includes(searchText) ||
-      englishPokemonName.includes(searchText) ||
-      germanPokemonName.includes(searchText)
-    );
-  });
-}
+// Bilddiagnose
 
 // Prueft im Browser, ob mindestens ein Bildkandidat fuer eine Karte laedt.
 function cardHasLoadableImage(card) {
@@ -191,86 +125,12 @@ window.exportMissingImageCards = async function exportMissingImageCards() {
   return missingCards;
 };
 
-// Blendet die passenden Auswahlfelder fuer die aktuelle Ansicht ein oder aus.
-function updateViewControls() {
-  generationControls.style.display = currentView === "generation" ? "block" : "none";
-  binderControls.style.display = currentView === "binder" ? "block" : "none";
-}
+// Rendering
 
-// Markiert den aktuell aktiven Ansichtsbutton.
-function updateActiveViewButton() {
-  showAllButton.classList.remove("is-active");
-  showGenerationButton.classList.remove("is-active");
-  showBinderButton.classList.remove("is-active");
-  showMissingButton.classList.remove("is-active");
-
-  if (currentView === "all") {
-    showAllButton.classList.add("is-active");
-  }
-
-  if (currentView === "generation") {
-    showGenerationButton.classList.add("is-active");
-  }
-
-  if (currentView === "binder") {
-    showBinderButton.classList.add("is-active");
-  }
-
-  if (currentView === "missing") {
-    showMissingButton.classList.add("is-active");
-  }
-}
-
-// Blendet den Umschaltbutton fuer die Gesamtanzeige passend ein oder aus.
-function updateDisplayModeButton() {
-  const shouldHideButton = currentView === "missing" || displayMode === "full";
-
-  toggleDisplayModeButton.style.display = shouldHideButton ? "none" : "inline-block";
-}
-
-// Gibt die Kartenliste passend zur aktuellen Ansicht zurueck.
-function getVisibleCards() {
-  let visibleCards = [];
-
-  if (currentView === "missing") {
-    visibleCards = getMissingCards();
-  } else if (currentView === "all") {
-    visibleCards = allCards;
-  } else if (currentView === "generation") {
-    const generation = Number(generationSelect.value);
-
-    if (!generation) {
-      return [];
-    }
-
-    visibleCards = getCardsByView("generation", generation);
-  } else if (currentView === "binder") {
-    const binder = Number(binderSelect.value);
-
-    if (!binder) {
-      return [];
-    }
-
-    visibleCards = getCardsByView("binder", binder);
-  }
-
-  return filterCardsBySearch(visibleCards);
-}
-
-// Filtert Karten anhand eines Pokedex-Bereichs.
-function filterCardsByRange(cards, start, end) {
-  return cards.filter((card) => {
-    return card.pokedexNumber >= start && card.pokedexNumber <= end;
-  });
-}
-
-// Erstellt ein HTML-Element fuer eine einzelne Karte.
-// Erstellt ein HTML-Element fuer eine einzelne Karte.
 function createCardElement(card) {
   const cardElement = document.createElement("div");
   cardElement.classList.add("card");
 
-  const ownedText = card.isOwned ? "Vorhanden" : "Fehlt";
   const cardNameText = card.cardName || "-";
   const currentCardText = card.set && card.cardNumber
     ? `${card.set} ${card.cardNumber}`
@@ -281,7 +141,7 @@ function createCardElement(card) {
   const imageOverride = getImageOverride(card);
   const imageCandidates = getCardImageCandidates(card);
   const cardPageUrl = getCardPageUrl(card);
-  const imageSourceHint = imageOverride ? "Bild manuell zugewiesen" : "";
+  const imageSourceHint = imageOverride ? "Bild ggf. nicht in der richtigen Sprache" : "";
 
   cardElement.innerHTML = `
     <div class="card-image-wrapper">
@@ -296,7 +156,6 @@ function createCardElement(card) {
     <p class="card-info"><strong>Kartenname:</strong> ${cardNameText}</p>
     <p class="card-info"><strong>Aktuelle Karte:</strong> ${currentCardText}</p>
     <p class="card-info"><strong>Zielkarte:</strong> ${targetCardText}</p>
-    <p class="card-info"><strong>Besitzstatus:</strong> ${ownedText}</p>
   `;
 
   const imageElement = cardElement.querySelector(".card-image");
@@ -311,34 +170,11 @@ function createCardElement(card) {
       return;
     }
 
-  cardElement.classList.add("card--image-error");
-});
+    cardElement.classList.add("card--image-error");
+  });
 
 
   return cardElement;
-}
-
-// Baut den Statustext passend zur aktuellen Ansicht.
-function getStatusText(cards) {
-  if (currentView === "missing") {
-    return "Fehlende Karten";
-  }
-
-  if (currentView === "all") {
-    return `Alle Karten, Seite ${currentPage}`;
-  }
-
-  if (currentView === "generation") {
-    const generation = generationSelect.value || "?";
-    return `Generation ${generation}, Seite ${currentPage}`;
-  }
-
-  if (currentView === "binder") {
-    const binder = binderSelect.value || "?";
-    return `Ordner ${binder}, Seite ${currentPage}`;
-  }
-
-  return "";
 }
 
 // Zeigt Karten im Kartenbereich an.
@@ -367,7 +203,6 @@ function renderCards(cards) {
 }
 
 // Aktualisiert die Navigationsbuttons fuer die Kartenansicht.
-// Aktualisiert die Navigationsbuttons fuer die Kartenansicht.
 function updatePaginationButtons(cards) {
   if (currentView === "missing" || displayMode === "full") {
     previousButton.disabled = true;
@@ -380,6 +215,8 @@ function updatePaginationButtons(cards) {
   previousButton.disabled = currentPage === 1;
   nextButton.disabled = currentPage === maxPage || maxPage === 0;
 }
+
+// Initialisierung
 
 Promise.all([
   fetch("data/cards.json").then((response) => response.json()),
@@ -395,10 +232,13 @@ Promise.all([
   renderCards(getVisibleCards());
 });
 
+// Event-Listener
+
 showAllButton.addEventListener("click", () => {
   currentView = "all";
   displayMode = "paged";
   currentPage = 1;
+  clearSearchInput();
   updateViewControls();
   updateActiveViewButton();
   updateDisplayModeButton();
@@ -409,6 +249,7 @@ showGenerationButton.addEventListener("click", () => {
   currentView = "generation";
   displayMode = "paged";
   currentPage = 1;
+  clearSearchInput();
   generationSelect.value = "1";
   updateViewControls();
   updateActiveViewButton();
@@ -420,6 +261,7 @@ showBinderButton.addEventListener("click", () => {
   currentView = "binder";
   displayMode = "paged";
   currentPage = 1;
+  clearSearchInput();
   binderSelect.value = "1";
   updateViewControls();
   updateActiveViewButton();
@@ -431,6 +273,7 @@ showMissingButton.addEventListener("click", () => {
   currentView = "missing";
   displayMode = "full";
   currentPage = 1;
+  clearSearchInput();
   updateViewControls();
   updateActiveViewButton();
   updateDisplayModeButton();
