@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-labelledby="title desc">
+  <title id="title">Gonna catch them all</title>
+  <desc id="desc">Ein Platzhalterbild fuer Karten, die noch fehlen.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff3d6"/>
+      <stop offset="100%" stop-color="#ffd48c"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="420" rx="24" fill="url(#bg)"/>
+  <circle cx="150" cy="150" r="76" fill="#ffffff" stroke="#222222" stroke-width="10"/>
+  <path d="M74 150h152" stroke="#222222" stroke-width="10"/>
+  <circle cx="150" cy="150" r="24" fill="#ffffff" stroke="#222222" stroke-width="10"/>
+  <path d="M150 74a76 76 0 0 1 76 76H74a76 76 0 0 1 76-76z" fill="#ef5350"/>
+  <text x="150" y="310" text-anchor="middle" font-family="Trebuchet MS, Arial, sans-serif" font-size="22" fill="#6a4200">Gonna catch</text>
+  <text x="150" y="340" text-anchor="middle" font-family="Trebuchet MS, Arial, sans-serif" font-size="22" fill="#6a4200">them all</text>
+</svg>

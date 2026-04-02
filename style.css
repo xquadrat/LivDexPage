@@ -53,6 +53,12 @@ section {
   padding: 20px;
 }
 
+.card-image-source {
+  margin: 0 0 12px;
+  font-size: 0.85rem;
+  color: #7a5a00;
+}
+
 .card-link {
   color: #1a4f8b;
   font-weight: bold;

@@ -1,0 +1,290 @@
+[
+  {
+    "pokedexNumber": "5",
+    "pokemonName": "Glutexo",
+    "set": "TR",
+    "cardNumber": "032",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/dark-charmeleon-team-rocket-tr-32.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "8",
+    "pokemonName": "Schillok",
+    "set": "TR",
+    "cardNumber": "046",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/dark-wartortle-team-rocket-tr-46.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "153",
+    "pokemonName": "Lorblatt",
+    "set": "NG",
+    "cardNumber": "029",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/bayleef-neo-genesis-29.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "174",
+    "pokemonName": "Fluffeluff",
+    "set": "NDI",
+    "cardNumber": "040",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/igglybuff-neo-discovery-40.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "175",
+    "pokemonName": "Togepi",
+    "set": "GE",
+    "cardNumber": "088",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/togepi-great-encounters-ge-88.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "195",
+    "pokemonName": "Morlord",
+    "set": "NR",
+    "cardNumber": "048",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/quagsire-neo-revelation-48.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "240",
+    "pokemonName": "Magby",
+    "set": "NG",
+    "cardNumber": "023",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/magby-neo-genesis-23.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "252",
+    "pokemonName": "Geckarbor",
+    "set": "SF",
+    "cardNumber": "079",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/treecko-stormfront-sf-79.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "253",
+    "pokemonName": "Reptain",
+    "set": "SF",
+    "cardNumber": "039",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/grovyle-stormfront-sf-39.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "254",
+    "pokemonName": "Gewaldro",
+    "set": "AR",
+    "cardNumber": "030",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/sceptile-arceus-ar-30.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "258",
+    "pokemonName": "Hydropi",
+    "set": "CG",
+    "cardNumber": "058",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/mudkip-crystal-guardians-cg-58.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "266",
+    "pokemonName": "Schaloko",
+    "set": "DP",
+    "cardNumber": "063",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/silcoon-diamond-pearl-dp-63.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "290",
+    "pokemonName": "Nincada",
+    "set": "DX",
+    "cardNumber": "067",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/nincada-deoxys-dx-67.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "304",
+    "pokemonName": "Stollunior",
+    "set": "MA",
+    "cardNumber": "058",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/en_US-EX4-058-team_magmas_aron.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "316",
+    "pokemonName": "Schluppuck",
+    "set": "AR",
+    "cardNumber": "040",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/gulpin-arceus-ar-40.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "343",
+    "pokemonName": "Puppance",
+    "set": "MA",
+    "cardNumber": "060",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/en_US-EX4-060-team_magmas_baltoy.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "394",
+    "pokemonName": "Pliprin",
+    "set": "DP",
+    "cardNumber": "058",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/prinplup-diamond-pearl-dp-58.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "411",
+    "pokemonName": "Bollterus",
+    "set": "PL",
+    "cardNumber": "020",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/bastiodon-platinum-pl-20.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "421",
+    "pokemonName": "Kinoso",
+    "set": "SF",
+    "cardNumber": "014",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/cherrim-stormfront-sf-14.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "434",
+    "pokemonName": "Skunkapuh",
+    "set": "SF",
+    "cardNumber": "076",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/stunky-stormfront-sf-76.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "440",
+    "pokemonName": "Wonneira",
+    "set": "PL",
+    "cardNumber": "076",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/happiny-platinum-pl-76.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "446",
+    "pokemonName": "Mampfaxo",
+    "set": "MD",
+    "cardNumber": "068",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/munchlax-majestic-dawn-md-68.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "449",
+    "pokemonName": "Hippopotas",
+    "set": "DP",
+    "cardNumber": "051",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/hippopotas-diamond-pearl-dp-51.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "483",
+    "pokemonName": "Dialga",
+    "set": "SWSH",
+    "cardNumber": "255",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_255_R_EN_LG.png",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "493",
+    "pokemonName": "Arceus",
+    "set": "SWSH",
+    "cardNumber": "307",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SP/SP_307_R_EN_LG.png",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "647",
+    "pokemonName": "Keldeo",
+    "set": "SCR",
+    "cardNumber": "GG07",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_GG7_R_DE_LG.png",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "728",
+    "pokemonName": "Robball",
+    "set": "MCD21",
+    "cardNumber": "023",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/en_US-MCD21-023-popplio.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "709",
+    "pokemonName": "Trombork",
+    "set": "S7R",
+    "cardNumber": "068",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/en_US-SWSH7-168-trevenant_v.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "741",
+    "pokemonName": "Choreogel",
+    "set": "S12A",
+    "cardNumber": "176",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S12a/S12a_176_R_JP_LG.png",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "791",
+    "pokemonName": "Solgaleo",
+    "set": "s8a",
+    "cardNumber": "016",
+    "imageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpc/S8a/S8a_16_R_JP_LG.png",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "795",
+    "pokemonName": "Schabelle",
+    "set": "CSM2bC",
+    "cardNumber": "003",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/en_US-SM10-001-pheromosa_buzzwole_gx.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "799",
+    "pokemonName": "Schlingking",
+    "set": "CSM25C",
+    "cardNumber": "037",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/en_US-SM12-158-naganadel_guzzlord_gx.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "880",
+    "pokemonName": "Lectragon",
+    "set": "CS2BC",
+    "cardNumber": "120",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/en_US-SF-SV045-dracozolt.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "856",
+    "pokemonName": "Brimova",
+    "set": "M24",
+    "cardNumber": "005",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/en_US-CP-018-hatenna.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "906",
+    "pokemonName": "Felori",
+    "set": "SVP",
+    "cardNumber": "191",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/svbsp_en_191_std.jpg",
+    "source": "manual-override"
+  },
+  {
+    "pokedexNumber": "909",
+    "pokemonName": "Krokel",
+    "set": "SVP",
+    "cardNumber": "192",
+    "imageUrl": "https://pkmncards.com/wp-content/uploads/svbsp_en_192_std.jpg",
+    "source": "manual-override"
+  }
+]

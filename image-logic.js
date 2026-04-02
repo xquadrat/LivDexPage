@@ -13,6 +13,19 @@ const languageCodes = {
   Polnisch: "PL"
 };
 
+const missingCardPlaceholderUrl = "assets/images/gonna-catch-them-all.svg";
+
+// Sucht einen manuellen Bild-Override fuer eine Karte.
+function getImageOverride(card) {
+  return imageOverrides.find((override) => {
+    return (
+      String(override.pokedexNumber) === String(card.pokedexNumber) &&
+      override.set === card.set &&
+      override.cardNumber === card.cardNumber
+    );
+  });
+}
+
 // Erkennt Karten, die sehr wahrscheinlich zur japanischen Bildlogik gehoeren.
 function isJapaneseLikeCard(card) {
   const language = String(card.language || "").trim();
@@ -114,6 +127,16 @@ function buildCardImageUrl(card, languageCode) {
 
 // Gibt moegliche Bild-URLs in sinnvoller Reihenfolge zurueck.
 function getCardImageCandidates(card) {
+  const imageOverride = getImageOverride(card);
+
+  if (imageOverride) {
+    return [imageOverride.imageUrl];
+  }
+
+  if (!card.isOwned) {
+    return [missingCardPlaceholderUrl];
+  }
+
   const preferredLanguageCode = languageCodes[card.language] || "";
   const candidates = [];
   const shouldTryJapanese = isJapaneseLikeCard(card);

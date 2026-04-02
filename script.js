@@ -40,6 +40,7 @@ let currentView = "all";
 let displayMode = "paged";
 let allCards = [];
 let pokemonData = [];
+let imageOverrides = [];
 
 // Gibt alle fehlenden Karten zurueck.
 function getMissingCards() {
@@ -277,8 +278,10 @@ function createCardElement(card) {
   const targetCardText = card.targetCardSet && card.targetCardNumber
     ? `${card.targetCardSet} ${card.targetCardNumber}`
     : "-";
+  const imageOverride = getImageOverride(card);
   const imageCandidates = getCardImageCandidates(card);
   const cardPageUrl = getCardPageUrl(card);
+  const imageSourceHint = imageOverride ? "Bild manuell zugewiesen" : "";
 
   cardElement.innerHTML = `
     <div class="card-image-wrapper">
@@ -288,7 +291,8 @@ function createCardElement(card) {
         <a class="card-link" href="${cardPageUrl}" target="_blank" rel="noopener noreferrer">Zur Kartenquelle</a>
       </div>
     </div>
-    <h3 class="card-title">${card.pokemonName}</h3>
+      ${imageSourceHint ? `<p class="card-image-source">${imageSourceHint}</p>` : ""}
+      <h3 class="card-title">${card.pokemonName}</h3>
     <p class="card-info"><strong>Kartenname:</strong> ${cardNameText}</p>
     <p class="card-info"><strong>Aktuelle Karte:</strong> ${currentCardText}</p>
     <p class="card-info"><strong>Zielkarte:</strong> ${targetCardText}</p>
@@ -379,10 +383,12 @@ function updatePaginationButtons(cards) {
 
 Promise.all([
   fetch("data/cards.json").then((response) => response.json()),
-  fetch("data/pokemon-data.json").then((response) => response.json())
-]).then(([cards, pokemon]) => {
+  fetch("data/pokemon-data.json").then((response) => response.json()),
+  fetch("data/image-overrides.json").then((response) => response.json())
+]).then(([cards, pokemon, overrides]) => {
   allCards = cards;
   pokemonData = pokemon;
+  imageOverrides = overrides;
   updateViewControls();
   updateActiveViewButton();
   updateDisplayModeButton();
